@@ -1,6 +1,0 @@
----
-language: "Vorathic"
-type: ""
-tags:
--
----
