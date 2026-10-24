@@ -1,4 +1,14 @@
-Below is the romanization for all languages in this vault
+---
+publish: true
+title: Romanization
+created: 2026-10-13T22:39:47.278Z
+modified: 2026-10-24T06:42:45.014Z
+tags:
+  - reference
+  - romanization
+---
+
+Here is a reference for the romanization used in the [[Eldaic]] and [[Vorathic]] languages.
 
 | IPA | Romanization |
 | --- | ------------ |
@@ -69,33 +79,3 @@ Below is the romanization for all languages in this vault
 | aː  | aa           |
 | ɑ   | à            |
 | ɑː  | aà           |
-# Glossing
-Below is a reference of glossing abbreviations.
-
-| Gloss | Meaning         |
-| ----- | --------------- |
-| GEN   | Genitive        |
-| ALL   | Allative        |
-| ABL   | Ablative        |
-| ILL   | Illative        |
-| 1     | 1st Person      |
-| 2     | 2nd Person      |
-| 3     | 3rd Person      |
-| SG    | Singular        |
-| PL    | Plural          |
-| PRS   | Present         |
-| PST   | Past            |
-| FUT   | Future          |
-| IMP   | Imperative      |
-| PASS  | Passive         |
-| ACT   | Active          |
-| LGT   | Light           |
-| DRK   | Dark            |
-| I-VII | Class I-VII     |
-| Q     | Question        |
-| INT   | Interogative    |
-| COP   | Copula          |
-| REL   | Relative Clause |
-| NEG   | Negative        |
-| REF   | Refusal         |
-| INDIF | Indifference    |
