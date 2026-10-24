@@ -4,7 +4,7 @@ aliases:
   - phonology
 title: Vorathic Phonology
 created: 2026-10-13T02:02:36.404Z
-modified: 2026-10-24T16:23:55.555Z
+modified: 2026-10-24T21:32:18.094Z
 tags:
   - phonology
 ---

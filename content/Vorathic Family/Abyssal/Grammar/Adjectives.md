@@ -6,18 +6,18 @@ aliases:
   - Adjective
 title: Abyssal Adjectives
 created: 2026-10-21T14:43:55.420Z
-modified: 2026-10-24T15:54:02.383Z
+modified: 2026-10-24T21:34:39.975Z
 tags:
   - grammar
   - adjective
   - WIP
 ---
 
-[[Abyssal]] has a group of stative [[Vorathic Family/Abyssal/Grammar/Verbs]] that perform the function of adjectival predicates. They are intransitive, by default, will take the present morphology. This is the basic method of describing any object. The past/future morphology can be used to indicate past/future state for the adjective being used.
+[[Vorathic Family/Abyssal/index|Abyssal]] has a group of stative [[Vorathic Family/Abyssal/Grammar/Verbs|verbs]] that perform the function of adjectival predicates. They are intransitive, by default, and take the present morphology. This is the basic method of describing any object. The past/future morphology can be used to indicate past/future state for the adjective being used.
 
 ### Placement
 
-An adjective can be used as a prenominal modifier. Do do so they appear in a [[Vorathic Family/Abyssal/Grammar/Relative Clauses|relative clause]]. See an example bellow:
+An adjective can be used as a prenominal modifier. To do so they appear in a [[Vorathic Family/Abyssal/Grammar/Relative Clauses|relative clause]]. See an example bellow:
 \_\*\*Note the word forms in this example are not real. They are made up and should be replaced once word forms are finaliz
 
 <table class="gloss">
