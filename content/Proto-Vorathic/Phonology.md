@@ -1,11 +1,15 @@
 ---
-language: Proto-Vorathic
-tags:
-  - phonology
-type: phonology
+publish: true
 aliases:
   - phonology
+title: Proto-Vorathic Phonology
+created: 2026-10-13T02:00:01.411Z
+modified: 2026-10-24T15:02:12.980Z
+tags:
+  - phonology
 ---
+
+The [[index|Proto-Vorathic]] phonology is has a very large number of vowels. The syllable structure is CV(C).  You can find a sound frequency chart below the consonant and vowel tables.
 
 | Consonants (20) | Labial | Dental | Alveolar | Palatal | Velar | Uvular | Glottal |
 | --------------- | ------ | ------ | -------- | ------- | ----- | ------ | ------- |
@@ -20,68 +24,31 @@ aliases:
 | Mid         | e, ɛ, ø | ə       | o    |
 | Low         | æ       |         | ɑ    |
 
-### Syllable Structure: CV(C)
+### Sound Frequency
 
-# Sound Frequency
-```dataviewjs
-// 1. Automatically pull the language from the current note's YAML frontmatter
-const currentNote = dv.current();
-const targetLanguage = currentNote ? currentNote.language : null;
-
-if (!targetLanguage) {
-    dv.paragraph("⚠️ **Error:** No `language` property found in this note's YAML frontmatter. Please add `language: \"Abyssal\"` (or your target language) to this page.");
-} else {
-    // 2. Fetch pages tagged with #lexicon and filter by that language
-    const pages = dv.pages("#lexicon").where(p => p.language === targetLanguage);
-
-    const wordCounts = {};       
-    const occurrenceCounts = {}; 
-
-    function extractSounds(ipaString) {
-        if (!ipaString) return [];
-        let cleaned = ipaString.replace(/[\s.ˈˌ]/g, "");
-        let sounds = [];
-        let i = 0;
-        while (i < cleaned.length) {
-            let char = cleaned[i];
-            let nextChar = cleaned[i + 1];
-            let twoChar = char + (nextChar || "");
-            
-            if (nextChar === "'" || twoChar === "t͡s" || twoChar === "t͡ʃ" || twoChar === "d͡ʒ") {
-                sounds.push(twoChar);
-                i += twoChar.length;
-            } else {
-                sounds.push(char);
-                i += 1;
-            }
-        }
-        return sounds;
-    }
-
-    for (let p of pages) {
-        if (p.ipa) {
-            const sounds = extractSounds(p.ipa);
-            
-            for (let sound of sounds) {
-                occurrenceCounts[sound] = (occurrenceCounts[sound] || 0) + 1;
-            }
-            
-            const uniqueSoundsInWord = [...new Set(sounds)];
-            for (let sound of uniqueSoundsInWord) {
-                wordCounts[sound] = (wordCounts[sound] || 0) + 1;
-            }
-        }
-    }
-
-    const allSounds = [...new Set([...Object.keys(occurrenceCounts), ...Object.keys(wordCounts)])];
-    allSounds.sort((a, b) => (occurrenceCounts[b] || 0) - (occurrenceCounts[a] || 0));
-
-    const tableData = allSounds.map(sound => [
-        `\`${sound}\``, 
-        wordCounts[sound] || 0,
-        occurrenceCounts[sound] || 0
-    ]);
-
-    dv.table([`Sound (${targetLanguage})`, "Word Count", "Total Occurrences"], tableData);
-}
-```
+|Sound (Proto-Vorathic)24|Word Count|Total Occurrences|
+|---|---|---|
+|`ɑ`|7|9|
+|`ɨ`|7|8|
+|`t`|5|5|
+|`h`|4|4|
+|`e`|3|4|
+|`b`|4|4|
+|`f`|4|4|
+|`w`|3|3|
+|`o`|3|3|
+|`p`|3|3|
+|`g`|3|3|
+|`v`|2|2|
+|`m`|2|2|
+|`z`|1|1|
+|`j`|1|1|
+|`ə`|1|1|
+|`ɦ`|1|1|
+|`y`|1|1|
+|`l`|1|1|
+|`æ`|1|1|
+|`k`|1|1|
+|`d`|1|1|
+|`n`|1|1|
+|`ɛ`|1|1|

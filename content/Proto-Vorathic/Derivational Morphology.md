@@ -1,16 +1,18 @@
 ---
-language: Proto-Vorathic
-type: morphology
-tags:
-  - morphology
-  - derivation
+publish: true
 aliases:
   - derivational morphology
   - Derivational morphology
   - derivation
+title: Proto-Vorathic Derivational Morphology
+created: 2026-10-23T21:35:34.296Z
+modified: 2026-10-24T15:03:01.781Z
+tags:
+  - morphology
+  - derivation
 ---
-# Derivational Morphology
-Derivational Morphology in `=this.language` relies primarily on root compounding. This is where 2 roots combine to form a new word. Below are the primary categories. 
+
+Derivational Morphology in [[index|Proto-Vorathic]] relies primarily on root compounding. This is where 2 roots combine to form a new word. Below are the primary categories.
 
 | Name         | Form          | Meaning                          | POS  |
 | ------------ | ------------- | -------------------------------- | ---- |
