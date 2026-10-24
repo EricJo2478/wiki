@@ -1,10 +1,19 @@
+---
+publish: true
+created: 2026-10-22T01:11:51.247Z
+modified: 2026-10-24T04:01:53.156Z
+---
+
 # Vorathic Family
-[[Proto-Vorathic]] evolves into [[Vorathic]] 
+
+[[Proto-Vorathic]] evolves into [[Vorathic]]
 [[Vorathic]] evolves into [[Abyssal]], [[Draconic]], and [[Grave Tongue]]
 [[Abyssal]] evolves into [[Infernal]]
 [[Draconic]] evolves into [[Wyrmic]]
 [[Grave Tongue]] evolves into [[Shade Cant]]
+
 # Eldaic Family
+
 [[Proto-Eldaic]] evolves into [[Eldaic]]
 [[Eldaic]] evolves into [[Fairish]] and [[Verdant]]
 [[Fairish]] evolves into [[Sylvan]]
