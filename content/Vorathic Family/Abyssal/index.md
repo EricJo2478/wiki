@@ -4,7 +4,7 @@ aliases:
   - Abyssal
 title: Abyssal
 created: 2026-10-12T21:25:12.025Z
-modified: 2026-10-24T21:29:28.966Z
+modified: 2026-10-24T22:55:14.874Z
 tags:
   - reference
 ---
@@ -15,19 +15,19 @@ Abyssal is a very head final SOV language. It features a consonant voicing harmo
 
 ##### Child languages
 
-- [[Infernal]]
+- [[Vorathic Family/Infernal/index|Infernal]]
 
-| File                                                          | POS                                         |
+| Word                                                          | POS                                         |
 | ------------------------------------------------------------- | ------------------------------------------- |
 | [[Vorathic Family/Abyssal/Lexicon/bag.md\|bag]]               | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Abyssal/Lexicon/ghëzab.md\|ghëzab]]         | <ul><li>Noun</li><li>Postposition</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/fat.md\|fat]]               | <ul><li>noun</li></ul>                      |
+| [[Vorathic Family/Abyssal/Lexicon/ghëzab.md\|ghëzab]]         | <ul><li>Noun</li><li>Postposition</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/ko.md\|ko]]                 | <ul><li>noun</li></ul>                      |
 | [[Vorathic Family/Abyssal/Lexicon/map.md\|map]]               | <ul><li>verb</li><li>postposition</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/pat.md\|pat]]               | <ul><li>noun</li></ul>                      |
+| [[Vorathic Family/Abyssal/Lexicon/t'a.md\|t'a]]               | <ul><li>Noun</li></ul>                      |
 | [[Vorathic Family/Abyssal/Lexicon/t'a'o.md\|t'a'o]]           | <ul><li>noun</li></ul>                      |
 | [[Vorathic Family/Abyssal/Lexicon/t'a'övëbëg.md\|t'a'övëbëg]] | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Abyssal/Lexicon/t'a.md\|t'a]]               | <ul><li>Noun</li></ul>                      |
 | [[Vorathic Family/Abyssal/Lexicon/ta.md\|ta]]                 | <ul><li>verb</li><li>postposition</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/tu.md\|tu]]                 | <ul><li>verb</li><li>postposition</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/vëbag.md\|vëbag]]           | <ul><li>noun</li></ul>                      |

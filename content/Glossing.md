@@ -2,13 +2,13 @@
 publish: true
 title: Glossing
 created: 2026-10-24T06:40:19.621Z
-modified: 2026-10-24T21:19:21.146Z
+modified: 2026-10-24T22:55:31.698Z
 tags:
   - gloss
   - reference
 ---
 
-Here is a reference for all the gloss markers used in the [[Eldaic]] and [[Vorathic Family/Vorathic/index|Vorathic]] languages.
+Here is a reference for all the gloss markers used in the [[Eldaic Family/Eldaic/index|Eldaic]] and [[Vorathic Family/Vorathic/index|Vorathic]] languages.
 
 | Gloss | Meaning         |
 | ----- | --------------- |

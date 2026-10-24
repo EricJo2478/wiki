@@ -2,7 +2,7 @@
 publish: true
 title: Homepage
 created: 2026-10-22T01:11:51.247Z
-modified: 2026-10-24T21:23:11.229Z
+modified: 2026-10-24T22:56:33.313Z
 ---
 
 Welcome to my conlanging wiki. This is a project where I develop 2 families of conlangs for my Fablehaven inspired Daggerheart campaign. Strong thank you goes to David Peterson and Jessie Sams at Langtime Studio. Their live streams helped me SO much when it came to learning conlanging. Without furthur ado let's take a look at how everything is structured.
@@ -15,17 +15,17 @@ Another important historical detail is that within this universe there are 5 mon
 
 The vorathic family is comprised of [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] which evolved directly into [[Vorathic Family/Vorathic/index|Vorathic]]. After this stage the family broke off into 3 groups, each with a parent language decended directly from [[Vorathic Family/Vorathic/index|Vorathic]] and a child language that decended from the parent.
 
-| Group   | Parent           | Child          |
-| ------- | ---------------- | -------------- |
-| Dragons | [[Draconic]]     | [[Wyrmic]]     |
-| Demons  | [[Vorathic Family/Abyssal/index]]      | [[Infernal]]   |
-| Undead  | [[Grave Tongue]] | [[Shade Cant]] |
+| Group   | Parent                                               | Child                                            |
+| ------- | ---------------------------------------------------- | ------------------------------------------------ |
+| Dragons | [[Vorathic Family/Draconic/index\|Draconic]]         | [[Vorathic Family/Wyrmic/index\|Wyrmic]]         |
+| Demons  | [[Vorathic Family/Abyssal/index\|Abyssal]]           | [[Vorathic Family/Infernal/index\|Infernal]]     |
+| Undead  | [[Vorathic Family/Grave Tongue/index\|Grave Tongue]] | [[Vorathic Family/Shade Cant/index\|Shade Cant]] |
 
 ##### The Eldaic Family
 
-The eldaic family is comprised of [[Proto-Eldaic]] which evolved directly into [[Eldaic]]. After this stage the family broke off into 2 groups, each with a parent language decended directly from [[Eldaic]] and a child language that decended from the parent.
+The eldaic family is comprised of [[Eldaic Family/Proto-Eldaic/index|Proto-Eldaic]] which evolved directly into [[Eldaic Family/Eldaic/index|Eldaic]]. After this stage the family broke off into 2 groups, each with a parent language decended directly from [[Eldaic Family/Eldaic/index|Eldaic]] and a child language that decended from the parent.
 
-| Group   | Parent      | Child      |
-| ------- | ----------- | ---------- |
-| Nature  | [[Verdant]] | [[Terran]] |
-| Fairies | [[Fairish]] | [[Sylvan]] |
+| Group   | Parent                                   | Child                                  |
+| ------- | ---------------------------------------- | -------------------------------------- |
+| Nature  | [[Eldaic Family/Verdant/index\|Verdant]] | [[Eldaic Family/Terran/index\|Terran]] |
+| Fairies | [[Eldaic Family/Fairish/index\|Fairish]] | [[Eldaic Family/Sylvan/index\|Sylvan]] |
