@@ -4,12 +4,12 @@ aliases:
   - phonology
 title: Proto-Vorathic Phonology
 created: 2026-10-13T02:00:01.411Z
-modified: 2026-10-24T15:02:12.980Z
+modified: 2026-10-24T16:22:03.643Z
 tags:
   - phonology
 ---
 
-The [[index|Proto-Vorathic]] phonology is has a very large number of vowels. The syllable structure is CV(C).  You can find a sound frequency chart below the consonant and vowel tables.
+The [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] phonology has a very large number of vowels. The syllable structure is CV(C).  You can find a sound frequency chart below the consonant and vowel tables.
 
 | Consonants (20) | Labial | Dental | Alveolar | Palatal | Velar | Uvular | Glottal |
 | --------------- | ------ | ------ | -------- | ------- | ----- | ------ | ------- |

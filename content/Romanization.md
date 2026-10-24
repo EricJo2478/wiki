@@ -2,13 +2,13 @@
 publish: true
 title: Romanization
 created: 2026-10-13T22:39:47.278Z
-modified: 2026-10-24T06:42:45.014Z
+modified: 2026-10-24T21:19:06.032Z
 tags:
   - reference
   - romanization
 ---
 
-Here is a reference for the romanization used in the [[Eldaic]] and [[Vorathic]] languages.
+Here is a reference for the romanization used in the [[Eldaic]] and [[Vorathic Family/Vorathic/index|Vorathic]] languages.
 
 | IPA | Romanization |
 | --- | ------------ |

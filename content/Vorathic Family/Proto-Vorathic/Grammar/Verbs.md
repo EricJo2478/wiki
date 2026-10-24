@@ -6,14 +6,14 @@ aliases:
   - Verb
 title: Proto-Vorathic Verbs
 created: 2026-10-23T18:04:08.264Z
-modified: 2026-10-24T15:54:14.969Z
+modified: 2026-10-24T21:19:41.197Z
 tags:
   - grammar
   - verb
   - WIP
 ---
 
-Verbs in [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] do a lot less heavy lifting than in [[Vorathic]] since they don't take any direct inflection. However there is a word order for the post verb auxiliaries. Seen below.
+Verbs in [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] do a lot less heavy lifting than in [[Vorathic Family/Vorathic/index|Vorathic]] since they don't take any direct inflection. However there is a word order for the post verb auxiliaries. Seen below.
 ROOT SUBJECT-CLASSIFIER OBJECT-CLASSIFIER VOICE POLARITY TENSE
 
 ### Transitivity

@@ -2,7 +2,7 @@
 publish: true
 title: Homepage
 created: 2026-10-22T01:11:51.247Z
-modified: 2026-10-24T15:54:15.047Z
+modified: 2026-10-24T21:18:53.766Z
 ---
 
 Welcome to my conlanging wiki. This is a project where I develop 2 families of conlangs for my Fablehaven inspired Daggerheart campaign. Strong thank you goes to David Peterson and Jessie Sams at Langtime Studio. Their live streams helped me SO much when it came to learning conlanging. Without furthur ado let's take a look at how everything is structured.
@@ -13,7 +13,7 @@ Another important historical detail is that within this universe there are 5 mon
 
 ##### The Vorathic Family
 
-The vorathic family is comprised of [[Vorathic Family/Proto-Vorathic/index]] which evolved directly into [[Vorathic]]. After this stage the family broke off into 3 groups, each with a parent language decended directly from [[Vorathic]] and a child language that decended from the parent.
+The vorathic family is comprised of [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] which evolved directly into [[Vorathic Family/Vorathic/index|Vorathic]]. After this stage the family broke off into 3 groups, each with a parent language decended directly from [[Vorathic Family/Vorathic/index|Vorathic]] and a child language that decended from the parent.
 
 | Group   | Parent           | Child          |
 | ------- | ---------------- | -------------- |

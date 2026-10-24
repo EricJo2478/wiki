@@ -4,19 +4,19 @@ aliases:
   - Proto-Vorathic
 title: Proto-Vorathic Overview
 created: 2026-10-13T01:01:23.787Z
-modified: 2026-10-24T15:54:15.064Z
+modified: 2026-10-24T16:02:05.270Z
 tags:
   - proto
   - reference
 ---
 
-This language is the original language of darkneess. It entered the mortal plane from a plane of darkness, through the void with first dark creatures. Overtime the language of proto-vorathic evolved into [[Vorathic]] and its subsequent child langauges. There are no longer any speakers of this lanuage in my world.
+This language is the original language of darkneess. It entered the mortal plane from a plane of darkness, through the void with first dark creatures. Overtime the language of proto-vorathic evolved into [[Vorathic Family/Vorathic/index|Vorathic]] and its subsequent child langauges. There are no longer any speakers of this lanuage in my world.
 
-This lanuage is a SOV head-final lanugage. You can see its [[Vorathic Family/Proto-Vorathic/Phonology]], [[Derivational Morphology]] and [[Vorathic Family/Proto-Vorathic/Grammar/index|grammar]] at these respective links. The below table shows all the words in this language.
+This lanuage is a SOV head-final lanugage. You can see its [[Vorathic Family/Proto-Vorathic/Phonology|phonology]], [[Vorathic Family/Proto-Vorathic/Derivational Morphology|derivational morphology]] and [[Vorathic Family/Proto-Vorathic/Grammar/index|grammar]] at these respective links. The below table shows all the words in this language.
 
 ##### Child Lanuages
 
-- [[Vorathic]]
+- [[Vorathic Family/Vorathic/index|Vorathic]]
 
 ##### Lexicon
 

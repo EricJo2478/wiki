@@ -8,14 +8,14 @@ aliases:
   - Releative clauses
 title: Proto-Vorathic Relative Clauses
 created: 2026-10-23T18:14:23.239Z
-modified: 2026-10-24T15:54:14.955Z
+modified: 2026-10-24T16:51:26.013Z
 tags:
   - grammar
   - relative-clause
   - WIP
 ---
 
-In [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] relative clauses appear directly before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] they modify. There are no relative [[Vorathic Family/Proto-Vorathic/Grammar/Pronouns]] or markings that signify a relative clause. Instead, a full and complete clause occurs directly before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] and serves as a its modifier with a gap in place for the target of the relative clause. The embedded [[Vorathic Family/Proto-Vorathic/Grammar/Verbs|verb]] will have a classifier matching with the target. Examples:
+In [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] relative clauses appear directly before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] they modify. There are no relative [[Vorathic Family/Proto-Vorathic/Grammar/Pronouns|pronouns]] or markings that signify a relative clause. Instead, a full and complete clause occurs directly before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] and serves as a its modifier with a gap in place for the target of the relative clause. The embedded [[Vorathic Family/Proto-Vorathic/Grammar/Verbs|verb]] will have a classifier matching with the target. Examples:
 
 _**Word forms are ALL created strictly for this example and not real Proto-Vorathic words**_
 Subject I
@@ -33,11 +33,11 @@ Subject I
   <tr>
     <td>zombie</td>
     <td>chase<span class="sc">.PRS</span></td>
-    <td>DRK<span class="sc">A</span></td>
-    <td>DRK<span class="sc">A</span></td>
+    <td><span class="sc">DRK</span></td>
+    <td><span class="sc">DRK</span></td>
     <td>demon</td>
     <td>scream<span class="sc">.PRS</span></td>
-    <td>DRK<span class="sc">A</span></td>
+    <td><span class="sc">DRK</span></td>
   </tr>
 </table>
 <p class="gloss-ft">“A demon who chases a zombie screams”</p>
