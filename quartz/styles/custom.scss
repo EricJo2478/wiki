@@ -60,4 +60,6 @@
 /* Class for specific inline words/phrases */
 .infernal {
   font-family: 'Infernal', sans-serif !important;
+  font-variant-ligatures: common-ligatures contextual !important;
+  font-feature-settings: "liga" 1, "clig" 1 !important;
 }
