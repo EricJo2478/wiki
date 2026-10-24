@@ -5,13 +5,11 @@ aliases:
   - adjectives
   - Adjective
 created: 2026-10-23T18:13:34.450Z
-modified: 2026-10-24T05:14:36.059Z
+modified: 2026-10-24T05:15:44.986Z
 tags:
   - grammar
   - adjective
 ---
-
-# Adjectives
 
 Proto-Vorathic has a group of stative [[Proto-Vorathic/Grammar/Verbs]] that perform the function of adjectival predicates. They are intransitive, by default, will take the present morphology. This is the basic method of describing any object. The past/future morphology can be used to indicate past/future state for the adjective being used.
 
