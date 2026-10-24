@@ -1,7 +1,9 @@
 ---
 publish: true
+title: Homepage
+description: Landing Page for Eric's Conlang Wiki
 created: 2026-10-22T01:11:51.247Z
-modified: 2026-10-24T04:01:53.156Z
+modified: 2026-10-24T04:12:18.905Z
 ---
 
 # Vorathic Family
