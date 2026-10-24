@@ -2,7 +2,7 @@
 publish: true
 title: Homepage
 created: 2026-10-22T01:11:51.247Z
-modified: 2026-10-24T23:22:03.802Z
+modified: 2026-10-24T23:29:23.725Z
 ---
 
 Welcome to my conlanging wiki. This is a project where I develop 2 families of conlangs for my Fablehaven inspired Daggerheart campaign. Strong thank you goes to David Peterson and Jessie Sams at Langtime Studio. Their live streams helped me SO much when it came to learning conlanging. Without furthur ado let's take a look at how everything is structured.
@@ -20,8 +20,6 @@ The vorathic family is comprised of [[Vorathic Family/Proto-Vorathic/index|Proto
 | Dragons | [[Vorathic Family/Draconic/index\|Draconic]]         | [[Vorathic Family/Wyrmic/index\|Wyrmic]]         |
 | Demons  | [[Vorathic Family/Abyssal/index\|Abyssal]]           | [[Vorathic Family/Infernal/index\|Infernal]]     |
 | Undead  | [[Vorathic Family/Grave Tongue/index\|Grave Tongue]] | [[Vorathic Family/Shade Cant/index\|Shade Cant]] |
-
-<h1 class="infernal">tako</h1>
 
 ##### The Eldaic Family
 
