@@ -1,0 +1,16 @@
+<%*
+let folder = tp.file.folder(true); let defaultLang = "Proto-Vorathic"; 
+if (folder.includes("Vorathic") && !folder.includes("Proto")) { 
+	defaultLang = "Vorathic"; 
+} else if (folder.includes("Abyssal")) { 
+	defaultLang = "Abyssal"; 
+} else if (folder.includes("Infernal")) { 
+	defaultLang = "Infernal"; 
+}
+-%>
+---
+language: "<% defaultLang %>"
+type: ""
+tags:
+- 
+---
