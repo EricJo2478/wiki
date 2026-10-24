@@ -1,3 +1,47 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+.gloss {
+  border-collapse: collapse !important;
+  border: none !important;
+  margin: 1.2rem 0 !important;
+  background: transparent !important;
+  font-family: inherit;
+}
+
+.gloss tr, .gloss td {
+  border: none !important;
+  background: transparent !important;
+}
+
+.gloss td {
+  padding: 0 1rem 0.2rem 0 !important;
+  white-space: nowrap;
+  vertical-align: top;
+}
+
+/* Row 1: Source morphemes (Italicized) */
+.gloss tr:nth-child(1) td {
+  font-style: normal;
+  font-weight: bold;
+}
+
+/* Row 2: Gloss translation (Normal lowercase text) */
+.gloss tr:nth-child(2) td {
+  color: var(--text-muted, var(--gray));
+  font-size: 0.95em;
+  font-style: normal;
+}
+
+/* Grammatical Category Tag (Forces true Small Caps for uppercase tokens) */
+.gloss .sc {
+  font-variant-caps: all-small-caps;
+  font-size: 1.05em;
+}
+
+/* Free Translation Line */
+.gloss-ft {
+  margin-top: 0.3rem !important;
+  margin-bottom: 1rem !important;
+  font-style: italic;
+  color: var(--text-normal);
+}
