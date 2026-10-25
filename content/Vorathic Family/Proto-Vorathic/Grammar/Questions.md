@@ -6,14 +6,14 @@ aliases:
   - Question
 title: Proto-Vorathic Questions
 created: 2026-10-23T18:20:19.965Z
-modified: 2026-10-24T15:54:14.937Z
+modified: 2026-10-25T17:37:11.238Z
 tags:
   - grammar
   - question
   - WIP
 ---
 
-To turn a sentence into a question in [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] you must add the particle xxxx to the end of the sentence.
+To turn a sentence into a question in [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] you must add the particle [[ngü]] to the end of the sentence.
 
 ### Polar Questions
 
@@ -23,10 +23,10 @@ It's that simple. Polar questions simply use the question particle at the end of
 
 These questions are slightly more complicated. As they should because they ask more complicated things. Though they still require the particle cause why not.
 
-What/Who will take the xxxx (mystery) word to replace the subject/object
+What/Who will take the [[hhüwï]] "mystery" word to replace the subject/object
 
-How/Why are simple adverbs, nothing fancy.
+[[ngükï|How]]/[[ngüpàg|Why]] are simple [[Vorathic Family/Proto-Vorathic/Grammar/Adverbs|adverbs]], nothing fancy.
 
-Where/Whose uses mystery combined with a locative or genitive postposition.
+Where/Whose uses [[hhüwï]] "mystery" combined with a locative or genitive postposition.
 
-Which functions similar to [[Vorathic Family/Proto-Vorathic/Grammar/Adjectives|adjectives]], coming before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] group it is restricted to and must agree with classifier.
+[[ngüwï|Which]] functions similar to [[Vorathic Family/Proto-Vorathic/Grammar/Adjectives|adjectives]], coming before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] group it is restricted to and must agree with classifier.

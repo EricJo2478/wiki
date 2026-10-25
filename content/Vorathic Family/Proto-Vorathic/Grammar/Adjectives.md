@@ -6,7 +6,7 @@ aliases:
   - Adjective
 title: Proto-Vorathic Adjectives
 created: 2026-10-23T18:13:34.450Z
-modified: 2026-10-24T15:54:14.782Z
+modified: 2026-10-25T17:04:26.169Z
 tags:
   - grammar
   - adjective
@@ -22,22 +22,22 @@ _**Note the word forms in this example are not real. They are made up and should
 
 <table class="gloss">
   <tr>
-    <td>mumu</td>
-    <td>tamo</td>
-    <td>tsu</td>
-    <td>tsutsu</td>
-    <td>ka</td>
-    <td>mu</td>
-    <td>tsu</td>
+    <td>loer</td>
+    <td>tàg</td>
+    <td>hhüte</td>
+    <td>tetàghhë</td>
+    <td>to</td>
+    <td>loer</td>
+    <td>tàghhë</td>
   </tr>
   <tr>
     <td>fairy</td>
     <td>to be strong</td>
-    <td><span class="sc">DRK</span></td>
+    <td><span class="sc">I</span></td>
     <td>demon</td>
     <td>attack.<span class="sc">PRS</span></td>
-    <td><span class="sc">LGT</span></td>
-    <td><span class="sc">DRK</span></td>
+    <td><span class="sc">III</span></td>
+    <td><span class="sc">I</span></td>
   </tr>
 </table>
 <p class="gloss-ft">“The fairy attacks the strong demon”</p>
@@ -45,13 +45,13 @@ _**Note the word forms in this example are not real. They are made up and should
 The comparison is done by saying that the Z kneels to the X's Y. See the example below.
 <table class="gloss">
   <tr>
-    <td>tsutsu</td>
-    <td>mumu</td>
-    <td>ko</td>
-    <td>he</td>
-    <td>zi</td>
-    <td>tsu</td>
-    <td>mu</td>
+    <td>loer</td>
+    <td>tetàghhë</td>
+    <td>sae</td>
+    <td>tàghhë</td>
+    <td>me</td>
+    <td>loer</td>
+    <td>tàghhë</td>
   </tr>
   <tr>
     <td>fairy</td>
@@ -59,8 +59,8 @@ The comparison is done by saying that the Z kneels to the X's Y. See the example
     <td><span class="sc">GEN</span></td>
     <td>strength</td>
     <td>kneel</td>
-    <td><span class="sc">LGT</span></td>
-    <td><span class="sc">DRK</span></td>
+    <td><span class="sc">III</span></td>
+    <td><span class="sc">I</span></td>
   </tr>
 </table>
 <p class="gloss-ft">“The demon is stronger than the fairy”</p>

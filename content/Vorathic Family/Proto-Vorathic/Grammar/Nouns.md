@@ -6,29 +6,29 @@ aliases:
   - Noun
 title: Proto-Vorathic Nouns
 created: 2026-10-23T17:31:30.622Z
-modified: 2026-10-24T15:54:14.882Z
+modified: 2026-10-25T17:31:55.908Z
 tags:
   - grammar
   - noun
   - WIP
 ---
 
-[[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] nouns are simple they do not inflect at all. Nouns are often, however, followed by a classifier word. Such "power" or "human". These classifiers also often ended up behind a [[Vorathic Family/Abyssal/Grammar/Verbs|verb]] just for extra clarity.
+[[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] nouns are simple they do not inflect at all. Nouns are often, however, followed by a classifier word. Such [[tàghhë]] or [[hè]]. These classifiers also often end up behind a [[Vorathic Family/Proto-Vorathic/Grammar/Verbs|verb]] just for extra clarity.
 
 ### Noun Gender
 
-Proto-Vorathic does not have inherint noun gender. Though the following 6 words are often used to classify nouns.
+[[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] does not have inherint noun gender. Though the following 6 words are often used to classify nouns. When used to classify a noun it is appended to the end of the noun.
 
-1. "Power" (to)
-2. "Undead" (hiɲ)
-3. "Fairy" (kɨg)
-4. "Human" (jɨv)
-5. "Corpse" (fəg)
-6. "Rock" (zɑ)
+1. "Power" ([[tàghhë]])
+2. "Undead" ([[hhüte]])
+3. "Fairy" ([[loer]])
+4. "Tool" ([[hè]])
+5. "Corpse" ([[wà]])
+6. "Rock" ([[hü]])
 
 ### Noun Function
 
-Proto-Vorathic has no inflected cases. They are marked using postpositions.
+[[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] has no inflected cases. They are marked using postpositions.
 
 ### Noun Number
 
@@ -36,9 +36,18 @@ There is no number distinction marked on nouns.
 
 ### Noun Possession
 
-The genitive postpostion is used to mark possession, coming after the possessor. The possessor comes before the possessee, with the possessee being the head of the genitive phrase. Examples:
+The [[sae|genitive postpostion]] is used to mark possession, coming after the possessor. The possessor comes before the possessee, with the possessee being the head of the genitive phrase. An example below
 
-- "human"           "human" ko "arm"      > "the human's arm"
-- "demon"           "demon" ko "arm"     > "the demon's arm"
-- "fairy"               "fairy" ko "arm"          > "the fairy's arm"
-- "I"                     "I" ko "arm"                > "my arm"
+<table class="gloss">
+  <tr>
+    <td>tehè</td>
+    <td>sae</td>
+    <td>vëhh</td>
+  </tr>
+  <tr>
+    <td>human</td>
+    <td><span class="sc">GEN</span></td>
+    <td>apple</td>
+  </tr>
+</table>
+<p class="gloss-ft">“a human's apple”</p>

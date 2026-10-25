@@ -20,30 +20,58 @@ This lanuage is a SOV head-final lanugage. You can see its [[Vorathic Family/Pro
 
 ##### Lexicon
 
-| Word                                                                     | POS                                         |
-| ------------------------------------------------------------------------ | ------------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/bàg.md\|bàg]]                   | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/bèw.md\|bèw]]                   | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/den.md\|den]]                   | <ul><li>-</li></ul>                        |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/fà.md\|fà]]                     | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/fàbàg.md\|fàbàg]]               | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/fëg.md\|fëg]]                   | <ul><li>-</li></ul>                        |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hiny.md\|hiny]]                 | <ul><li>-</li></ul>                        |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/kïg.md\|kïg]]                   | <ul><li>-</li></ul>                        |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/ko.md\|ko]]                     | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/lï.md\|lï]]                     | <ul><li>verb</li><li>postposition</li></ul> |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/maef.md\|maef]]                 | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/mïp.md\|mïp]]                   | <ul><li>verb</li><li>postposition</li></ul> |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/pïtï.md\|pïtï]]                 | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/të.md\|të]]                     | <ul><li>verb</li><li>postposition</li></ul> |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tehehhüfàpàg.md\|tehehhüfàpàg]] | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/Test.md\|Test]]                 | <ul><li>-</li></ul>                        |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tïhà.md\|tïhà]]                 | <ul><li>Noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tïhàwo.md\|tïhàwo]]             | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/to.md\|to]]                     | <ul><li>-</li></ul>                        |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/vï.md\|vï]]                     | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/wo.md\|wo]]                     | <ul><li>Noun</li></ul>                      |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/yeb.md\|yeb]]                   | <ul><li>Noun</li><li>Postposition</li></ul> |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/yïv.md\|yïv]]                   | <ul><li>-</li></ul>                        |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/zà.md\|zà]]                     | <ul><li>-</li></ul>                        |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/zïvàh.md\|zïvàh]]               | <ul><li>noun</li></ul>                      |
+| Word                                                                     | POS                                                |
+| ------------------------------------------------------------------------ | -------------------------------------------------- |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/bà.md\|bà]]                     | <ul><li>verb</li><li>auxiliary</li></ul>           |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/fà.md\|fà]]                     | <ul><li>noun</li><li>postposition</li></ul>        |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/fïg.md\|fïg]]                   | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/goe.md\|goe]]                   | <ul><li>verb</li><li>auxiliary</li></ul>           |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/he.md\|he]]                     | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hè.md\|hè]]                     | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hehhü.md\|hehhü]]               | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hhe.md\|hhe]]                   | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hhë.md\|hhë]]                   | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hhü.md\|hhü]]                   | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hhüte.md\|hhüte]]               | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hhüwï.md\|hhüwï]]               | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hü.md\|hü]]                     | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ki.md\|ki]]                     | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/kï.md\|kï]]                     | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/koe.md\|koe]]                   | <ul><li>adverb</li><li>demonstrative</li></ul>     |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/lë.md\|lë]]                     | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/lo.md\|lo]]                     | <ul><li>pronoun</li></ul>                          |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/loer.md\|loer]]                 | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/me.md\|me]]                     | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ngà.md\|ngà]]                   | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ngü.md\|ngü]]                   | -                                                 |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ngükï.md\|ngükï]]               | <ul><li>adverb</li></ul>                           |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ngüpàg.md\|ngüpàg]]             | <ul><li>adverb</li></ul>                           |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ngüwï.md\|ngüwï]]               | <ul><li>adverb</li></ul>                           |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/nyi.md\|nyi]]                   | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/nyoe.md\|nyoe]]                 | <ul><li>adverb</li><li>demonstrative</li></ul>     |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/pàg.md\|pàg]]                   | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/pu.md\|pu]]                     | <ul><li>verb</li><li>conjunction</li></ul>         |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/sae.md\|sae]]                   | <ul><li>noun</li><li>postposition</li></ul>        |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/su.md\|su]]                     | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tàg.md\|tàg]]                   | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tàghhë.md\|tàghhë]]             | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/te.md\|te]]                     | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/të.md\|të]]                     | <ul><li>noun</li><li>postposition</li></ul>        |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tehè.md\|tehè]]                 | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tehehhüfàpàg.md\|tehehhüfàpàg]] | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tetàghhë.md\|tetàghhë]]         | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ti.md\|ti]]                     | <ul><li>noun</li><li>postposition</li></ul>        |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/to.md\|to]]                     | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/vëhh.md\|vëhh]]                 | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/vi.md\|vi]]                     | <ul><li>verb</li><li>auxiliary</li></ul>           |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/voe.md\|voe]]                   | <ul><li>verb</li><li>auxiliary</li></ul>           |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/vu.md\|vu]]                     | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/vuhhüte.md\|vuhhüte]]           | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/wà.md\|wà]]                     | <ul><li>noun</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/wë.md\|wë]]                     | <ul><li>pronoun</li></ul>                          |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/wï.md\|wï]]                     | <ul><li>noun</li><li>pronoun</li></ul>             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/zae.md\|zae]]                   | <ul><li>noun</li><li>postposition</li></ul>        |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/zaete.md\|zaete]]               | <ul><li>postposition</li><li>conjunction</li></ul> |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/zoe.md\|zoe]]                   | <ul><li>verb</li></ul>                             |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/zoezae.md\|zoezae]]             | <ul><li>adverb</li><li>conjunction</li></ul>       |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/zun.md\|zun]]                   | <ul><li>noun</li></ul>                             |

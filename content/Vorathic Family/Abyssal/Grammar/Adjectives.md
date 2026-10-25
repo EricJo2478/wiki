@@ -6,7 +6,7 @@ aliases:
   - Adjective
 title: Abyssal Adjectives
 created: 2026-10-21T14:43:55.420Z
-modified: 2026-10-24T21:34:39.975Z
+modified: 2026-10-25T16:51:25.001Z
 tags:
   - grammar
   - adjective
@@ -22,7 +22,7 @@ An adjective can be used as a prenominal modifier. To do so they appear in a [[V
 
 <table class="gloss">
   <tr>
-    <td>mumu</td>
+    <td>loer</td>
     <td>tamo-tsu</td>
     <td>tsutsu</td>
     <td>ka-mu-tsu</td>

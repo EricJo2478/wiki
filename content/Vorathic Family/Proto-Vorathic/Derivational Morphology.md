@@ -6,7 +6,7 @@ aliases:
   - derivation
 title: Proto-Vorathic Derivational Morphology
 created: 2026-10-23T21:35:34.296Z
-modified: 2026-10-24T15:03:01.781Z
+modified: 2026-10-25T17:02:30.885Z
 tags:
   - morphology
   - derivation
@@ -19,7 +19,7 @@ Derivational Morphology in [[index|Proto-Vorathic]] relies primarily on root com
 | Agentive     | VERB+demon    | being who does VERB              | NOUN |
 | Locative     | VERB+place    | place where VERB happens         | NOUN |
 | Instrumental | VERB+tool     | thing used to do VERB            | NOUN |
-| Abstract     | ADJ+essence   | thing of ADJ quality             | NOUN |
+| Abstract     | ADJ+hhë       | thing of ADJ quality             | NOUN |
 | Augmentative | NOUN+mountain | bigger version of NOUN           | NOUN |
 | Diminutive   | NOUN+child    | smaller version of NOUN          | NOUN |
 | Causative    | ADJ+to push   | to cause ADJ quality on NOUN     | VERB |
