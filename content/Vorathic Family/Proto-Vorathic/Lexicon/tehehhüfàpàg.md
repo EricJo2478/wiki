@@ -2,7 +2,7 @@
 publish: true
 title: tehehhüfàpàg
 created: 2026-10-25T15:18:42.605Z
-modified: 2026-10-25T15:20:02.590Z
+modified: 2026-10-25T20:29:57.952Z
 tags:
   - lexicon
   - word
@@ -32,5 +32,6 @@ tags:
 
 ## Related Words (same root)
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+| File                                                       | POS                    | Meaning                   |
+| ---------------------------------------------------------- | ---------------------- | ------------------------- |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hehhü.md\|hehhü]] | <ul><li>verb</li></ul> | <ul><li>balance</li></ul> |

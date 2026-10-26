@@ -28,7 +28,7 @@ Abyssal is a very head final SOV language. It features a consonant voicing harmo
 | [[Vorathic Family/Abyssal/Lexicon/t'a.md\|t'a]]               | <ul><li>Noun</li></ul>                      |
 | [[Vorathic Family/Abyssal/Lexicon/t'a'o.md\|t'a'o]]           | <ul><li>noun</li></ul>                      |
 | [[Vorathic Family/Abyssal/Lexicon/t'a'övëbëg.md\|t'a'övëbëg]] | <ul><li>noun</li></ul>                      |
-| [[Vorathic Family/Abyssal/Lexicon/ta.md\|ta]]                 | <ul><li>verb</li><li>postposition</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/ta.md\|ta]]                 | <ul><li>postposition</li></ul>              |
 | [[Vorathic Family/Abyssal/Lexicon/tu.md\|tu]]                 | <ul><li>verb</li><li>postposition</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/vëbag.md\|vëbag]]           | <ul><li>noun</li></ul>                      |
 | [[Vorathic Family/Abyssal/Lexicon/zëva'.md\|zëva']]           | <ul><li>noun</li></ul>                      |

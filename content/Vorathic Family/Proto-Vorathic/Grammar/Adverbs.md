@@ -6,7 +6,7 @@ aliases:
   - Adverb
 title: Proto-Vorathic Adverbs
 created: 2026-10-21T14:12:00.227Z
-modified: 2026-10-25T17:14:13.981Z
+modified: 2026-10-25T20:12:18.573Z
 tags:
   - grammar
   - adverb
@@ -21,17 +21,17 @@ Manner adverbs evolved using this construction. Stative [[Vorathic Family/Proto-
 
 ### Locational
 
-Many place [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|nouns]] can be turned into locational adverbs by means of locative postpositions. There are 2 basic locational adverbs [[nyoe|here]] and [[koe|there]]. These often appear with the allative, ablative, and illative postpostions
+Many place [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|nouns]] can be turned into locational adverbs by means of locative postpositions. There are 2 basic locational adverbs [[ngoe|here]] and [[koe|there]]. These often appear with the allative, ablative, and illative postpostions
 
 |                 | Standard | Allative               | Ablative               | Illative               |
 | --------------- | -------- | ---------------------- | ---------------------- | ---------------------- |
-| Proximal (here) | [[nyoe]] | [[wï]] [[ti]] [[nyoe]] | [[wï]] [[të]] [[nyoe]] | [[wï]] [[fà]] [[nyoe]] |
+| Proximal (here) | [[ngoe]] | [[wï]] [[ti]] [[ngoe]] | [[wï]] [[të]] [[ngoe]] | [[wï]] [[fà]] [[ngoe]] |
 | Distal (there)  | [[koe]]  | [[wï]] [[ti]] [[koe]]  | [[wï]] [[të]] [[koe]]  | [[wï]] [[fà]] [[koe]]  |
-For the generic locative sense of [[nyoe]] or [[koe]] the standard form is used. Something like the allative would also be used for the locative for a standard place noun. These adverbs differ in that they are primarily used for motion or for emphasis.
+For the generic locative sense of [[ngoe]] or [[koe]] the standard form is used. Something like the allative would also be used for the locative for a standard place noun. These adverbs differ in that they are primarily used for motion or for emphasis.
 
 ### Temporal
 
-Temporal adverbs are constructed using the locational roots. When a root is followed by a locative postpostition it forms a temporal adverb construction. For example [[nyoe]] followed by the [[fà|illative postpostion]] would mean "now". More examples below.
+Temporal adverbs are constructed using the locational roots. When a root is followed by a locative postpostition it forms a temporal adverb construction. For example [[ngoe]] followed by the [[fà|illative postpostion]] would mean "now". More examples below.
 
 | Root  | Case Post. | Meaning        |
 | ----- | ---------- | -------------- |

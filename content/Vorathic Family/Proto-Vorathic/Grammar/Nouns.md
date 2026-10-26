@@ -6,7 +6,7 @@ aliases:
   - Noun
 title: Proto-Vorathic Nouns
 created: 2026-10-23T17:31:30.622Z
-modified: 2026-10-25T17:31:55.908Z
+modified: 2026-10-26T02:04:07.020Z
 tags:
   - grammar
   - noun
@@ -17,10 +17,11 @@ tags:
 
 ### Noun Gender
 
-[[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] does not have inherint noun gender. Though the following 6 words are often used to classify nouns. When used to classify a noun it is appended to the end of the noun.
+[[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] does not have inherint noun gender. Though the following 6 words are often used to classify nouns. When used to classify a noun it is appended to the end of the noun. For larger words this got simplfied into a mono-syllalic option. All the source root words then underwent semantic bleaching and have new derived forms for their meanings.
+_Note: Because the power suffix simplified power was not semantically bleached._
 
-1. "Power" ([[tàghhë]])
-2. "Undead" ([[hhüte]])
+1. "Power" ([[tàghhë]] > [[gë]])
+2. "Undead" ([[nod]])
 3. "Fairy" ([[loer]])
 4. "Tool" ([[hè]])
 5. "Corpse" ([[wà]])

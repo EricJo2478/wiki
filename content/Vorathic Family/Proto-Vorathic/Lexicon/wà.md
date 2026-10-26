@@ -2,7 +2,7 @@
 publish: true
 title: wà
 created: 2026-10-25T14:22:14.974Z
-modified: 2026-10-25T17:27:38.178Z
+modified: 2026-10-26T02:09:21.185Z
 tags:
   - lexicon
   - word

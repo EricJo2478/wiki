@@ -2,7 +2,7 @@
 publish: true
 title: Glossing
 created: 2026-10-24T06:40:19.621Z
-modified: 2026-10-24T22:55:31.698Z
+modified: 2026-10-25T21:04:28.302Z
 tags:
   - gloss
   - reference
@@ -16,6 +16,7 @@ Here is a reference for all the gloss markers used in the [[Eldaic Family/Eldaic
 | ALL   | Allative        |
 | ABL   | Ablative        |
 | ILL   | Illative        |
+| COM   | Comitative      |
 | 1     | 1st Person      |
 | 2     | 2nd Person      |
 | 3     | 3rd Person      |

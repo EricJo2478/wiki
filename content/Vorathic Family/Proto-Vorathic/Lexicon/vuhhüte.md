@@ -2,7 +2,7 @@
 publish: true
 title: vuhhüte
 created: 2026-10-25T16:36:24.069Z
-modified: 2026-10-25T16:44:40.789Z
+modified: 2026-10-26T14:35:31.229Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** vu.ɦy.te
 - **Part of Speech:** noun
-- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/vu.md|vu]]
+- **Root:** [[Vorathic Family/Vorathic/Lexicon/vu.md|vu]]
 
 ### Definitions
 
@@ -23,7 +23,7 @@ tags:
 
 - **Derivational Process:** classifier
 - **Proto-Form:**
-- **Historical Shift Notes:** Formed from a classifier by giving [[vu|child]] the [[hhü|undead]] classification.
+- **Historical Shift Notes:** Formed from a classifier by giving [[Vorathic Family/Proto-Vorathic/Lexicon/vu|child]] the [[hhü|undead]] classification.
 
 ## Usage & Examples
 

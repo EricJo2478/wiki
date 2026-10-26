@@ -2,7 +2,7 @@
 publish: true
 title: tàghhë
 created: 2026-10-25T16:17:26.199Z
-modified: 2026-10-25T17:26:45.786Z
+modified: 2026-10-26T14:35:17.483Z
 tags:
   - lexicon
   - word

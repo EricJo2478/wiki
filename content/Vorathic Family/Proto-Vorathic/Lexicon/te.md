@@ -32,8 +32,8 @@ tags:
 
 ## Related Words (same root)
 
-| File                                                             | POS                    | Meaning                                   |
-| ---------------------------------------------------------------- | ---------------------- | ----------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tetàghhë.md\|tetàghhë]] | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>                   |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tehè.md\|tehè]]         | <ul><li>noun</li></ul> | <ul><li>human</li><li>mortal</li></ul>    |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hhüte.md\|hhüte]]       | <ul><li>noun</li></ul> | <ul><li>undead</li><li>class II</li></ul> |
+| File                                                       | POS                    | Meaning                                |
+| ---------------------------------------------------------- | ---------------------- | -------------------------------------- |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hhüte.md\|hhüte]] | <ul><li>noun</li></ul> | <ul><li>undead</li></ul>               |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tegë.md\|tegë]]   | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>                |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tehè.md\|tehè]]   | <ul><li>noun</li></ul> | <ul><li>human</li><li>mortal</li></ul> |

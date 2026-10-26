@@ -2,7 +2,7 @@
 publish: true
 title: hhüte
 created: 2026-10-25T16:27:18.647Z
-modified: 2026-10-25T17:26:17.720Z
+modified: 2026-10-26T02:05:00.445Z
 tags:
   - lexicon
   - word
@@ -32,8 +32,8 @@ tags:
 
 ## Related Words (same root)
 
-| File                                                             | POS                    | Meaning                                |
-| ---------------------------------------------------------------- | ---------------------- | -------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/te.md\|te]]             | <ul><li>noun</li></ul> | <ul><li>being</li></ul>                |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tetàghhë.md\|tetàghhë]] | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>                |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tehè.md\|tehè]]         | <ul><li>noun</li></ul> | <ul><li>human</li><li>mortal</li></ul> |
+| File                                                     | POS                    | Meaning                                |
+| -------------------------------------------------------- | ---------------------- | -------------------------------------- |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/te.md\|te]]     | <ul><li>noun</li></ul> | <ul><li>being</li></ul>                |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tegë.md\|tegë]] | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>                |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tehè.md\|tehè]] | <ul><li>noun</li></ul> | <ul><li>human</li><li>mortal</li></ul> |

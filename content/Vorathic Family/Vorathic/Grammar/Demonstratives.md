@@ -6,7 +6,7 @@ aliases:
   - Demonstrative
 title: Vorathic Demonstratives
 created: 2026-10-23T20:58:31.175Z
-modified: 2026-10-24T16:36:34.390Z
+modified: 2026-10-26T03:18:37.765Z
 tags:
   - grammar
   - demonstrative
@@ -15,6 +15,6 @@ tags:
 
 # Demonstratives
 
-Demonstratives in [[Vorathic Family/Vorathic/index|Vorathic]] are simple. At the end of a [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] phrase you can place the particles _xxxx_ or _xxxx_ to mean proximal or distal respectively.
+Demonstratives in [[Vorathic Family/Vorathic/index|Vorathic]] are simple. At the end of a [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] phrase you can place the particles [[ngo]] or [[ko]] to mean proximal or distal respectively.
 
 _Note that these are also used as locational [[Vorathic Family/Vorathic/Grammar/Adverbs|adverbs]]_

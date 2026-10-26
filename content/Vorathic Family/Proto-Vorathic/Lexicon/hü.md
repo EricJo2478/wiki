@@ -2,7 +2,7 @@
 publish: true
 title: hü
 created: 2026-10-25T14:29:38.291Z
-modified: 2026-10-25T17:27:51.568Z
+modified: 2026-10-26T02:09:28.382Z
 tags:
   - lexicon
   - word

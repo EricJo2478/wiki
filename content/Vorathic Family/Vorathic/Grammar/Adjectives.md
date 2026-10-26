@@ -6,7 +6,7 @@ aliases:
   - Adjective
 title: Vorathic Adjectives
 created: 2026-10-23T17:09:51.757Z
-modified: 2026-10-24T16:29:21.205Z
+modified: 2026-10-26T02:40:12.633Z
 tags:
   - grammar
   - adjective
@@ -18,20 +18,19 @@ tags:
 ### Placement
 
 An adjective can be used as a prenominal modifier. To do so they appear in a [[Vorathic Family/Vorathic/Grammar/Relative Clauses|relative clause]]. See an example bellow:
-_**Note the word forms in this example are not real. They are made up and should be replaced once word forms are finalized**_
 
 <table class="gloss">
   <tr>
-    <td>mumu</td>
-    <td>tamo-tsu</td>
-    <td>tsutsu</td>
-    <td>ka-mu-tsu</td>
+    <td>two</td>
+    <td>tag-a</td>
+    <td>toga</td>
+    <td>to-lor-ga</td>
   </tr>
   <tr>
     <td>fairy</td>
-    <td>to be strong<span class="sc">-DRK</span></td>
+    <td>to be strong<span class="sc">.PRS-I</span></td>
     <td>demon</td>
-    <td>attack<span class="sc">.PRS-LGT-DRK</span></td>
+    <td>attack<span class="sc">.PRS-III-I</span></td>
   </tr>
 </table>
 <p class="gloss-ft">“The fairy attacks the strong demon”</p>
@@ -39,17 +38,18 @@ _**Note the word forms in this example are not real. They are made up and should
 The comparison is done by saying that the Z kneels to the X's Y see and example below.
 <table class="gloss">
   <tr>
-    <td>tsutsu</td>
-    <td>mumu-ko</td>
-    <td>he</td>
-    <td>zi-tsu-mu</td>
+    <td>two</td>
+    <td>toga</td>
+    <td>sa</td>
+    <td>taga</td>
+    <td>mo-lor-ga</td>
   </tr>
   <tr>
     <td>fairy</td>
-    <td>demon<span class="sc">-GEN</span></td>
+    <td>demon</td>
+    <td><span class="sc">GEN</span></td>
     <td>strength</td>
-    <td>kneel<span class="sc">-LGT-DRK</span></td>
+    <td>kneel<span class="sc">-III-I</span></td>
   </tr>
 </table>
 <p class="gloss-ft">“The demon is stronger than the fairy”</p>
-_**Note these word forms are not real, made up for the example**_

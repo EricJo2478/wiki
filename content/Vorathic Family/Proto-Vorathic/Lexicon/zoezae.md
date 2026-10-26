@@ -2,18 +2,16 @@
 publish: true
 title: zoezae
 created: 2026-10-25T15:15:38.870Z
-modified: 2026-10-25T17:20:30.825Z
+modified: 2026-10-25T21:08:36.526Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="proto-vorathic"></span>
-
-* **Pronunciation (IPA):** zø.zæ
-* **Part of Speech:** adverb,conjunction
-* **Root:** zae
+- **Pronunciation (IPA):** zø.zæ
+- **Part of Speech:** adverb,conjunction
+- **Root:** zae
 
 ### Definitions
 

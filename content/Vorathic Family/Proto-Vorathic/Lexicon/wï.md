@@ -32,7 +32,7 @@ tags:
 
 ## Related Words (same root)
 
-| File                                                       | POS                      | Meaning                                   |
-| ---------------------------------------------------------- | ------------------------ | ----------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/ngüwï.md\|ngüwï]] | <ul><li>adverb</li></ul> | <ul><li>which</li></ul>                   |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hhüwï.md\|hhüwï]] | <ul><li>noun</li></ul>   | <ul><li>mystery</li><li>unknown</li></ul> |
+| File                                                       | POS                      | Meaning                                                            |
+| ---------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------ |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ngüwï.md\|ngüwï]] | <ul><li>adverb</li></ul> | <ul><li>which</li></ul>                                            |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hhüwï.md\|hhüwï]] | <ul><li>noun</li></ul>   | <ul><li>mystery</li><li>unknown</li><li>what</li><li>who</li></ul> |

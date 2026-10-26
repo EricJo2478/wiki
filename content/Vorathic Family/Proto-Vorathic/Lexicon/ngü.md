@@ -2,7 +2,7 @@
 publish: true
 title: ngü
 created: 2026-10-25T14:44:42.303Z
-modified: 2026-10-25T17:34:48.119Z
+modified: 2026-10-25T20:07:28.815Z
 tags:
   - lexicon
   - word

@@ -2,7 +2,7 @@
 publish: true
 title: loer
 created: 2026-10-25T16:00:40.636Z
-modified: 2026-10-25T17:27:02.384Z
+modified: 2026-10-26T02:09:00.489Z
 tags:
   - lexicon
   - word

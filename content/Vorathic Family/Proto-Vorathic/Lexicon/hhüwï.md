@@ -2,13 +2,11 @@
 publish: true
 title: hhüwï
 created: 2026-10-25T16:24:34.558Z
-modified: 2026-10-25T17:36:00.085Z
+modified: 2026-10-25T19:52:31.027Z
 tags:
   - lexicon
   - word
   - WIP
-  - what
-  - who
 ---
 
 - **Pronunciation (IPA):** ɦy.wɨ

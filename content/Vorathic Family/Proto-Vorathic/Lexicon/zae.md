@@ -36,5 +36,5 @@ tags:
 
 | File                                                         | POS                                                | Meaning                               |
 | ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/zoezae.md\|zoezae]] | <ul><li>adverb</li><li>conjunction</li></ul>       | <ul><li>also</li><li>and</li></ul>    |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/zaete.md\|zaete]]   | <ul><li>postposition</li><li>conjunction</li></ul> | <ul><li>against</li><li>but</li></ul> |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/zoezae.md\|zoezae]] | <ul><li>adverb</li><li>conjunction</li></ul>       | <ul><li>also</li><li>and</li></ul>    |

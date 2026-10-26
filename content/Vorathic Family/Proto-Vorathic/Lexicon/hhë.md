@@ -32,6 +32,6 @@ tags:
 
 ## Related Words (same root)
 
-| File                                                         | POS                    | Meaning                                                  |
-| ------------------------------------------------------------ | ---------------------- | -------------------------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tàghhë.md\|tàghhë]] | <ul><li>noun</li></ul> | <ul><li>power</li><li>strength</li><li>class I</li></ul> |
+| File                                                         | POS                    | Meaning                                  |
+| ------------------------------------------------------------ | ---------------------- | ---------------------------------------- |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tàghhë.md\|tàghhë]] | <ul><li>noun</li></ul> | <ul><li>power</li><li>strength</li></ul> |

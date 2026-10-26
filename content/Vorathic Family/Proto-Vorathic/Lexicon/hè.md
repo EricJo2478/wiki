@@ -2,7 +2,7 @@
 publish: true
 title: hè
 created: 2026-10-25T14:26:42.970Z
-modified: 2026-10-25T17:27:24.851Z
+modified: 2026-10-26T02:09:14.189Z
 tags:
   - lexicon
   - word
