@@ -4,7 +4,7 @@ aliases:
   - phonology
 title: Infernal Phonology
 created: 2026-10-13T02:34:21.580Z
-modified: 2026-10-24T22:08:14.946Z
+modified: 2026-10-28T02:42:35.689Z
 tags:
   - phonology
 ---
@@ -15,7 +15,7 @@ The [[Vorathic Family/Abyssal/index|Infernal]] phonology has a very small vowel 
 | --------------- | ---------- | ------ | -------------- | ------- | ---------- | ------ | ------- |
 | Stops           | p / b / p' |        | t / d / t', ts |         | k / g / k' | q / ɢ  | ʔ       |
 | Fricatives      | f / v      |        | s / z          |         |            | ʁ      |         |
-| Approximates    | w          |        | l              |         |            |        |         |
+| Approximates    |            |        |                |         |            |        |         |
 | Nasals          | m          |        | n              |         | ŋ          |        |         |
 
 | Vowels (3) | Front | Central | Back |
@@ -33,7 +33,10 @@ Dataview: No results to show for table query.
 
 ### Sound Changes
 
-| Name              | Change                                                  |
-| ----------------- | ------------------------------------------------------- |
-| Vowel Shift Again | `ɔ`, `ʊ`, and `ə` become `a`, `o`, and `e` respectively |
-| Uvular Voicing    | `χ` becomes `ʁ` universally                             |
+| Name               | Change                                                 |
+| ------------------ | ------------------------------------------------------ |
+| Uvular Blocking    | `ɔ` becomes `o` adjacent to uvulars                    |
+| Palatal Attraction | `ʊ` becomes `e` adjacent to alveolar stops/fricatives  |
+| Back Lowering      | `ɔ` and `ʊ` become `a` and `o` respectively universaly |
+| Central Fronting   | `ə` becomes `e` universally                            |
+| Uvular Voicing     | `χ` becomes `ʁ` universally                            |

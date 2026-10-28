@@ -8,14 +8,14 @@ aliases:
   - Releative clauses
 title: Vorathic Relative Clauses
 created: 2026-10-23T17:10:48.483Z
-modified: 2026-10-26T04:26:01.754Z
+modified: 2026-10-28T17:47:43.493Z
 tags:
   - grammar
   - relative-clause
   - WIP
 ---
 
-In [[Vorathic Family/Vorathic/index|Vorathic]] relative clauses appear directly before the [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] they modify. There are no relative [[Vorathic Family/Vorathic/Grammar/Pronouns|pronouns]] or markings that signify a relative clause. Instead, a full and complete clause occurs directly before the [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] and serves as its modifier with a gap in place for the target of the relative clause. The embedded [[Vorathic Family/Vorathic/Grammar/Verbs|verb]] will agree with the target. Examples:
+In [[Vorathic Family/Vorathic/index|Vorathic]] relative clauses appear directly before the [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] they modify. There are no relative [[Vorathic Family/Vorathic/Grammar/Pronouns|pronouns]] or markings that signify a relative clause. Instead, a full and complete clause occurs directly before the [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] and serves as its modifier with a gap in place for the target of the relative clause. The embedded [[Vorathic Family/Vorathic/Grammar/Verbs|verb]] will agree with the target. Note that for possession the [[sa|genitive postposition]] comes at the beginnin of the relative clause. Examples:
 
 Subject I
 
@@ -101,17 +101,17 @@ Possession
 
 <table class="gloss">
   <tr>
+    <td>sa</td>
     <td>vu'uto</td>
     <td>wo-nod</td>
     <td>toga</td>
-    <td>sa</td>
     <td>ngu-ga</td>
   </tr>
   <tr>
+    <td><span class="sc">GEN</span></td>
     <td>zombie</td>
     <td>run<span class="sc">.PRS-II</span></td>
     <td>demon</td>
-    <td><span class="sc">GEN</span></td>
     <td>scream<span class="sc">.PRS-I</span></td>
   </tr>
 </table>

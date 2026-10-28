@@ -25,6 +25,7 @@ In this area we will break down the different parts of speech in [[Vorathic Fami
 | [[Vorathic Family/Proto-Vorathic/Lexicon/loer.md\|loer]]                 | <ul><li>class III</li></ul>                                        |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/ngà.md\|ngà]]                   | <ul><li>place</li></ul>                                            |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/sae.md\|sae]]                   | <ul><li>hand</li><li>genitive</li></ul>                            |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/soengà.md\|soengà]]             | <ul><li>empty</li><li>nothing</li></ul>                            |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/tàghhë.md\|tàghhë]]             | <ul><li>power</li><li>strength</li></ul>                           |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/te.md\|te]]                     | <ul><li>being</li></ul>                                            |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/të.md\|të]]                     | <ul><li>back</li><li>ablative</li></ul>                            |
@@ -56,7 +57,6 @@ In this area we will break down the different parts of speech in [[Vorathic Fami
 | ------------------------------------------------------------ | ------------------------------------------------ |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/bà.md\|bà]]         | <ul><li>suffer</li><li>passive voice</li></ul>   |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/fïg.md\|fïg]]       | <ul><li>give</li></ul>                           |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/goe.md\|goe]]       | <ul><li>fail</li><li>negative polarity</li></ul> |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/he.md\|he]]         | <ul><li>light</li><li>bright</li></ul>           |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/hehhü.md\|hehhü]]   | <ul><li>balance</li></ul>                        |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/hhe.md\|hhe]]       | <ul><li>run</li></ul>                            |
@@ -69,13 +69,16 @@ In this area we will break down the different parts of speech in [[Vorathic Fami
 | [[Vorathic Family/Proto-Vorathic/Lexicon/ngükï.md\|ngükï]]   | <ul><li>how</li></ul>                            |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/ngüpàg.md\|ngüpàg]] | <ul><li>why</li></ul>                            |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/ngüwï.md\|ngüwï]]   | <ul><li>which</li></ul>                          |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ni.md\|ni]]         | <ul><li>remember</li><li>past tense</li></ul>    |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/nyi.md\|nyi]]       | <ul><li>scream</li></ul>                         |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/pàg.md\|pàg]]       | <ul><li>cause</li></ul>                          |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/soe.md\|soe]]       | <ul><li>fail</li><li>negative polarity</li></ul> |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/su.md\|su]]         | <ul><li>push</li></ul>                           |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/tàg.md\|tàg]]       | <ul><li>strong</li></ul>                         |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tësu.md\|tësu]]     | <ul><li>to refuse</li></ul>                      |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/to.md\|to]]         | <ul><li>attack</li></ul>                         |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/vi.md\|vi]]         | <ul><li>remember</li><li>past tense</li></ul>    |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/voe.md\|voe]]       | <ul><li>plot</li><li>future tense</li></ul>      |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/yaeh.md\|yaeh]]     | <ul><li>to bind</li><li>to be bound</li></ul>    |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/zoezae.md\|zoezae]] | <ul><li>also</li><li>and</li></ul>               |
 
 # Auxiliaries
@@ -83,19 +86,20 @@ In this area we will break down the different parts of speech in [[Vorathic Fami
 | Word                                                   | Meaning                                          |
 | ------------------------------------------------------ | ------------------------------------------------ |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/bà.md\|bà]]   | <ul><li>suffer</li><li>passive voice</li></ul>   |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/goe.md\|goe]] | <ul><li>fail</li><li>negative polarity</li></ul> |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/vi.md\|vi]]   | <ul><li>remember</li><li>past tense</li></ul>    |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/ni.md\|ni]]   | <ul><li>remember</li><li>past tense</li></ul>    |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/soe.md\|soe]] | <ul><li>fail</li><li>negative polarity</li></ul> |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/voe.md\|voe]] | <ul><li>plot</li><li>future tense</li></ul>      |
 
 # Statives
 
-| Word                                                       | Meaning                                 |
-| ---------------------------------------------------------- | --------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/he.md\|he]]       | <ul><li>light</li><li>bright</li></ul>  |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hehhü.md\|hehhü]] | <ul><li>balance</li></ul>               |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hhü.md\|hhü]]     | <ul><li>darkness</li><li>dark</li></ul> |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hoe.md\|hoe]]     | <ul><li>many</li><li>lots</li></ul>     |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tàg.md\|tàg]]     | <ul><li>strong</li></ul>                |
+| Word                                                       | Meaning                                       |
+| ---------------------------------------------------------- | --------------------------------------------- |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/he.md\|he]]       | <ul><li>light</li><li>bright</li></ul>        |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hehhü.md\|hehhü]] | <ul><li>balance</li></ul>                     |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hhü.md\|hhü]]     | <ul><li>darkness</li><li>dark</li></ul>       |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/hoe.md\|hoe]]     | <ul><li>many</li><li>lots</li></ul>           |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/tàg.md\|tàg]]     | <ul><li>strong</li></ul>                      |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/yaeh.md\|yaeh]]   | <ul><li>to bind</li><li>to be bound</li></ul> |
 
 # Adverbs
 

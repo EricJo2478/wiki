@@ -32,6 +32,7 @@ tags:
 
 ## Related Words (same root)
 
-| File                                               | POS                    | Meaning                 |
-| -------------------------------------------------- | ---------------------- | ----------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/toga.md\|toga]] | <ul><li>noun</li></ul> | <ul><li>demon</li></ul> |
+| File                                               | POS                    | Meaning                                |
+| -------------------------------------------------- | ---------------------- | -------------------------------------- |
+| [[Vorathic Family/Vorathic/Lexicon/toga.md\|toga]] | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>                |
+| [[Vorathic Family/Vorathic/Lexicon/t'o.md\|t'o]]   | <ul><li>noun</li></ul> | <ul><li>human</li><li>mortal</li></ul> |

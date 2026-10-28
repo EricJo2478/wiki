@@ -6,7 +6,7 @@ aliases:
   - Pronoun
 title: Vorathic Pronouns
 created: 2026-10-19T15:40:09.622Z
-modified: 2026-10-26T14:43:16.166Z
+modified: 2026-10-28T16:44:45.811Z
 tags:
   - grammar
   - pronoun

@@ -32,6 +32,6 @@ tags:
 
 ## Related Words (same root)
 
-| File                                             | POS                            | Meaning                    |
-| ------------------------------------------------ | ------------------------------ | -------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/tsu.md\|tsu]] | <ul><li>postposition</li></ul> | <ul><li>allative</li></ul> |
+| File                                             | POS                                         | Meaning                    |
+| ------------------------------------------------ | ------------------------------------------- | -------------------------- |
+| [[Vorathic Family/Vorathic/Lexicon/tsu.md\|tsu]] | <ul><li>postposition</li><li>verb</li></ul> | <ul><li>allative</li></ul> |

@@ -32,6 +32,7 @@ tags:
 
 ## Related Words (same root)
 
-| File                                             | POS                    | Meaning                               |
-| ------------------------------------------------ | ---------------------- | ------------------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/wto.md\|wto]] | <ul><li>noun</li></ul> | <ul><li>fairy</li><li>enemy</li></ul> |
+| File                                             | POS                    | Meaning                                |
+| ------------------------------------------------ | ---------------------- | -------------------------------------- |
+| [[Vorathic Family/Vorathic/Lexicon/wto.md\|wto]] | <ul><li>noun</li></ul> | <ul><li>fairy</li><li>enemy</li></ul>  |
+| [[Vorathic Family/Vorathic/Lexicon/t'o.md\|t'o]] | <ul><li>noun</li></ul> | <ul><li>human</li><li>mortal</li></ul> |

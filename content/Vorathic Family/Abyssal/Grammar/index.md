@@ -2,7 +2,7 @@
 publish: true
 title: Abyssal Grammar
 created: 2026-10-24T21:29:40.863Z
-modified: 2026-10-24T21:43:31.090Z
+modified: 2026-10-28T16:42:09.768Z
 tags:
   - grammar
 ---
@@ -21,6 +21,7 @@ Welcome to the [[Vorathic Family/Abyssal/index|Abyssal]] grammar! This language 
 ##### Other Grammar
 
 - [[Vorathic Family/Abyssal/Grammar/Cases|Cases]]
+- [[Vorathic Family/Abyssal/Grammar/Conjugation|Conjugation]]
 - [[Vorathic Family/Abyssal/Grammar/Coordination|Coordination]]
 - [[Vorathic Family/Abyssal/Grammar/Classes|Noun Classes]]
 - [[Vorathic Family/Abyssal/Grammar/Numbers|Numbers]]

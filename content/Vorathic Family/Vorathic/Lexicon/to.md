@@ -2,7 +2,7 @@
 publish: true
 title: to
 created: 2026-10-25T20:25:29.817Z
-modified: 2026-10-26T14:17:25.986Z
+modified: 2026-10-28T15:28:11.697Z
 tags:
   - lexicon
   - word
@@ -18,12 +18,6 @@ tags:
 ### Definitions
 
 -
-
----
-
-## Conjugation
-
-To conjugate this verb see [[Conjugation]].
 
 ---
 

@@ -8,14 +8,14 @@ aliases:
   - Releative clauses
 title: Proto-Vorathic Relative Clauses
 created: 2026-10-23T18:14:23.239Z
-modified: 2026-10-25T17:52:00.488Z
+modified: 2026-10-28T17:48:17.394Z
 tags:
   - grammar
   - relative-clause
   - WIP
 ---
 
-In [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] relative clauses appear directly before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] they modify. There are no relative [[Vorathic Family/Proto-Vorathic/Grammar/Pronouns|pronouns]] or markings that signify a relative clause. Instead, a full and complete clause occurs directly before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] and serves as a its modifier with a gap in place for the target of the relative clause. The embedded [[Vorathic Family/Proto-Vorathic/Grammar/Verbs|verb]] will have a classifier matching with the target. Examples:
+In [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] relative clauses appear directly before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] they modify. There are no relative [[Vorathic Family/Proto-Vorathic/Grammar/Pronouns|pronouns]] or markings that signify a relative clause. Instead, a full and complete clause occurs directly before the [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|noun]] and serves as a its modifier with a gap in place for the target of the relative clause. The embedded [[Vorathic Family/Proto-Vorathic/Grammar/Verbs|verb]] will have a classifier matching with the target. Note that for possession the [[sae|genitive postposition]] comes at the beginnin of the relative clause. Examples:
 
 Subject I
 
@@ -127,20 +127,20 @@ Possession
 
 <table class="gloss">
   <tr>
+    <td>sae</td>
     <td>vuhhüte</td>
     <td>hhe</td>
     <td>hhüte</td>
     <td>tetàghhë</td>
-    <td>sae</td>
     <td>nyi</td>
     <td>tàghhë</td>
   </tr>
   <tr>
+    <td><span class="sc">GEN</span></td>
     <td>zombie</td>
     <td>run<span class="sc">.PRS</span></td>
     <td><span class="sc">II</span></td>
     <td>demon</td>
-    <td><span class="sc">GEN</span></td>
     <td>scream<span class="sc">.PRS</span></td>
     <td><span class="sc">I</span></td>
   </tr>

@@ -2,7 +2,7 @@
 publish: true
 title: vu
 created: 2026-10-25T20:50:18.525Z
-modified: 2026-10-26T14:22:58.782Z
+modified: 2026-10-28T03:07:13.512Z
 tags:
   - lexicon
   - word
@@ -10,7 +10,7 @@ tags:
 ---
 
 - **Pronunciation (IPA):** vu
-- **Part of Speech:** auxiliary,noun
+- **Part of Speech:** noun
 - **Root:** [[Vorathic Family/Vorathic/Lexicon/vu.md|vu]]
 
 ### Definitions
@@ -22,7 +22,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[vi]] / [[Vorathic Family/Proto-Vorathic/Lexicon/vu|vu]]
+- **Proto-Form:** [[Vorathic Family/Proto-Vorathic/Lexicon/vu|vu]]
 - **Historical Shift Notes:** Two proto words evolved into this word
 
 ## Usage & Examples

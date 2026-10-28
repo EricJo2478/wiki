@@ -6,7 +6,7 @@ aliases:
   - Adjective
 title: Vorathic Adjectives
 created: 2026-10-23T17:09:51.757Z
-modified: 2026-10-26T02:40:12.633Z
+modified: 2026-10-28T17:09:32.303Z
 tags:
   - grammar
   - adjective
@@ -21,16 +21,16 @@ An adjective can be used as a prenominal modifier. To do so they appear in a [[V
 
 <table class="gloss">
   <tr>
-    <td>two</td>
-    <td>tag-a</td>
-    <td>toga</td>
-    <td>to-lor-ga</td>
+    <td>loer</td>
+    <td>tamo-tsu</td>
+    <td>tsutsu</td>
+    <td>ka-mu-tsu</td>
   </tr>
   <tr>
     <td>fairy</td>
-    <td>to be strong<span class="sc">.PRS-I</span></td>
+    <td>to be strong-<span class="sc">DRK</span></td>
     <td>demon</td>
-    <td>attack<span class="sc">.PRS-III-I</span></td>
+    <td>attack<span class="sc">.PRS-LGT-DRK</span></td>
   </tr>
 </table>
 <p class="gloss-ft">“The fairy attacks the strong demon”</p>
@@ -38,18 +38,16 @@ An adjective can be used as a prenominal modifier. To do so they appear in a [[V
 The comparison is done by saying that the Z kneels to the X's Y see and example below.
 <table class="gloss">
   <tr>
-    <td>two</td>
-    <td>toga</td>
-    <td>sa</td>
-    <td>taga</td>
-    <td>mo-lor-ga</td>
+    <td>tsutsu</td>
+    <td>mumu-ko</td>
+    <td>he</td>
+    <td>zi-tsu-mu</td>
   </tr>
   <tr>
     <td>fairy</td>
-    <td>demon</td>
-    <td><span class="sc">GEN</span></td>
+    <td>demon-<span class="sc">GEN</span></td>
     <td>strength</td>
-    <td>kneel<span class="sc">-III-I</span></td>
+    <td>kneel-<span class="sc">LGT-drk</span></td>
   </tr>
 </table>
 <p class="gloss-ft">“The demon is stronger than the fairy”</p>

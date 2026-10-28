@@ -32,6 +32,6 @@ tags:
 
 ## Related Words (same root)
 
-| File                                           | POS                                      | Meaning                                    |
-| ---------------------------------------------- | ---------------------------------------- | ------------------------------------------ |
-| [[Vorathic Family/Vorathic/Lexicon/vu.md\|vu]] | <ul><li>auxiliary</li><li>noun</li></ul> | <ul><li>past tense</li><li>child</li></ul> |
+| File                                           | POS                    | Meaning                 |
+| ---------------------------------------------- | ---------------------- | ----------------------- |
+| [[Vorathic Family/Vorathic/Lexicon/vu.md\|vu]] | <ul><li>noun</li></ul> | <ul><li>child</li></ul> |

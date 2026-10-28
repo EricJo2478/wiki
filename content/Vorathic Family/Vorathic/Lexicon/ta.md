@@ -2,7 +2,7 @@
 publish: true
 title: ta
 created: 2026-10-25T20:24:02.630Z
-modified: 2026-10-26T04:23:02.846Z
+modified: 2026-10-26T16:50:40.634Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** ta
 - **Part of Speech:** postposition
-- **Root:** [[Vorathic Family/Abyssal/Lexicon/ta.md|ta]]
+- **Root:** [[Vorathic Family/Vorathic/Lexicon/ta.md|ta]]
 
 ### Definitions
 
@@ -22,7 +22,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[të]]
+- **Proto-Form:** [[Vorathic Family/Proto-Vorathic/Lexicon/të]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

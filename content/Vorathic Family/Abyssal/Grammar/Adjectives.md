@@ -6,7 +6,7 @@ aliases:
   - Adjective
 title: Abyssal Adjectives
 created: 2026-10-21T14:43:55.420Z
-modified: 2026-10-25T16:51:25.001Z
+modified: 2026-10-28T17:20:13.687Z
 tags:
   - grammar
   - adjective
@@ -17,43 +17,37 @@ tags:
 
 ### Placement
 
-An adjective can be used as a prenominal modifier. To do so they appear in a [[Vorathic Family/Abyssal/Grammar/Relative Clauses|relative clause]]. See an example bellow:
-\_\*\*Note the word forms in this example are not real. They are made up and should be replaced once word forms are finaliz
+An adjective can be used as a prenominal modifier. To do so they appear in a [[Vorathic Family/Abyssal/Grammar/Relative Clauses|relative clause]]. See an example below:
 
 <table class="gloss">
   <tr>
-    <td>loer</td>
-    <td>tamo-tsu</td>
-    <td>tsutsu</td>
-    <td>ka-mu-tsu</td>
+    <td>ptö</td>
+    <td>dëg-ë</td>
+    <td>dögë</td>
+    <td>dö-du̇d</td>
   </tr>
   <tr>
     <td>fairy</td>
-    <td>to be strong-<span class="sc">DRK</span></td>
+    <td>to be strong<span class="sc">.PRS-I</span></td>
     <td>demon</td>
-    <td>attack<span class="sc">.PRS-LGT-DRK</span></td>
+    <td>attack<span class="sc">.PRS-III</span></td>
   </tr>
 </table>
 <p class="gloss-ft">“The fairy attacks the strong demon”</p>
-
 ### Comparison (X is more Y than Z)
-
-The comparison in proto was done by saying that the Z kneels to the X's Y see and example below. It is TBD if that word for kneel lost all other meaning or if it still also means to kneel.
-
+Comparison in [[Vorathic Family/Abyssal/index|Abyssal]] is done using the verb [[mö|to be more than]] to compare the subject to the object. Typically the subject is a genitive to convey what aspect is being compared. It is important to note that because this evolved from the a construction involving "to kneel" this specific construction uses a OSV word order.
 <table class="gloss">
   <tr>
-    <td>tsutsu</td>
-    <td>mumu-ko</td>
-    <td>he</td>
-    <td>zi-tsu-mu</td>
+    <td>ptö</td>
+    <td>dögë-së</td>
+    <td>dëgë</td>
+    <td>mö-gë</td>
   </tr>
   <tr>
     <td>fairy</td>
-    <td>demon-<span class="sc">GEN</span></td>
+    <td>demon<span class="sc">-GEN</span></td>
     <td>strength</td>
-    <td>kneel-<span class="sc">LGT-drk</span></td>
+    <td>is more than<span class="sc">-I</span></td>
   </tr>
 </table>
 <p class="gloss-ft">“The demon is stronger than the fairy”</p>
-
-_**Note these word forms are not real, made up for the example**_

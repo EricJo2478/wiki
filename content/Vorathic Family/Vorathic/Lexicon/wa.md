@@ -2,7 +2,7 @@
 publish: true
 title: wa
 created: 2026-10-25T19:48:04.159Z
-modified: 2026-10-26T14:23:39.837Z
+modified: 2026-10-27T15:50:56.160Z
 tags:
   - lexicon
   - word
@@ -22,7 +22,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[wà]] / [[wë]]
+- **Proto-Form:** [[wà]] / [[Vorathic Family/Proto-Vorathic/Lexicon/wë]]
 - **Historical Shift Notes:** Two proto words evolved into this word.
 
 ## Usage & Examples

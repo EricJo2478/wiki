@@ -2,7 +2,7 @@
 publish: true
 title: wad
 created: 2026-10-25T20:59:49.330Z
-modified: 2026-10-26T14:24:09.341Z
+modified: 2026-10-27T15:55:53.592Z
 tags:
   - lexicon
   - word
@@ -22,7 +22,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[wëd]]
+- **Proto-Form:** [[Vorathic Family/Proto-Vorathic/Lexicon/wëd]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

@@ -2,7 +2,7 @@
 publish: true
 title: tag
 created: 2026-10-25T20:20:56.097Z
-modified: 2026-10-26T14:17:03.019Z
+modified: 2026-10-28T15:21:55.539Z
 tags:
   - lexicon
   - word
@@ -16,12 +16,6 @@ tags:
 ### Definitions
 
 -
-
----
-
-## Conjugation
-
-To conjugate this verb see [[Conjugation]].
 
 ---
 

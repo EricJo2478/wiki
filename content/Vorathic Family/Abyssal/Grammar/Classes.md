@@ -6,7 +6,7 @@ aliases:
   - classes
 title: Abyssal Noun Classes
 created: 2026-10-13T22:18:16.934Z
-modified: 2026-10-24T21:39:58.403Z
+modified: 2026-10-27T16:45:58.610Z
 tags:
   - grammar
   - class
@@ -15,12 +15,11 @@ tags:
 
 Below are the [[Vorathic Family/Abyssal/index|Abyssal]] [[Vorathic Family/Abyssal/Grammar/Nouns|noun]] classes and their proto sources.
 
-| Number | Name       | Suffix | Source       |
-| ------ | ---------- | ------ | ------------ |
-| I      | Demons     | -xxxx  | \*power -to   |
-| II     | Shaded     | -xxxx  | \*Undead -hiɲ |
-| III    | Radiant    | -xxxx  | \*Fairy -kɨg  |
-| IV     | Implements | -xxxx  | \*Human -jɨv  |
-| V      | Broken     | -xxxx  | \*Corpse -fəg |
-| VI     | Raw        | -xxxx  | \*Rock -zɑ    |
-| VII    | Abstract   | -xxxx  |              |
+| Num | Class        | Source        |
+| --- | ------------ | ------------- |
+| I   | Demons       | \*Power -gə   |
+| II  | Shaded       | \*Undead -nod |
+| III | Radiant      | \*Fairy -løɹ  |
+| IV  | Implements   | \*Tool -hɛ    |
+| V   | Broken       | \*Corpse -wɑ  |
+| VI  | Raw/Abstract | \*Rock -hy    |

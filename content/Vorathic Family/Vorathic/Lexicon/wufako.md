@@ -2,16 +2,16 @@
 publish: true
 title: wufako
 created: 2026-10-26T02:59:51.923Z
-modified: 2026-10-26T03:00:45.498Z
+modified: 2026-10-27T16:07:17.487Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Pronunciation (IPA):** wufako
+- **Pronunciation (IPA):** wu.fa.ko
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Abyssal/Lexicon/ko.md|ko]]
+- **Root:** [[Vorathic Family/Vorathic/Lexicon/ko.md|ko]]
 
 ### Definitions
 
@@ -34,5 +34,5 @@ tags:
 
 | File                                                     | POS                      | Meaning                      |
 | -------------------------------------------------------- | ------------------------ | ---------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/wutsuko.md\|wutsuko]] | <ul><li>adverb</li></ul> | <ul><li>on there</li></ul>   |
 | [[Vorathic Family/Vorathic/Lexicon/wutako.md\|wutako]]   | <ul><li>adverb</li></ul> | <ul><li>from there</li></ul> |
+| [[Vorathic Family/Vorathic/Lexicon/wutsuko.md\|wutsuko]] | <ul><li>adverb</li></ul> | <ul><li>on there</li></ul>   |

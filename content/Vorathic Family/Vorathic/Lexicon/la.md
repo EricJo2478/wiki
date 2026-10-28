@@ -2,7 +2,7 @@
 publish: true
 title: la
 created: 2026-10-25T19:59:51.123Z
-modified: 2026-10-26T14:08:40.022Z
+modified: 2026-10-28T15:32:48.579Z
 tags:
   - lexicon
   - word
@@ -22,7 +22,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[lë]]
+- **Proto-Form:** [[Vorathic Family/Proto-Vorathic/Lexicon/lë|lë]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

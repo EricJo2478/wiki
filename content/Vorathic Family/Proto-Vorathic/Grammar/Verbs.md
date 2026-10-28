@@ -6,7 +6,7 @@ aliases:
   - Verb
 title: Proto-Vorathic Verbs
 created: 2026-10-23T18:04:08.264Z
-modified: 2026-10-25T18:04:07.382Z
+modified: 2026-10-28T03:15:05.200Z
 tags:
   - grammar
   - verb
@@ -66,11 +66,11 @@ If a verb is in the passive voice then a [[bà|modifier auxiliary]] follows the 
 
 ### Polarity
 
-Polarity is simply an [[goe|auxiliary]] that follows the verb to mark negation. The positive is assumed when no negation is marked.
+Polarity is simply an [[soe|auxiliary]] that follows the verb to mark negation. The positive is assumed when no negation is marked.
 
 ### Tense
 
-Tense is handled similarly to polarity with an auxiliary for the [[vi|past]] and [[voe|future]]. Present tense is assumed when no tense auxiliary is present.
+Tense is handled similarly to polarity with an auxiliary for the [[ni|past]] and [[voe|future]]. Present tense is assumed when no tense auxiliary is present.
 
 ### Copula
 

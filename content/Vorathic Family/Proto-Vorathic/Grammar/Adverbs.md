@@ -6,7 +6,7 @@ aliases:
   - Adverb
 title: Proto-Vorathic Adverbs
 created: 2026-10-21T14:12:00.227Z
-modified: 2026-10-25T20:12:18.573Z
+modified: 2026-10-26T16:50:40.619Z
 tags:
   - grammar
   - adverb
@@ -25,8 +25,8 @@ Many place [[Vorathic Family/Proto-Vorathic/Grammar/Nouns|nouns]] can be turned 
 
 |                 | Standard | Allative               | Ablative               | Illative               |
 | --------------- | -------- | ---------------------- | ---------------------- | ---------------------- |
-| Proximal (here) | [[ngoe]] | [[wï]] [[ti]] [[ngoe]] | [[wï]] [[të]] [[ngoe]] | [[wï]] [[fà]] [[ngoe]] |
-| Distal (there)  | [[koe]]  | [[wï]] [[ti]] [[koe]]  | [[wï]] [[të]] [[koe]]  | [[wï]] [[fà]] [[koe]]  |
+| Proximal (here) | [[ngoe]] | [[wï]] [[ti]] [[ngoe]] | [[wï]] [[Vorathic Family/Proto-Vorathic/Lexicon/të]] [[ngoe]] | [[wï]] [[fà]] [[ngoe]] |
+| Distal (there)  | [[koe]]  | [[wï]] [[ti]] [[koe]]  | [[wï]] [[Vorathic Family/Proto-Vorathic/Lexicon/të]] [[koe]]  | [[wï]] [[fà]] [[koe]]  |
 For the generic locative sense of [[ngoe]] or [[koe]] the standard form is used. Something like the allative would also be used for the locative for a standard place noun. These adverbs differ in that they are primarily used for motion or for emphasis.
 
 ### Temporal

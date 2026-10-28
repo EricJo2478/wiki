@@ -6,14 +6,14 @@ aliases:
   - Verb
 title: Vorathic Verbs
 created: 2026-10-23T17:00:48.222Z
-modified: 2026-10-26T04:30:07.767Z
+modified: 2026-10-28T02:54:56.972Z
 tags:
   - grammar
   - verb
   - WIP
 ---
 
-Verbs in [[Vorathic Family/Vorathic/index|Vorathic]] do a lot of heavy lifting. They agree with [[Vorathic Family/Vorathic/Grammar/Classes|noun class]], both the subject and direct object (if present). They also [[conjugation|conjugate]] for voice (passive/active), polarity (positive/negative), and tense (past/present/future).
+Verbs in [[Vorathic Family/Vorathic/index|Vorathic]] do a lot of heavy lifting. They agree with [[Vorathic Family/Vorathic/Grammar/Classes|noun class]], both the subject and direct object (if present). They also [[Vorathic Family/Vorathic/Grammar/Conjugation|conjugate]] for voice (passive/active), polarity (positive/negative), and tense (past/present/future).
 
 ### Transitivity
 

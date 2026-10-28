@@ -2,16 +2,16 @@
 publish: true
 title: wutako
 created: 2026-10-26T02:58:36.772Z
-modified: 2026-10-26T02:59:44.800Z
+modified: 2026-10-27T16:13:11.462Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Pronunciation (IPA):** wutako
+- **Pronunciation (IPA):** wu.ta.ko
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Abyssal/Lexicon/ko.md|ko]]
+- **Root:** [[Vorathic Family/Vorathic/Lexicon/ko.md|ko]]
 
 ### Definitions
 
@@ -34,5 +34,5 @@ tags:
 
 | File                                                     | POS                      | Meaning                    |
 | -------------------------------------------------------- | ------------------------ | -------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/wutsuko.md\|wutsuko]] | <ul><li>adverb</li></ul> | <ul><li>on there</li></ul> |
 | [[Vorathic Family/Vorathic/Lexicon/wufako.md\|wufako]]   | <ul><li>adverb</li></ul> | <ul><li>in there</li></ul> |
+| [[Vorathic Family/Vorathic/Lexicon/wutsuko.md\|wutsuko]] | <ul><li>adverb</li></ul> | <ul><li>on there</li></ul> |

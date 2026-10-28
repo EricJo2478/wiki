@@ -2,18 +2,16 @@
 publish: true
 title: wga
 created: 2026-10-26T14:36:05.351Z
-modified: 2026-10-26T15:00:05.699Z
+modified: 2026-10-27T15:58:45.131Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="vorathic"></span>
-
-* **Pronunciation (IPA):** wga
-* **Part of Speech:** pronoun
-* **Root:** [[Vorathic Family/Vorathic/Lexicon/wu.md|wu]]
+- **Pronunciation (IPA):** wga
+- **Part of Speech:** pronoun
+- **Root:** [[Vorathic Family/Vorathic/Lexicon/wu.md|wu]]
 
 ### Definitions
 

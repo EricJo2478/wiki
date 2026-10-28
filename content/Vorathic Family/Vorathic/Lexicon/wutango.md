@@ -2,14 +2,14 @@
 publish: true
 title: wutango
 created: 2026-10-26T02:55:19.532Z
-modified: 2026-10-26T02:56:58.779Z
+modified: 2026-10-27T16:14:52.798Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Pronunciation (IPA):** wutaŋo
+- **Pronunciation (IPA):** wu.ta.ŋo
 - **Part of Speech:** adverb
 - **Root:** [[Vorathic Family/Vorathic/Lexicon/ngo.md|ngo]]
 
@@ -34,5 +34,5 @@ tags:
 
 | File                                                       | POS                      | Meaning                   |
 | ---------------------------------------------------------- | ------------------------ | ------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/wutsungo.md\|wutsungo]] | <ul><li>adverb</li></ul> | <ul><li>on here</li></ul> |
 | [[Vorathic Family/Vorathic/Lexicon/wufango.md\|wufango]]   | <ul><li>adverb</li></ul> | <ul><li>in here</li></ul> |
+| [[Vorathic Family/Vorathic/Lexicon/wutsungo.md\|wutsungo]] | <ul><li>adverb</li></ul> | <ul><li>on here</li></ul> |

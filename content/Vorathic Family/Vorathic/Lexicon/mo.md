@@ -2,7 +2,7 @@
 publish: true
 title: mo
 created: 2026-10-25T20:03:58.497Z
-modified: 2026-10-26T14:09:11.349Z
+modified: 2026-10-28T02:54:56.995Z
 tags:
   - lexicon
   - word
@@ -21,7 +21,7 @@ tags:
 
 ## Conjugation
 
-To conjugate this verb see [[Conjugation]].
+To conjugate this verb see [[Vorathic Family/Vorathic/Grammar/Conjugation]].
 
 ---
 

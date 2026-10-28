@@ -2,7 +2,7 @@
 publish: true
 title: wo
 created: 2026-10-25T19:41:39.548Z
-modified: 2026-10-26T14:28:31.872Z
+modified: 2026-10-27T15:59:41.903Z
 tags:
   - lexicon
   - word

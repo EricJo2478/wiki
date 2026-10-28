@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** ko
 - **Part of Speech:** adverb,demonstrative
-- **Root:** [[Vorathic Family/Abyssal/Lexicon/ko.md|ko]]
+- **Root:** [[Vorathic Family/Vorathic/Lexicon/ko.md|ko]]
 
 ### Definitions
 

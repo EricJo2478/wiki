@@ -2,7 +2,7 @@
 publish: true
 title: t'o
 created: 2026-10-25T20:27:26.038Z
-modified: 2026-10-26T14:58:00.107Z
+modified: 2026-10-26T16:44:17.316Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** t'o
 - **Part of Speech:** noun
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/t'o.md|t'o]]
+- **Root:** [[Vorathic Family/Vorathic/Lexicon/to.md|to]]
 
 ### Definitions
 
@@ -32,5 +32,7 @@ tags:
 
 ## Related Words (same root)
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+| File                                               | POS                    | Meaning                               |
+| -------------------------------------------------- | ---------------------- | ------------------------------------- |
+| [[Vorathic Family/Vorathic/Lexicon/wto.md\|wto]]   | <ul><li>noun</li></ul> | <ul><li>fairy</li><li>enemy</li></ul> |
+| [[Vorathic Family/Vorathic/Lexicon/toga.md\|toga]] | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>               |

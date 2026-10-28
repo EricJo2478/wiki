@@ -2,7 +2,7 @@
 publish: true
 title: Vorathic Conjugation
 created: 2026-10-25T22:11:13.592Z
-modified: 2026-10-26T14:27:37.641Z
+modified: 2026-10-28T04:02:58.393Z
 tags:
   - grammar
   - conjugation
@@ -17,10 +17,10 @@ The TAM table can be used on any verb after the apropriate class agreement has b
 
 |                   | Past    | Present | Future  |
 | ----------------- | ------- | ------- | ------- |
-| Positive          | -vu     | -       | -vo     |
-| Negative          | -govu   | -go     | -govo   |
-| Positive Passive  | -bavu   | -ba     | -bavo   |
-| Positive Negative | -bagovu | -bago   | -bagovo |
+| Positive          | -nu     | -       | -vo     |
+| Negative          | -sonu   | -so     | -sovo   |
+| Positive Passive  | -banu   | -ba     | -bavo   |
+| Positive Negative | -basonu | -baso   | -basovo |
 
 # Agreement Tables
 
