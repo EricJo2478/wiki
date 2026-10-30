@@ -2,7 +2,7 @@
 publish: true
 title: wutsuko
 created: 2026-10-26T02:53:08.793Z
-modified: 2026-10-27T16:18:24.442Z
+modified: 2026-10-28T18:29:11.710Z
 tags:
   - lexicon
   - word
@@ -23,7 +23,7 @@ tags:
 
 - **Derivational Process:** compound
 - **Proto-Form:**
-- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing on there" from [[wu]], [[tsu]] and [[ko]]
+- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing on there" from [[wu]], [[tsu]] and [[Vorathic Family/Vorathic/Lexicon/ko]]
 
 ## Usage & Examples
 

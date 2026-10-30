@@ -6,14 +6,14 @@ aliases:
   - Question
 title: Infernal Questions
 created: 2026-10-23T14:43:30.407Z
-modified: 2026-10-24T22:32:57.234Z
+modified: 2026-10-30T16:45:35.213Z
 tags:
   - grammar
   - question
   - WIP
 ---
 
-To turn a sentence into a question in [[Vorathic Family/Infernal/index|Infernal]] you must add the particle xxxx to the end of the sentence.
+To turn a sentence into a question in [[Vorathic Family/Infernal/index|Infernal]] you must add the particle [[Vorathic Family/Infernal/Lexicon/ngo|ngo]] to the end of the sentence.
 
 ### Polar Questions
 
@@ -23,10 +23,10 @@ It's that simple. Polar questions simply use the question particle at the end of
 
 These questions are slightly more complicated. As they should because they ask more complicated things. Though they still require the particle cause why not.
 
-What/Who will take the xxxx (dark) or xxxx (light) word to replace the subject/object, when [[Vorathic Family/Infernal/Grammar/Classes|noun class]] is unknown the default is dark.
+What/Who will take the [[bge]] (dark) or [[bovo]] (light) word to replace the subject/object, when [[Vorathic Family/Infernal/Grammar/Classes|noun class]] is unknown the default is dark.
 
-How/Why are simple [[Vorathic Family/Proto-Vorathic/Grammar/Adverbs|adverbs]], nothing fancy.
+[[ngoko|How]]/[[ngobeg|Why]] are simple [[Vorathic Family/Infernal/Grammar/Adverbs|adverbs]], nothing fancy.
 
-Where/Whose uses what (dark) combined with the different [[Vorathic Family/Abyssal/Grammar/Cases|noun cases from Abyssal]]. Note that they are not inflection but are separate fossilized words.
+Where/Whose uses [[bovo]] (light) combined with the different [[Vorathic Family/Abyssal/Grammar/Cases|noun cases from Abyssal]]. Note that they are not inflection but are separate fossilized words.
 
-Which functions similar to [[Vorathic Family/Infernal/Grammar/Adjectives|adjectives]], coming before the [[Vorathic Family/Infernal/Grammar/Nouns|noun]] group it is restricted to and must agree with [[Vorathic Family/Infernal/Grammar/Classes|class]].
+[[ngovo|Which]] functions similar to [[Vorathic Family/Infernal/Grammar/Adjectives|adjectives]], coming before the [[Vorathic Family/Infernal/Grammar/Nouns|noun]] group it is restricted to and must agree with [[Vorathic Family/Infernal/Grammar/Classes|class]].

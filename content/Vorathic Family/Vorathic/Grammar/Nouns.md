@@ -6,7 +6,7 @@ aliases:
   - Noun
 title: Vorathic Nouns
 created: 2026-10-23T16:49:49.988Z
-modified: 2026-10-26T03:24:24.559Z
+modified: 2026-10-29T03:28:52.133Z
 tags:
   - grammar
   - noun
@@ -29,7 +29,7 @@ There is no number distinction marked on nouns.
 
 ### Noun Possession
 
-The [[sa|genitive postposition]] is used to mark possession, coming after the possessor. The possessor comes before the possessee, with the possessee being the head of the genitive phrase. An example below:
+The [[Vorathic Family/Vorathic/Lexicon/sa|genitive postposition]] is used to mark possession, coming after the possessor. The possessor comes before the possessee, with the possessee being the head of the genitive phrase. An example below:
 
 <table class="gloss">
   <tr>

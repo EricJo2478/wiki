@@ -2,7 +2,7 @@
 publish: true
 title: Vorathic Conjugation
 created: 2026-10-25T22:11:13.592Z
-modified: 2026-10-28T04:02:58.393Z
+modified: 2026-10-29T04:01:17.805Z
 tags:
   - grammar
   - conjugation
@@ -147,7 +147,7 @@ _Note: From IV and form VI make an ejective consonant. If the base word does use
 | V          | suwaga  | suwanod  | suwalor   | suwa'o | suwawa  | suwa'u |
 | VI         | tsuga   | tsunod   | tsulor    | tsu'o  | tsuwa   | tsu'u  |
 
-## Class 7 ([[vo]])
+## Class 7 ([[Vorathic Family/Vorathic/Lexicon/vo]])
 
 | Intranitive | Form  |
 | ----------- | ----- |

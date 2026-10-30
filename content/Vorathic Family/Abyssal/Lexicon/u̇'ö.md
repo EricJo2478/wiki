@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** ʊ.ʔɔ
 * **Part of Speech:** pronoun
-* **Root:** [[wu̇|wu̇]]
+* **Root:** [[wu̇.md|wu̇]]
 
 ### Definitions
 

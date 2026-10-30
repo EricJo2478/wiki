@@ -26,10 +26,27 @@ The [[Vorathic Family/Abyssal/index|Infernal]] phonology has a very small vowel 
 
 ### Sound Frequency
 
-|Sound (Infernal)0|Word Count|Total Occurrences|
+|Sound (Infernal)19|Word Count|Total Occurrences|
 |---|---|---|
-
-Dataview: No results to show for table query.
+|`e`|29|37|
+|`a`|26|26|
+|`o`|18|21|
+|`b`|12|12|
+|`t`|12|12|
+|`p`|11|11|
+|`ŋ`|10|10|
+|`s`|9|9|
+|`g`|8|8|
+|`d`|7|7|
+|`v`|7|7|
+|`k`|6|6|
+|`z`|4|5|
+|`ʔ`|4|4|
+|`f`|4|4|
+|`͡`|4|4|
+|`t'`|2|2|
+|`m`|1|1|
+|`n`|1|1|
 
 ### Sound Changes
 

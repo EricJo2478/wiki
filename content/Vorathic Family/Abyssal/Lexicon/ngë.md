@@ -2,7 +2,7 @@
 publish: true
 title: ngë
 created: 2026-10-26T16:22:25.109Z
-modified: 2026-10-26T16:23:18.897Z
+modified: 2026-10-28T18:33:28.888Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[nga]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/nga]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

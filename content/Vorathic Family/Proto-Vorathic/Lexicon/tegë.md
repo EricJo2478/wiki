@@ -2,7 +2,7 @@
 publish: true
 title: tetàghhë
 created: 2026-10-25T16:42:30.809Z
-modified: 2026-10-26T14:35:27.551Z
+modified: 2026-10-29T03:49:46.112Z
 tags:
   - lexicon
   - word
@@ -10,7 +10,7 @@ tags:
 
 - **Pronunciation (IPA):** te.gə
 - **Part of Speech:** noun
-- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/te.md|te]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/te.md|te]]
 
 ### Definitions
 
@@ -22,7 +22,7 @@ tags:
 
 - **Derivational Process:** classifier
 - **Proto-Form:**
-- **Historical Shift Notes:** Formed from a classifier by giving [[te|being]] the [[tàghhë|power]] classification.
+- **Historical Shift Notes:** Formed from a classifier by giving [[Vorathic Family/Proto-Vorathic/Lexicon/te|being]] the [[tàghhë|power]] classification.
 
 ## Usage & Examples
 

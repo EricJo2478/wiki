@@ -2,7 +2,7 @@
 publish: true
 title: Abyssal Conjugation
 created: 2026-10-28T02:54:53.117Z
-modified: 2026-10-28T15:43:22.236Z
+modified: 2026-10-30T15:42:57.479Z
 tags:
   - grammar
   - conjugation
@@ -10,7 +10,7 @@ tags:
 ---
 
 [[Vorathic Family/Abyssal/index|Abyssal]] has a very extensive conjugation system. Each [[Vorathic Family/Abyssal/Grammar/Verbs|verb]] agrees in [[Vorathic Family/Abyssal/Grammar/Classes|class]] with its subject. Then it further conjugates with voicing and tense. To simplify the reference for [[Vorathic Family/Abyssal/index|Abyssal]] conjugation. There are two sets of tables, agreement and TAM tables.
-_Note: Unlike Vorathic there is no object class agreement as demonic speakers found this to be unimportant and unnessiary_
+_Note: Unlike Vorathic there is no object class agreement as demonic speakers found this to be ounimportant and unnessiary_
 
 The TAM table can be used on any verb after the apropriate class agreement has been found. Class agreements can be irregular so check the conjugation class of the verb you are conjugating to make sure you find the correct lookup table.
 _Note: Voicing Harmony is not marked in the tables. Apply voicing harmony as expected._

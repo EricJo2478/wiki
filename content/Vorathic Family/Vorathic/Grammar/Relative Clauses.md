@@ -8,14 +8,14 @@ aliases:
   - Releative clauses
 title: Vorathic Relative Clauses
 created: 2026-10-23T17:10:48.483Z
-modified: 2026-10-28T17:47:43.493Z
+modified: 2026-10-29T03:28:52.189Z
 tags:
   - grammar
   - relative-clause
   - WIP
 ---
 
-In [[Vorathic Family/Vorathic/index|Vorathic]] relative clauses appear directly before the [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] they modify. There are no relative [[Vorathic Family/Vorathic/Grammar/Pronouns|pronouns]] or markings that signify a relative clause. Instead, a full and complete clause occurs directly before the [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] and serves as its modifier with a gap in place for the target of the relative clause. The embedded [[Vorathic Family/Vorathic/Grammar/Verbs|verb]] will agree with the target. Note that for possession the [[sa|genitive postposition]] comes at the beginnin of the relative clause. Examples:
+In [[Vorathic Family/Vorathic/index|Vorathic]] relative clauses appear directly before the [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] they modify. There are no relative [[Vorathic Family/Vorathic/Grammar/Pronouns|pronouns]] or markings that signify a relative clause. Instead, a full and complete clause occurs directly before the [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] and serves as its modifier with a gap in place for the target of the relative clause. The embedded [[Vorathic Family/Vorathic/Grammar/Verbs|verb]] will agree with the target. Note that for possession the [[Vorathic Family/Vorathic/Lexicon/sa|genitive postposition]] comes at the beginnin of the relative clause. Examples:
 
 Subject I
 

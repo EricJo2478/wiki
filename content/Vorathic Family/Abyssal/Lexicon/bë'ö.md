@@ -2,7 +2,7 @@
 publish: true
 title: bë'ö
 created: 2026-10-27T15:52:58.208Z
-modified: 2026-10-28T01:57:07.515Z
+modified: 2026-10-28T18:01:25.934Z
 tags:
   - lexicon
   - word
@@ -34,6 +34,7 @@ tags:
 
 ## Related Words (same root)
 
-| File                                          | POS                                      | Meaning                                                        |
-| --------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/bë.md\|bë]] | <ul><li>auxiliary</li><li>noun</li></ul> | <ul><li>passive voice</li><li>essence</li><li>energy</li></ul> |
+| File                                              | POS                    | Meaning                                  |
+| ------------------------------------------------- | ---------------------- | ---------------------------------------- |
+| [[Vorathic Family/Abyssal/Lexicon/bë.md\|bë]]     | <ul><li>noun</li></ul> | <ul><li>essence</li><li>energy</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/dëgë.md\|dëgë]] | <ul><li>noun</li></ul> | <ul><li>power</li><li>strength</li></ul> |

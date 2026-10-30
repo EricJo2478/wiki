@@ -2,7 +2,7 @@
 publish: true
 title: bë
 created: 2026-10-26T16:00:45.863Z
-modified: 2026-10-28T16:47:18.611Z
+modified: 2026-10-28T18:08:05.097Z
 tags:
   - lexicon
   - word
@@ -12,7 +12,7 @@ tags:
 - **Orthography:** <span class="infernal">be</span>
 
 * **Pronunciation (IPA):** bə
-* **Part of Speech:** auxiliary,noun
+* **Part of Speech:** noun
 * **Root:** [[Vorathic Family/Abyssal/Lexicon/bë.md|bë]]
 
 ### Definitions
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[ba]] / [[wa]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/ba]] / [[wa]]
 - **Historical Shift Notes:** Two different proto words evolved into the same word.
 
 ## Usage & Examples
@@ -34,6 +34,7 @@ tags:
 
 ## Related Words (same root)
 
-| File                                              | POS                       | Meaning               |
-| ------------------------------------------------- | ------------------------- | --------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/bë'ö.md\|bë'ö]] | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul> |
+| File                                              | POS                       | Meaning                                  |
+| ------------------------------------------------- | ------------------------- | ---------------------------------------- |
+| [[Vorathic Family/Abyssal/Lexicon/bë'ö.md\|bë'ö]] | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |
+| [[Vorathic Family/Abyssal/Lexicon/dëgë.md\|dëgë]] | <ul><li>noun</li></ul>    | <ul><li>power</li><li>strength</li></ul> |

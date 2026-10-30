@@ -2,7 +2,7 @@
 publish: true
 title: zë
 created: 2026-10-27T16:30:24.007Z
-modified: 2026-10-28T15:48:03.243Z
+modified: 2026-10-29T04:08:47.073Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[za]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/za]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

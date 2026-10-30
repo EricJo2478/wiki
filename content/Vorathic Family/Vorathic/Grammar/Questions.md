@@ -6,7 +6,7 @@ aliases:
   - Question
 title: Vorathic Questions
 created: 2026-10-23T17:18:44.688Z
-modified: 2026-10-26T03:45:09.500Z
+modified: 2026-10-29T03:28:52.161Z
 tags:
   - grammar
   - question
@@ -27,6 +27,6 @@ What/Who will take the [[wuwu]] word to replace the subject/object, when [[Vorat
 
 [[nguku|How]]/[[ngupag|Why]] are simple [[Vorathic Family/Vorathic/Grammar/Adverbs|adverbs]], nothing fancy.
 
-Where/Whose uses [[wuwu]] (class VI) merged with the [[tsu|allative]] or [[sa|genitive]] postposition respectively resulting in [[wuwutsu]] and [[wuwusa]].
+Where/Whose uses [[wuwu]] (class VI) merged with the [[tsu|allative]] or [[Vorathic Family/Vorathic/Lexicon/sa|genitive]] postposition respectively resulting in [[wuwutsu]] and [[wuwusa]].
 
 Which functions similar to [[Vorathic Family/Vorathic/Grammar/Adjectives|adjectives]], coming before the [[Vorathic Family/Vorathic/Grammar/Nouns|noun]] group it is restricted to and must agree with [[Vorathic Family/Vorathic/Grammar/Classes|class]].

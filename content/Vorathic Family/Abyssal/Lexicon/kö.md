@@ -2,7 +2,7 @@
 publish: true
 title: kö
 created: 2026-10-26T16:11:04.064Z
-modified: 2026-10-28T16:18:10.445Z
+modified: 2026-10-28T18:29:11.771Z
 tags:
   - lexicon
   - word
@@ -12,7 +12,7 @@ tags:
 - **Orthography:** <span class="infernal">ka</span>
 
 * **Pronunciation (IPA):** kɔ
-* **Part of Speech:** adverb,demonstrative
+* **Part of Speech:** demonstrative
 * **Root:** [[Vorathic Family/Abyssal/Lexicon/kö.md|kö]]
 
 ### Definitions
@@ -35,7 +35,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[ko]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/ko]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

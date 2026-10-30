@@ -2,7 +2,7 @@
 publish: true
 title: të
 created: 2026-10-26T16:50:38.415Z
-modified: 2026-10-28T16:02:28.809Z
+modified: 2026-10-29T03:51:30.952Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[ta]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/ta]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

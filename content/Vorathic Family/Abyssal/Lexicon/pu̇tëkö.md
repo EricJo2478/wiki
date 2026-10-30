@@ -34,8 +34,8 @@ tags:
 
 ## Related Words (same root)
 
-| File                                                        | POS                                            | Meaning                              |
-| ----------------------------------------------------------- | ---------------------------------------------- | ------------------------------------ |
-| [[Vorathic Family/Abyssal/Lexicon/pu̇fëkö.md\|pu̇fëkö]]     | <ul><li>adverb</li></ul>                       | <ul><li>in there</li></ul>           |
-| [[Vorathic Family/Abyssal/Lexicon/pu̇tsu̇kö.md\|pu̇tsu̇kö]] | <ul><li>adverb</li></ul>                       | <ul><li>on there</li></ul>           |
-| [[Vorathic Family/Abyssal/Lexicon/kö.md\|kö]]               | <ul><li>adverb</li><li>demonstrative</li></ul> | <ul><li>there</li><li>that</li></ul> |
+| File                                                        | POS                             | Meaning                    |
+| ----------------------------------------------------------- | ------------------------------- | -------------------------- |
+| [[Vorathic Family/Abyssal/Lexicon/pu̇fëkö.md\|pu̇fëkö]]     | <ul><li>adverb</li></ul>        | <ul><li>in there</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/pu̇tsu̇kö.md\|pu̇tsu̇kö]] | <ul><li>adverb</li></ul>        | <ul><li>on there</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/kö.md\|kö]]               | <ul><li>demonstrative</li></ul> | <ul><li>that</li></ul>     |

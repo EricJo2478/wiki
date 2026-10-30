@@ -2,7 +2,7 @@
 publish: true
 title: tehè
 created: 2026-10-25T16:44:54.604Z
-modified: 2026-10-26T14:35:37.651Z
+modified: 2026-10-29T03:49:46.050Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** te.hɛ
 - **Part of Speech:** noun
-- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/te.md|te]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/te.md|te]]
 
 ### Definitions
 
@@ -23,7 +23,7 @@ tags:
 
 - **Derivational Process:** classifier
 - **Proto-Form:**
-- **Historical Shift Notes:** Formed from a classifier by giving [[te|being]] the [[hè|tool]] classification.
+- **Historical Shift Notes:** Formed from a classifier by giving [[Vorathic Family/Proto-Vorathic/Lexicon/te|being]] the [[hè|tool]] classification.
 
 ## Usage & Examples
 

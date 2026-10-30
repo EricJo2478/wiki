@@ -36,5 +36,5 @@ tags:
 
 | File                                            | POS                                      | Meaning                                                         |
 | ----------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/ngë.md\|ngë]] | <ul><li>noun</li></ul>                   | <ul><li>place</li></ul>                                         |
 | [[Vorathic Family/Abyssal/Lexicon/sö.md\|sö]]   | <ul><li>auxiliary</li><li>verb</li></ul> | <ul><li>to fail</li><li>negative polarity</li><li>not</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/ngë.md\|ngë]] | <ul><li>noun</li></ul>                   | <ul><li>place</li></ul>                                         |

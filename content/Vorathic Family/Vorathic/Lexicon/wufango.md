@@ -2,7 +2,7 @@
 publish: true
 title: wufango
 created: 2026-10-26T02:57:16.736Z
-modified: 2026-10-27T16:09:30.868Z
+modified: 2026-10-28T18:35:08.736Z
 tags:
   - lexicon
   - word
@@ -23,7 +23,7 @@ tags:
 
 - **Derivational Process:** compound
 - **Proto-Form:**
-- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing in here" from [[wu]], [[fa]] and [[ngo]]
+- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing in here" from [[wu]], [[fa]] and [[Vorathic Family/Vorathic/Lexicon/ngo]]
 
 ## Usage & Examples
 
@@ -34,5 +34,5 @@ tags:
 
 | File                                                       | POS                      | Meaning                     |
 | ---------------------------------------------------------- | ------------------------ | --------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/wutango.md\|wutango]]   | <ul><li>adverb</li></ul> | <ul><li>from here</li></ul> |
 | [[Vorathic Family/Vorathic/Lexicon/wutsungo.md\|wutsungo]] | <ul><li>adverb</li></ul> | <ul><li>on here</li></ul>   |
+| [[Vorathic Family/Vorathic/Lexicon/wutango.md\|wutango]]   | <ul><li>adverb</li></ul> | <ul><li>from here</li></ul> |

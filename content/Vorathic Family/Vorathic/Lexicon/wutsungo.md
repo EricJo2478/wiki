@@ -2,7 +2,7 @@
 publish: true
 title: wutsungo
 created: 2026-10-26T02:50:31.370Z
-modified: 2026-10-27T16:20:12.291Z
+modified: 2026-10-28T18:35:08.682Z
 tags:
   - lexicon
   - word
@@ -23,7 +23,7 @@ tags:
 
 - **Derivational Process:** compound
 - **Proto-Form:**
-- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing on here" from [[wu]], [[tsu]] and [[ngo]]
+- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing on here" from [[wu]], [[tsu]] and [[Vorathic Family/Vorathic/Lexicon/ngo]]
 
 ## Usage & Examples
 
