@@ -2,10 +2,11 @@
 publish: true
 title: tetàghhë
 created: 2026-10-25T16:42:30.809Z
-modified: 2026-10-29T03:49:46.112Z
+modified: 2026-10-30T16:50:38.564Z
 tags:
   - lexicon
   - word
+  - WIP
 ---
 
 - **Pronunciation (IPA):** te.gə
