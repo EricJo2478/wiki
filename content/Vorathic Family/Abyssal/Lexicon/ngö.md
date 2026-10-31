@@ -36,6 +36,6 @@ tags:
 
 | File                                                          | POS                      | Meaning                     |
 | ------------------------------------------------------------- | ------------------------ | --------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/pu̇fëngö.md\|pu̇fëngö]]     | <ul><li>adverb</li></ul> | <ul><li>in here</li></ul>   |
 | [[Vorathic Family/Abyssal/Lexicon/pu̇tëngö.md\|pu̇tëngö]]     | <ul><li>adverb</li></ul> | <ul><li>from here</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/pu̇tsu̇ngö.md\|pu̇tsu̇ngö]] | <ul><li>adverb</li></ul> | <ul><li>on here</li></ul>   |
+| [[Vorathic Family/Abyssal/Lexicon/pu̇fëngö.md\|pu̇fëngö]]     | <ul><li>adverb</li></ul> | <ul><li>in here</li></ul>   |

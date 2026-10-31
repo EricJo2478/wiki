@@ -36,7 +36,7 @@ tags:
 
 | File                                                   | POS                       | Meaning                                  |
 | ------------------------------------------------------ | ------------------------- | ---------------------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/be'a.md\|be'a]]     | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |
 | [[Vorathic Family/Infernal/Lexicon/ngobeg.md\|ngobeg]] | <ul><li>adverb</li></ul>  | <ul><li>why</li></ul>                    |
-| [[Vorathic Family/Infernal/Lexicon/be.md\|be]]         | <ul><li>noun</li></ul>    | <ul><li>essence</li><li>energy</li></ul> |
 | [[Vorathic Family/Infernal/Lexicon/dege.md\|dege]]     | <ul><li>noun</li></ul>    | <ul><li>power</li><li>strength</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/be.md\|be]]         | <ul><li>noun</li></ul>    | <ul><li>essence</li><li>energy</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/be'a.md\|be'a]]     | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |

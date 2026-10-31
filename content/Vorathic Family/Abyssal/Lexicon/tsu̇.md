@@ -36,5 +36,5 @@ tags:
 
 | File                                                          | POS                      | Meaning                   |
 | ------------------------------------------------------------- | ------------------------ | ------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/pu̇fu̇tsu̇.md\|pu̇fu̇tsu̇]] | <ul><li>adverb</li></ul> | <ul><li>where</li></ul>   |
 | [[Vorathic Family/Abyssal/Lexicon/su̇.md\|su̇]]               | <ul><li>verb</li></ul>   | <ul><li>to push</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/pu̇fu̇tsu̇.md\|pu̇fu̇tsu̇]] | <ul><li>adverb</li></ul> | <ul><li>where</li></ul>   |

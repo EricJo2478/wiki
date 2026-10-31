@@ -4,7 +4,7 @@ aliases:
   - phonology
 title: Abyssal Phonology
 created: 2026-10-13T02:29:27.175Z
-modified: 2026-10-28T01:32:34.771Z
+modified: 2026-10-31T04:00:21.645Z
 tags:
   - phonology
 ---
@@ -36,14 +36,14 @@ The [[Vorathic Family/Abyssal/index|Abyssal]] phonology has a very small vowel i
 |`p`|11|11|
 |`ŋ`|10|10|
 |`s`|9|9|
+|`v`|8|8|
 |`g`|8|8|
 |`d`|8|8|
-|`v`|8|8|
 |`k`|6|6|
-|`ʔ`|5|5|
 |`z`|4|5|
-|`f`|4|4|
+|`ʔ`|5|5|
 |`͡`|4|4|
+|`f`|4|4|
 |`t'`|2|2|
 |`n`|1|1|
 |`m`|1|1|
@@ -65,3 +65,4 @@ The [[Vorathic Family/Abyssal/index|Abyssal]] phonology has a very small vowel i
 | Approximate Nasal Influence | `w` and `l` become `b` and `n` respectively adjacent to nasals                                              |
 | Approximate Collapse        | `w` and `l` become `v` and `d` respectively universally                                                     |
 | Voicing Harmony             | All stops, and fricatives change in voicing to match the last stop or fricative in the word (when possible) |
+| Degemination                | geminates are lost                                                                                          |

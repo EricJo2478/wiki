@@ -36,5 +36,5 @@ tags:
 
 | File                                               | POS                                                | Meaning                               |
 | -------------------------------------------------- | -------------------------------------------------- | ------------------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/sta.md\|sta]]   | <ul><li>conjunction</li><li>postposition</li></ul> | <ul><li>against</li><li>but</li></ul> |
 | [[Vorathic Family/Infernal/Lexicon/zaze.md\|zaze]] | <ul><li>adverb</li></ul>                           | <ul><li>also</li></ul>                |
+| [[Vorathic Family/Infernal/Lexicon/sta.md\|sta]]   | <ul><li>conjunction</li><li>postposition</li></ul> | <ul><li>against</li><li>but</li></ul> |

@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** zo.ʔa
 - **Part of Speech:** conjunction
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/za.md|za]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/za.md|za]]
 
 ### Definitions
 

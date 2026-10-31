@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** wu.ta.ko
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/ko.md|ko]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/ko.md|ko]]
 
 ### Definitions
 

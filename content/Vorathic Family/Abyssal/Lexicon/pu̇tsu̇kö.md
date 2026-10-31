@@ -36,6 +36,6 @@ tags:
 
 | File                                                    | POS                             | Meaning                      |
 | ------------------------------------------------------- | ------------------------------- | ---------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/pu̇fëkö.md\|pu̇fëkö]] | <ul><li>adverb</li></ul>        | <ul><li>in there</li></ul>   |
 | [[Vorathic Family/Abyssal/Lexicon/pu̇tëkö.md\|pu̇tëkö]] | <ul><li>adverb</li></ul>        | <ul><li>from there</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/pu̇fëkö.md\|pu̇fëkö]] | <ul><li>adverb</li></ul>        | <ul><li>in there</li></ul>   |
 | [[Vorathic Family/Abyssal/Lexicon/kö.md\|kö]]           | <ul><li>demonstrative</li></ul> | <ul><li>that</li></ul>       |

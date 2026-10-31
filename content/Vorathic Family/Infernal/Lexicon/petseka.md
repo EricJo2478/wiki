@@ -36,6 +36,6 @@ tags:
 
 | File                                                   | POS                             | Meaning                      |
 | ------------------------------------------------------ | ------------------------------- | ---------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/ka.md\|ka]]         | <ul><li>demonstrative</li></ul> | <ul><li>that</li></ul>       |
 | [[Vorathic Family/Infernal/Lexicon/pofeka.md\|pofeka]] | <ul><li>adverb</li></ul>        | <ul><li>in there</li></ul>   |
 | [[Vorathic Family/Infernal/Lexicon/peteka.md\|peteka]] | <ul><li>adverb</li></ul>        | <ul><li>from there</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/ka.md\|ka]]         | <ul><li>demonstrative</li></ul> | <ul><li>that</li></ul>       |

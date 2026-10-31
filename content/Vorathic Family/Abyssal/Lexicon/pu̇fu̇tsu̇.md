@@ -36,5 +36,5 @@ tags:
 
 | File                                              | POS                    | Meaning                     |
 | ------------------------------------------------- | ---------------------- | --------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/su̇.md\|su̇]]   | <ul><li>verb</li></ul> | <ul><li>to push</li></ul>   |
 | [[Vorathic Family/Abyssal/Lexicon/tsu̇.md\|tsu̇]] | <ul><li>verb</li></ul> | <ul><li>to refuse</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/su̇.md\|su̇]]   | <ul><li>verb</li></ul> | <ul><li>to push</li></ul>   |

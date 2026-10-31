@@ -36,5 +36,5 @@ tags:
 
 | File                                               | POS                                         | Meaning                                                          |
 | -------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/zaze.md\|zaze]] | <ul><li>adverb</li></ul>                    | <ul><li>also</li></ul>                                           |
 | [[Vorathic Family/Infernal/Lexicon/ze.md\|ze]]     | <ul><li>postposition</li><li>verb</li></ul> | <ul><li>comitative</li><li>to bind</li><li>to be bound</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/zaze.md\|zaze]] | <ul><li>adverb</li></ul>                    | <ul><li>also</li></ul>                                           |

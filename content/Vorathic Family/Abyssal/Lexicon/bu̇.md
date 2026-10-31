@@ -36,8 +36,8 @@ tags:
 
 | File                                                    | POS                       | Meaning                             |
 | ------------------------------------------------------- | ------------------------- | ----------------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/ngu̇vu̇.md\|ngu̇vu̇]] | <ul><li>adverb</li></ul>  | <ul><li>which</li></ul>             |
 | [[Vorathic Family/Abyssal/Lexicon/u̇vë.md\|u̇vë]]       | <ul><li>pronoun</li></ul> | <ul><li>it</li></ul>                |
-| [[Vorathic Family/Abyssal/Lexicon/bgë.md\|bgë]]         | <ul><li>pronoun</li></ul> | <ul><li>they</li><li>them</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/ngu̇vu̇.md\|ngu̇vu̇]] | <ul><li>adverb</li></ul>  | <ul><li>which</li></ul>             |
 | [[Vorathic Family/Abyssal/Lexicon/bu̇vu̇.md\|bu̇vu̇]]   | <ul><li>noun</li></ul>    | <ul><li>what</li><li>who</li></ul>  |
 | [[Vorathic Family/Abyssal/Lexicon/bu̇d.md\|bu̇d]]       | <ul><li>pronoun</li></ul> | <ul><li>it</li></ul>                |
+| [[Vorathic Family/Abyssal/Lexicon/bgë.md\|bgë]]         | <ul><li>pronoun</li></ul> | <ul><li>they</li><li>them</li></ul> |

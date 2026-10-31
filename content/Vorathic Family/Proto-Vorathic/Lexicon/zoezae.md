@@ -34,5 +34,5 @@ tags:
 
 | File                                                       | POS                                                | Meaning                                   |
 | ---------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/zae.md\|zae]]     | <ul><li>noun</li><li>postposition</li></ul>        | <ul><li>side</li><li>comitative</li></ul> |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/zaete.md\|zaete]] | <ul><li>postposition</li><li>conjunction</li></ul> | <ul><li>against</li><li>but</li></ul>     |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/zae.md\|zae]]     | <ul><li>noun</li><li>postposition</li></ul>        | <ul><li>side</li><li>comitative</li></ul> |

@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** wu.t͡su.ko
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/ko.md|ko]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/ko.md|ko]]
 
 ### Definitions
 
@@ -34,5 +34,5 @@ tags:
 
 | File                                                   | POS                      | Meaning                      |
 | ------------------------------------------------------ | ------------------------ | ---------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/wufako.md\|wufako]] | <ul><li>adverb</li></ul> | <ul><li>in there</li></ul>   |
 | [[Vorathic Family/Vorathic/Lexicon/wutako.md\|wutako]] | <ul><li>adverb</li></ul> | <ul><li>from there</li></ul> |
+| [[Vorathic Family/Vorathic/Lexicon/wufako.md\|wufako]] | <ul><li>adverb</li></ul> | <ul><li>in there</li></ul>   |

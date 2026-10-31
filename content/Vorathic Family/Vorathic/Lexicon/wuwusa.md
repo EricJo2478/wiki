@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** wu.wu.sa
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/sa.md|sa]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/sa.md|sa]]
 
 ### Definitions
 

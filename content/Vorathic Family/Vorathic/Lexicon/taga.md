@@ -34,5 +34,5 @@ tags:
 
 | File                                               | POS                                    | Meaning                                              |
 | -------------------------------------------------- | -------------------------------------- | ---------------------------------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/wa'o.md\|wa'o]] | <ul><li>pronoun</li></ul>              | <ul><li>you</li></ul>                                |
 | [[Vorathic Family/Vorathic/Lexicon/wa.md\|wa]]     | <ul><li>noun</li><li>pronoun</li></ul> | <ul><li>essence</li><li>energy</li><li>you</li></ul> |
+| [[Vorathic Family/Vorathic/Lexicon/wa'o.md\|wa'o]] | <ul><li>pronoun</li></ul>              | <ul><li>you</li></ul>                                |

@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** ŋa
 * **Part of Speech:** demonstrative
-* **Root:** [[Vorathic Family/Vorathic/Lexicon/nga.md|nga]]
+* **Root:** [[Vorathic Family/Infernal/Lexicon/nga.md|nga]]
 
 ### Definitions
 
@@ -37,5 +37,5 @@ tags:
 | File                                                       | POS                      | Meaning                                |
 | ---------------------------------------------------------- | ------------------------ | -------------------------------------- |
 | [[Vorathic Family/Infernal/Lexicon/pofenga.md\|pofenga]]   | <ul><li>adverb</li></ul> | <ul><li>in here</li></ul>              |
-| [[Vorathic Family/Infernal/Lexicon/petenga.md\|petenga]]   | <ul><li>adverb</li></ul> | <ul><li>from here</li></ul>            |
 | [[Vorathic Family/Infernal/Lexicon/petsenga.md\|petsenga]] | <ul><li>adverb</li></ul> | <ul><li>on here</li><li>here</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/petenga.md\|petenga]]   | <ul><li>adverb</li></ul> | <ul><li>from here</li></ul>            |

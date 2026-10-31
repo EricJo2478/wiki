@@ -37,6 +37,6 @@ tags:
 | File                                                    | POS                       | Meaning                                  |
 | ------------------------------------------------------- | ------------------------- | ---------------------------------------- |
 | [[Vorathic Family/Abyssal/Lexicon/ngu̇bëg.md\|ngu̇bëg]] | <ul><li>adverb</li></ul>  | <ul><li>why</li></ul>                    |
-| [[Vorathic Family/Abyssal/Lexicon/bë'ö.md\|bë'ö]]       | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |
-| [[Vorathic Family/Abyssal/Lexicon/bë.md\|bë]]           | <ul><li>noun</li></ul>    | <ul><li>essence</li><li>energy</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/dëgë.md\|dëgë]]       | <ul><li>noun</li></ul>    | <ul><li>power</li><li>strength</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/bë.md\|bë]]           | <ul><li>noun</li></ul>    | <ul><li>essence</li><li>energy</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/bë'ö.md\|bë'ö]]       | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |

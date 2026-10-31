@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** wu.fa.ŋo
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/ngo.md|ngo]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/ngo.md|ngo]]
 
 ### Definitions
 

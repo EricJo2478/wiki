@@ -36,5 +36,5 @@ tags:
 
 | File                                               | POS                    | Meaning                                  |
 | -------------------------------------------------- | ---------------------- | ---------------------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/be.md\|be]]     | <ul><li>noun</li></ul> | <ul><li>essence</li><li>energy</li></ul> |
 | [[Vorathic Family/Infernal/Lexicon/dege.md\|dege]] | <ul><li>noun</li></ul> | <ul><li>power</li><li>strength</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/be.md\|be]]     | <ul><li>noun</li></ul> | <ul><li>essence</li><li>energy</li></ul> |

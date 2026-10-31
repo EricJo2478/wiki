@@ -36,7 +36,7 @@ tags:
 
 | File                                               | POS                                    | Meaning                                                         |
 | -------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/bed.md\|bed]]   | <ul><li>noun</li><li>pronoun</li></ul> | <ul><li>mountain</li><li>they</li><li>them</li><li>it</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/bovo.md\|bovo]] | <ul><li>noun</li></ul>                 | <ul><li>what</li><li>who</li></ul>                              |
 | [[Vorathic Family/Infernal/Lexicon/bo.md\|bo]]     | <ul><li>noun</li><li>verb</li></ul>    | <ul><li>to be dark</li><li>thing</li></ul>                      |
 | [[Vorathic Family/Infernal/Lexicon/bge.md\|bge]]   | <ul><li>demonstrative</li></ul>        | <ul><li>what</li><li>who</li></ul>                              |
-| [[Vorathic Family/Infernal/Lexicon/bovo.md\|bovo]] | <ul><li>noun</li></ul>                 | <ul><li>what</li><li>who</li></ul>                              |
+| [[Vorathic Family/Infernal/Lexicon/bed.md\|bed]]   | <ul><li>noun</li><li>pronoun</li></ul> | <ul><li>mountain</li><li>they</li><li>them</li><li>it</li></ul> |

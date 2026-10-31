@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** za
 - **Part of Speech:** postposition,verb
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/za.md|za]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/za.md|za]]
 
 ### Definitions
 

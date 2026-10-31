@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** ta
 * **Part of Speech:** noun,verb
-* **Root:** [[Vorathic Family/Vorathic/Lexicon/ta.md|ta]]
+* **Root:** [[Vorathic Family/Infernal/Lexicon/ta.md|ta]]
 
 ### Definitions
 
@@ -36,7 +36,7 @@ tags:
 
 | File                                               | POS                    | Meaning                                |
 | -------------------------------------------------- | ---------------------- | -------------------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/dage.md\|dage]] | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>                |
-| [[Vorathic Family/Infernal/Lexicon/peta.md\|peta]] | <ul><li>noun</li></ul> | <ul><li>undead</li></ul>               |
-| [[Vorathic Family/Infernal/Lexicon/pta.md\|pta]]   | <ul><li>noun</li></ul> | <ul><li>fairy</li><li>enemy</li></ul>  |
 | [[Vorathic Family/Infernal/Lexicon/t'a.md\|t'a]]   | <ul><li>noun</li></ul> | <ul><li>human</li><li>mortal</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/pta.md\|pta]]   | <ul><li>noun</li></ul> | <ul><li>fairy</li><li>enemy</li></ul>  |
+| [[Vorathic Family/Infernal/Lexicon/peta.md\|peta]] | <ul><li>noun</li></ul> | <ul><li>undead</li></ul>               |
+| [[Vorathic Family/Infernal/Lexicon/dage.md\|dage]] | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>                |

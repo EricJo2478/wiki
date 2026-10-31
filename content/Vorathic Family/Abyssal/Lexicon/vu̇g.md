@@ -36,5 +36,5 @@ tags:
 
 | File                                                      | POS                                 | Meaning                                 |
 | --------------------------------------------------------- | ----------------------------------- | --------------------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/vu̇'u̇tö.md\|vu̇'u̇tö]] | <ul><li>noun</li></ul>              | <ul><li>zombie</li></ul>                |
 | [[Vorathic Family/Abyssal/Lexicon/vu̇.md\|vu̇]]           | <ul><li>noun</li><li>verb</li></ul> | <ul><li>child</li><li>to plot</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/vu̇'u̇tö.md\|vu̇'u̇tö]] | <ul><li>noun</li></ul>              | <ul><li>zombie</li></ul>                |

@@ -36,5 +36,5 @@ tags:
 
 | File                                            | POS                                                | Meaning                                                          |
 | ----------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/stö.md\|stö]] | <ul><li>conjunction</li><li>postposition</li></ul> | <ul><li>against</li><li>but</li></ul>                            |
 | [[Vorathic Family/Abyssal/Lexicon/zë.md\|zë]]   | <ul><li>postposition</li><li>verb</li></ul>        | <ul><li>comitative</li><li>to bind</li><li>to be bound</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/stö.md\|stö]] | <ul><li>conjunction</li><li>postposition</li></ul> | <ul><li>against</li><li>but</li></ul>                            |

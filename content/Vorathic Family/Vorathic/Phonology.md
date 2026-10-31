@@ -4,7 +4,7 @@ aliases:
   - phonology
 title: Vorathic Phonology
 created: 2026-10-13T02:02:36.404Z
-modified: 2026-10-26T15:51:17.680Z
+modified: 2026-10-31T04:00:18.075Z
 tags:
   - phonology
 ---
@@ -37,19 +37,19 @@ The [[Vorathic Family/Vorathic/index|Vorathic]] phonology has a very small vowel
 |`s`|9|9|
 |`g`|8|8|
 |`z`|6|7|
-|`k`|6|6|
 |`ʔ`|6|6|
+|`k`|6|6|
 |`f`|5|5|
-|`p`|4|4|
 |`͡`|4|4|
 |`v`|4|4|
+|`p`|4|4|
 |`d`|2|2|
-|`l`|2|2|
 |`t'`|2|2|
-|`b`|1|1|
+|`l`|2|2|
 |`n`|1|1|
 |`ɹ`|1|1|
 |`m`|1|1|
+|`b`|1|1|
 
 ### Sound Changes
 
@@ -76,4 +76,5 @@ The [[Vorathic Family/Vorathic/index|Vorathic]] phonology has a very small vowel
 | Glottal Stop Appearance  | `ʔ` is inserted between adjacent vowels                                                         |
 | Glottal Stop Shrinkage   | `ʔ` is lost when not intervocalic                                                               |
 | Bilablial Simplification | when a bilabial stop and fricative are beside eachother the stop is absorbed into the fricative |
-| Degeminate               | deminates are lost                                                                              |
+| Nasal Assimilation       | nasals shift to be labial, alveolar or velar to match the following consonant                   |
+| Degeminate               | geminates are lost                                                                              |

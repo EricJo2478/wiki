@@ -36,7 +36,7 @@ tags:
 
 | File                                              | POS                                 | Meaning                                   |
 | ------------------------------------------------- | ----------------------------------- | ----------------------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/dögë.md\|dögë]] | <ul><li>noun</li></ul>              | <ul><li>demon</li></ul>                   |
+| [[Vorathic Family/Abyssal/Lexicon/tö.md\|tö]]     | <ul><li>noun</li><li>verb</li></ul> | <ul><li>being</li><li>to attack</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/t'ö.md\|t'ö]]   | <ul><li>noun</li></ul>              | <ul><li>human</li><li>mortal</li></ul>    |
 | [[Vorathic Family/Abyssal/Lexicon/ptö.md\|ptö]]   | <ul><li>noun</li></ul>              | <ul><li>fairy</li><li>enemy</li></ul>     |
-| [[Vorathic Family/Abyssal/Lexicon/tö.md\|tö]]     | <ul><li>noun</li><li>verb</li></ul> | <ul><li>being</li><li>to attack</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/dögë.md\|dögë]] | <ul><li>noun</li></ul>              | <ul><li>demon</li></ul>                   |

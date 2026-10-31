@@ -36,6 +36,6 @@ tags:
 
 | File                                                   | POS                      | Meaning                     |
 | ------------------------------------------------------ | ------------------------ | --------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/pofese.md\|pofese]] | <ul><li>adverb</li></ul> | <ul><li>whose</li></ul>     |
-| [[Vorathic Family/Infernal/Lexicon/se.md\|se]]         | <ul><li>verb</li></ul>   | <ul><li>to push</li></ul>   |
 | [[Vorathic Family/Infernal/Lexicon/tse.md\|tse]]       | <ul><li>verb</li></ul>   | <ul><li>to refuse</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/se.md\|se]]         | <ul><li>verb</li></ul>   | <ul><li>to push</li></ul>   |
+| [[Vorathic Family/Infernal/Lexicon/pofese.md\|pofese]] | <ul><li>adverb</li></ul> | <ul><li>whose</li></ul>     |

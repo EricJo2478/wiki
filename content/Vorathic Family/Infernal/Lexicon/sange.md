@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** sa.ŋe
 * **Part of Speech:** noun
-* **Root:** [[Vorathic Family/Vorathic/Lexicon/sa.md|sa]],[[Vorathic Family/Infernal/Lexicon/nge.md|nge]]
+* **Root:** [[Vorathic Family/Infernal/Lexicon/sa.md|sa]],[[Vorathic Family/Infernal/Lexicon/nge.md|nge]]
 
 ### Definitions
 
@@ -36,5 +36,5 @@ tags:
 
 | File                                             | POS                                      | Meaning                               |
 | ------------------------------------------------ | ---------------------------------------- | ------------------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/nge.md\|nge]] | <ul><li>noun</li></ul>                   | <ul><li>place</li></ul>               |
 | [[Vorathic Family/Infernal/Lexicon/sa.md\|sa]]   | <ul><li>auxiliary</li><li>verb</li></ul> | <ul><li>to fail</li><li>not</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/nge.md\|nge]] | <ul><li>noun</li></ul>                   | <ul><li>place</li></ul>               |

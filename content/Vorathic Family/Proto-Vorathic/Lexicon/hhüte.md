@@ -34,6 +34,6 @@ tags:
 
 | File                                                     | POS                    | Meaning                                |
 | -------------------------------------------------------- | ---------------------- | -------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/te.md\|te]]     | <ul><li>noun</li></ul> | <ul><li>being</li></ul>                |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/tehè.md\|tehè]] | <ul><li>noun</li></ul> | <ul><li>human</li><li>mortal</li></ul> |
 | [[Vorathic Family/Proto-Vorathic/Lexicon/tegë.md\|tegë]] | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>                |
+| [[Vorathic Family/Proto-Vorathic/Lexicon/te.md\|te]]     | <ul><li>noun</li></ul> | <ul><li>being</li></ul>                |

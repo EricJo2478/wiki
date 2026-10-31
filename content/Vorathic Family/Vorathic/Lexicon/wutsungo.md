@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** wu.t͡su.ŋo
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/ngo.md|ngo]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/ngo.md|ngo]]
 
 ### Definitions
 
@@ -34,5 +34,5 @@ tags:
 
 | File                                                     | POS                      | Meaning                     |
 | -------------------------------------------------------- | ------------------------ | --------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/wufango.md\|wufango]] | <ul><li>adverb</li></ul> | <ul><li>in here</li></ul>   |
 | [[Vorathic Family/Vorathic/Lexicon/wutango.md\|wutango]] | <ul><li>adverb</li></ul> | <ul><li>from here</li></ul> |
+| [[Vorathic Family/Vorathic/Lexicon/wufango.md\|wufango]] | <ul><li>adverb</li></ul> | <ul><li>in here</li></ul>   |

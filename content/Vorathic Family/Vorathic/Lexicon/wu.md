@@ -34,5 +34,5 @@ tags:
 
 | File                                                 | POS                      | Meaning                            |
 | ---------------------------------------------------- | ------------------------ | ---------------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/nguwu.md\|nguwu]] | <ul><li>adverb</li></ul> | <ul><li>which</li></ul>            |
 | [[Vorathic Family/Vorathic/Lexicon/wuwu.md\|wuwu]]   | <ul><li>noun</li></ul>   | <ul><li>what</li><li>who</li></ul> |
+| [[Vorathic Family/Vorathic/Lexicon/nguwu.md\|nguwu]] | <ul><li>adverb</li></ul> | <ul><li>which</li></ul>            |
