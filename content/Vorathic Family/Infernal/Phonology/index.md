@@ -4,13 +4,12 @@ aliases:
   - phonology
 title: Infernal Phonology
 created: 2026-10-13T02:34:21.580Z
-modified: 2026-11-01T15:11:56.515Z
+modified: 2026-11-01T15:15:20.243Z
 tags:
   - phonology
 ---
 
-The [[Vorathic Family/Infernal/index|Infernal]] phonology is below. The syllable structure is (C)(C)(C)V(C)(C).  You can find a sound frequency chart below the consonant and vowel tables.
-For the sound changes that created this phonology from [[Vorathic Family/Abyssal/Phonology/index|Abyssal]] see [[Vorathic Family/Infernal/Phonology/Sound Changes|Sound Changes]].
+The [[Vorathic Family/Infernal/index|Infernal]] phonology is below. The syllable structure is (C)(C)(C)V(C)(C).  You can find a sound frequency chart below the consonant and vowel tables.  For the sound changes that created this phonology from [[Vorathic Family/Abyssal/Phonology/index|Abyssal]] see [[Vorathic Family/Infernal/Phonology/Sound Changes|Sound Changes]].
 
 | Consonants (23) | Labial     | Dental | Alveolar       | Palatal | Velar      | Uvular | Glottal |
 | --------------- | ---------- | ------ | -------------- | ------- | ---------- | ------ | ------- |
