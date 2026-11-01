@@ -6,7 +6,7 @@ aliases:
   - classes
 title: Abyssal Noun Classes
 created: 2026-10-13T22:18:16.934Z
-modified: 2026-10-27T16:45:58.610Z
+modified: 2026-11-01T15:01:01.999Z
 tags:
   - grammar
   - class

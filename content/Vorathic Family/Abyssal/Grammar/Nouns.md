@@ -6,7 +6,7 @@ aliases:
   - nouns
 title: Abyssal Nouns
 created: 2026-10-14T15:24:12.242Z
-modified: 2026-10-28T17:25:04.449Z
+modified: 2026-11-01T15:01:02.073Z
 tags:
   - grammar
   - noun

@@ -2,7 +2,7 @@
 publish: true
 title: Abyssal Grammar
 created: 2026-10-24T21:29:40.863Z
-modified: 2026-10-28T16:42:09.768Z
+modified: 2026-11-01T15:01:02.203Z
 tags:
   - grammar
 ---

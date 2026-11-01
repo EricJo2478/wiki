@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** ŋa
 * **Part of Speech:** demonstrative
-* **Root:** [[Vorathic Family/Infernal/Lexicon/nga.md|nga]]
+* **Root:** [[Vorathic Family/Vorathic/Lexicon/nga.md|nga]]
 
 ### Definitions
 

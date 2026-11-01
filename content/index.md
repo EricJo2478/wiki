@@ -2,7 +2,7 @@
 publish: true
 title: Homepage
 created: 2026-10-22T01:11:51.247Z
-modified: 2026-10-24T23:29:23.725Z
+modified: 2026-11-01T15:01:02.387Z
 ---
 
 Welcome to my conlanging wiki. This is a project where I develop 2 families of conlangs for my Fablehaven inspired Daggerheart campaign. Strong thank you goes to David Peterson and Jessie Sams at Langtime Studio. Their live streams helped me SO much when it came to learning conlanging. Without furthur ado let's take a look at how everything is structured.

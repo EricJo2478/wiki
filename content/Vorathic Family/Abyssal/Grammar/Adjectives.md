@@ -6,7 +6,7 @@ aliases:
   - Adjective
 title: Abyssal Adjectives
 created: 2026-10-21T14:43:55.420Z
-modified: 2026-10-28T17:20:13.687Z
+modified: 2026-11-01T15:01:01.955Z
 tags:
   - grammar
   - adjective

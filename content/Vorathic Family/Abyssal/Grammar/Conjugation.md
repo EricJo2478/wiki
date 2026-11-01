@@ -2,7 +2,7 @@
 publish: true
 title: Abyssal Conjugation
 created: 2026-10-28T02:54:53.117Z
-modified: 2026-10-30T15:42:57.479Z
+modified: 2026-11-01T15:01:02.019Z
 tags:
   - grammar
   - conjugation

@@ -2,7 +2,7 @@
 publish: true
 title: Abyssal Orthography
 created: 2026-10-26T15:33:11.433Z
-modified: 2026-10-27T23:04:57.923Z
+modified: 2026-11-01T15:01:02.239Z
 tags:
   - reference
   - orthography

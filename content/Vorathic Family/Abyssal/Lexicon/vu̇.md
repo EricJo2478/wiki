@@ -2,7 +2,7 @@
 publish: true
 title: vu̇
 created: 2026-10-27T15:46:48.623Z
-modified: 2026-10-29T04:01:24.195Z
+modified: 2026-11-01T15:01:02.222Z
 tags:
   - lexicon
   - word

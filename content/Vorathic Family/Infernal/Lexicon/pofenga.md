@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** po.fe.ŋa
 * **Part of Speech:** adverb
-* **Root:** [[Vorathic Family/Infernal/Lexicon/nga.md|nga]]
+* **Root:** [[Vorathic Family/Vorathic/Lexicon/nga.md|nga]]
 
 ### Definitions
 

@@ -6,7 +6,7 @@ aliases:
   - Demonstrative
 title: Abyssal Demonstratives
 created: 2026-10-23T21:00:49.434Z
-modified: 2026-10-28T16:41:37.627Z
+modified: 2026-11-01T15:01:02.055Z
 tags:
   - grammar
   - demonstrative

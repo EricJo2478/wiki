@@ -6,14 +6,14 @@ aliases:
   - cases
 title: Abyssal Cases
 created: 2026-10-15T19:21:01.650Z
-modified: 2026-10-29T15:20:37.767Z
+modified: 2026-11-01T15:01:29.101Z
 tags:
   - case
   - grammar
   - WIP
 ---
 
-There are 3 cases each pulling double duty (plus the genitive). Where context cannot differentiate additional phrases will be required. Below are the cases and their proto sources. The suffixes only fused after the [[Vorathic Family/Vorathic/index|Vorathic]] language (right before the first [[Vorathic Family/Abyssal/Phonology|Abyssal sound changes]].).
+There are 3 cases each pulling double duty (plus the genitive). Where context cannot differentiate additional phrases will be required. Below are the cases and their proto sources. The suffixes only fused after the [[Vorathic Family/Vorathic/index|Vorathic]] language (right before the first [[Vorathic Family/Abyssal/Phonology/index|Abyssal sound changes]].).
 
 | Case                                   | Postpos | Proto (Vorathic)                             | Meaning |
 | -------------------------------------- | ------- | -------------------------------------------- | ------- |

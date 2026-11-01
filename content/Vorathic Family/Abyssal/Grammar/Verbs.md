@@ -6,7 +6,7 @@ aliases:
   - verbs
 title: Abyssal Verbs
 created: 2026-10-15T21:15:47.568Z
-modified: 2026-10-28T17:28:04.248Z
+modified: 2026-11-01T15:01:02.173Z
 tags:
   - verb
   - grammar

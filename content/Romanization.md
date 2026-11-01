@@ -2,7 +2,7 @@
 publish: true
 title: Romanization
 created: 2026-10-13T22:39:47.278Z
-modified: 2026-10-25T20:51:16.032Z
+modified: 2026-11-01T14:50:47.663Z
 tags:
   - reference
   - romanization
@@ -15,11 +15,9 @@ Here is a reference for the romanization used in the [[Eldaic Family/Eldaic/inde
 | p'  | p'           |
 | t'  | t'           |
 | k'  | k'           |
-| q'  | q'           |
 | pʰ  | p̆           |
 | tʰ  | t̆           |
 | kʰ  | k̆           |
-| kʷʰ | k̆w          |
 | pʷ  | pw           |
 | tʷ  | tw           |
 | kʷ  | kw           |

@@ -6,7 +6,7 @@ aliases:
   - noun
 title: Infernal Nouns
 created: 2026-10-20T15:48:49.334Z
-modified: 2026-10-30T16:41:39.172Z
+modified: 2026-11-01T15:01:02.304Z
 tags:
   - noun
   - grammar

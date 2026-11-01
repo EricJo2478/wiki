@@ -6,7 +6,7 @@ aliases:
   - Adverb
 title: Abyssal Adverbs
 created: 2026-10-21T14:20:12.908Z
-modified: 2026-10-28T16:01:15.210Z
+modified: 2026-11-01T15:01:01.983Z
 tags:
   - grammar
   - adverb

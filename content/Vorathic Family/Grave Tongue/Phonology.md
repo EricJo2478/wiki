@@ -4,13 +4,13 @@ aliases:
   - phonology
 title: Grave Tongue Phonology
 created: 2026-10-13T02:21:49.807Z
-modified: 2026-10-31T17:51:27.455Z
+modified: 2026-11-01T14:23:18.330Z
 tags:
   - phonology
   - vorathic
 ---
 
-The [[Vorathic Family/Grave Tongue/index|Grave Tongue]] phonology has a very small vowel inventory. The syllable structure is (C)(C)(C)V(C)(C).  You can find a sound frequency chart below the consonant and vowel tables followed by the sound change charge. The proto for this phonology is the [[Vorathic Family/Vorathic/Phonology|Vorathic Phonology]].
+The [[Vorathic Family/Grave Tongue/index|Grave Tongue]] phonology is seen below. The syllable structure is (C)(C)(C)V(C)(C).  You can find a sound frequency chart below the consonant and vowel tables followed by the sound change charge. The proto for this phonology is the [[Vorathic Family/Vorathic/Phonology/index|Vorathic Phonology]].
 
 | Consonants (20) | Labial     | Dental | Alveolar        | Palatal | Velar      | Uvular | Glottal |
 | --------------- | ---------- | ------ | --------------- | ------- | ---------- | ------ | ------- |

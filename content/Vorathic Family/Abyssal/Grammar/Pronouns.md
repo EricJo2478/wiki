@@ -6,7 +6,7 @@ aliases:
   - Pronoun
 title: Abyssal Pronouns
 created: 2026-10-19T15:37:27.385Z
-modified: 2026-10-28T16:54:23.951Z
+modified: 2026-11-01T15:01:02.116Z
 tags:
   - grammar
   - pronoun

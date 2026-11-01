@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** sa.ŋe
 * **Part of Speech:** noun
-* **Root:** [[Vorathic Family/Infernal/Lexicon/sa.md|sa]],[[Vorathic Family/Infernal/Lexicon/nge.md|nge]]
+* **Root:** [[Vorathic Family/Vorathic/Lexicon/sa.md|sa]],[[Vorathic Family/Infernal/Lexicon/nge.md|nge]]
 
 ### Definitions
 
