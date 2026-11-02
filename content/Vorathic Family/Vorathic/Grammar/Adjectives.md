@@ -6,7 +6,7 @@ aliases:
   - Adjective
 title: Vorathic Adjectives
 created: 2026-10-23T17:09:51.757Z
-modified: 2026-10-28T17:09:32.303Z
+modified: 2026-11-01T16:12:12.464Z
 tags:
   - grammar
   - adjective
@@ -35,7 +35,7 @@ An adjective can be used as a prenominal modifier. To do so they appear in a [[V
 </table>
 <p class="gloss-ft">“The fairy attacks the strong demon”</p>
 ### Comparison (X is more Y than Z)
-The comparison is done by saying that the Z kneels to the X's Y see and example below.
+The comparison is done by saying that the Z kneels to the X's Y. See an example below:
 <table class="gloss">
   <tr>
     <td>tsutsu</td>
