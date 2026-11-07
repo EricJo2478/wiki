@@ -2,7 +2,7 @@
 publish: true
 title: sö
 created: 2026-10-26T16:09:04.178Z
-modified: 2026-10-28T15:46:38.541Z
+modified: 2026-11-02T01:21:34.924Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[so]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/so|so]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

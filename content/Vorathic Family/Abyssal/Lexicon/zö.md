@@ -2,7 +2,7 @@
 publish: true
 title: zö
 created: 2026-10-27T16:31:56.960Z
-modified: 2026-10-28T15:48:09.903Z
+modified: 2026-11-02T03:10:11.510Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[zo]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/zo]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

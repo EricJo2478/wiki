@@ -2,7 +2,7 @@
 publish: true
 title: pu̇fëngö
 created: 2026-10-27T16:09:49.588Z
-modified: 2026-10-28T02:04:57.188Z
+modified: 2026-11-02T02:59:53.662Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[wufango]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wufango]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

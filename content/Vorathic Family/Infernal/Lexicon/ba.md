@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** ba
 * **Part of Speech:** verb
-* **Root:** [[Vorathic Family/Vorathic/Lexicon/ba.md|ba]]
+* **Root:** [[Vorathic Family/Infernal/Lexicon/ba.md|ba]]
 
 ### Definitions
 

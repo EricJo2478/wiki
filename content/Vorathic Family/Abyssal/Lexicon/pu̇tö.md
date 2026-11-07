@@ -2,7 +2,7 @@
 publish: true
 title: pu̇tö
 created: 2026-10-27T16:17:02.537Z
-modified: 2026-10-28T02:07:02.712Z
+modified: 2026-11-02T03:03:45.743Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[wuto]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wuto]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

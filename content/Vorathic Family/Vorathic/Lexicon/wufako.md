@@ -2,7 +2,7 @@
 publish: true
 title: wufako
 created: 2026-10-26T02:59:51.923Z
-modified: 2026-10-28T18:29:11.756Z
+modified: 2026-11-02T02:54:41.638Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** wu.fa.ko
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/ko.md|ko]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/ko.md|ko]]
 
 ### Definitions
 
@@ -23,7 +23,7 @@ tags:
 
 - **Derivational Process:** compound
 - **Proto-Form:**
-- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing in there" from [[wu]], [[fa]] and [[Vorathic Family/Vorathic/Lexicon/ko]]
+- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing in there" from [[Vorathic Family/Vorathic/Lexicon/wu]], [[Vorathic Family/Vorathic/Lexicon/fa|fa]] and [[Vorathic Family/Vorathic/Lexicon/ko|ko]]
 
 ## Usage & Examples
 

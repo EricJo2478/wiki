@@ -33,12 +33,12 @@ tags:
 ### [[Vorathic Family/Abyssal/Phonology/lexurgy.lsc|Lexurgy]]
 
 Evaluation Error: SyntaxError: Invalid or unexpected token
-at DataviewInlineApi.eval (plugin:dataview:19027:21)
+at DataviewInlineApi.<anonymous> (plugin:dataview:19027:21)
 at evalInContext (plugin:dataview:19028:7)
 at asyncEvalInContext (plugin:dataview:19035:16)
 at DataviewJSRenderer.render (plugin:dataview:19064:19)
 at DataviewJSRenderer.onload (plugin:dataview:18606:14)
-at DataviewJSRenderer.load (app://obsidian.md/app.js:1:883194)
+at DataviewJSRenderer.load (app://obsidian.md/app.js:205:11318)
 at DataviewApi.executeJs (plugin:dataview:19607:18)
 at FP (plugin:quartz-syncer:259:1750)
 at Object.compile (plugin:quartz-syncer:259:2913)

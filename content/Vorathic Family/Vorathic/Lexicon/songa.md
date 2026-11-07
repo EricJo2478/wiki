@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** so.ŋa
 - **Part of Speech:** noun
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/so.md|so]],[[Vorathic Family/Vorathic/Lexicon/nga.md|nga]]
+- **Root:** [[Vorathic Family/Vorathic/Lexicon/so.md|so]],[[Vorathic Family/Infernal/Lexicon/nga.md|nga]]
 
 ### Definitions
 

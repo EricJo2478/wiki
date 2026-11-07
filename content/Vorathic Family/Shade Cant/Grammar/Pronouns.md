@@ -6,7 +6,7 @@ aliases:
   - Pronoun
 title: Shade Cant Pronouns
 created: 2026-11-02T00:20:33.263Z
-modified: 2026-11-02T00:41:46.372Z
+modified: 2026-11-02T02:51:41.855Z
 tags:
   - grammar
   - pronoun
@@ -17,5 +17,5 @@ tags:
 
 | Number   | 1st Person | 2nd Person | 3rd Person |
 | -------- | ---------- | ---------- | ---------- |
-| Singular | _xxxx_     | _xxxx_     | [[wga]]    |
+| Singular | _xxxx_     | _xxxx_     | [[Vorathic Family/Vorathic/Lexicon/wga]]    |
 | Plural   | _xxxx_     | _xxxx_     | _xxxx_     |

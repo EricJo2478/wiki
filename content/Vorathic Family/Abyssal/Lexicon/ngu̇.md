@@ -2,7 +2,7 @@
 publish: true
 title: ngu̇
 created: 2026-10-26T16:26:06.466Z
-modified: 2026-10-28T15:46:06.319Z
+modified: 2026-11-02T01:14:06.424Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[ngu]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/ngu]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

@@ -2,7 +2,7 @@
 publish: true
 title: ngu̇ku̇
 created: 2026-10-26T16:27:42.547Z
-modified: 2026-10-26T16:34:14.694Z
+modified: 2026-11-02T01:15:36.565Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[nguku]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/nguku|nguku]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

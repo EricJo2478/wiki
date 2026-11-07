@@ -2,7 +2,7 @@
 publish: true
 title: ptö
 created: 2026-10-27T16:04:27.006Z
-modified: 2026-10-28T02:00:33.182Z
+modified: 2026-11-02T02:56:43.109Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[wto]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wto]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

@@ -72,7 +72,6 @@ In this area we will break down the different parts of speech in [[Vorathic Fami
 | [[Vorathic Family/Vorathic/Lexicon/su.md\|su]]             | <ul><li>to push</li></ul>                                        |
 | [[Vorathic Family/Vorathic/Lexicon/tag.md\|tag]]           | <ul><li>to be strong</li></ul>                                   |
 | [[Vorathic Family/Vorathic/Lexicon/to.md\|to]]             | <ul><li>being</li><li>to attack</li></ul>                        |
-| [[Vorathic Family/Vorathic/Lexicon/tsu.md\|tsu]]           | <ul><li>allative</li></ul>                                       |
 | [[Vorathic Family/Vorathic/Lexicon/vo.md\|vo]]             | <ul><li>to plot</li><li>future tense</li></ul>                   |
 | [[Vorathic Family/Vorathic/Lexicon/wo.md\|wo]]             | <ul><li>to be light</li><li>bright</li><li>to run</li></ul>      |
 | [[Vorathic Family/Vorathic/Lexicon/wo'u.md\|wo'u]]         | <ul><li>to be balanced</li></ul>                                 |

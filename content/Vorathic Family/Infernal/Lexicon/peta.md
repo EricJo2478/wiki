@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** pe.ta
 * **Part of Speech:** noun
-* **Root:** [[Vorathic Family/Vorathic/Lexicon/ta.md|ta]]
+* **Root:** [[Vorathic Family/Infernal/Lexicon/ta.md|ta]]
 
 ### Definitions
 

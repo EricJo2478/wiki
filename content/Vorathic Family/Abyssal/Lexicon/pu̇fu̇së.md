@@ -2,7 +2,7 @@
 publish: true
 title: pu̇fu̇së
 created: 2026-10-27T16:26:13.052Z
-modified: 2026-10-28T02:08:51.816Z
+modified: 2026-11-02T03:07:41.388Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[wuwusa]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wuwusa]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

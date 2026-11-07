@@ -2,10 +2,11 @@
 publish: true
 title: wur
 created: 2026-10-26T14:39:08.146Z
-modified: 2026-10-26T14:42:52.330Z
+modified: 2026-11-02T03:01:35.234Z
 tags:
   - lexicon
   - word
+  - WIP
 ---
 
 - **Pronunciation (IPA):** wuɹ

@@ -4,14 +4,14 @@ aliases:
   - Abyssal
 title: Abyssal
 created: 2026-10-12T21:25:12.025Z
-modified: 2026-11-01T15:01:29.203Z
+modified: 2026-11-03T14:36:22.373Z
 tags:
   - reference
 ---
 
 This is the demon lanuage. It is commonly spoken among true demons and powerful creatures among demon culture. Abyssal evolved from [[Vorathic Family/Vorathic/index|Vorathic]].
 
-Abyssal is a very head final SOV language. It features a consonant voicing harmony in which consonants take on the voicing of the final consonant in the word.  [[Vorathic Family/Abyssal/Grammar/Adjectives|Adjectives]] and [[Vorathic Family/Abyssal/Grammar/Relative Clauses|relative clauses]] precede the [[Vorathic Family/Abyssal/Grammar/Nouns|nouns]] they modify. There are postpositions. Possessors will precede possesses. You can see its [[Vorathic Family/Abyssal/Phonology/index|phonology]], [[Vorathic Family/Abyssal/Derivational Morphology|derivational morphology]] [[orthography]] and [[Vorathic Family/Abyssal/Grammar/index|grammar]] at these respective links. The below table shows all the words in this language.
+Abyssal is a very head final SOV language. It features a consonant voicing harmony in which consonants take on the voicing of the final consonant in the word.  [[Vorathic Family/Abyssal/Grammar/Adjectives|Adjectives]] and [[Vorathic Family/Abyssal/Grammar/Relative Clauses|relative clauses]] precede the [[Vorathic Family/Abyssal/Grammar/Nouns|nouns]] they modify. There are postpositions. Possessors will precede possesses. You can see its [[Vorathic Family/Abyssal/Phonology/index|phonology]], [[Vorathic Family/Abyssal/Derivational Morphology|derivational morphology]] [[Vorathic Family/Abyssal/Orthography]] and [[Vorathic Family/Abyssal/Grammar/index|grammar]] at these respective links. The below table shows all the words in this language.
 
 ##### Child languages
 

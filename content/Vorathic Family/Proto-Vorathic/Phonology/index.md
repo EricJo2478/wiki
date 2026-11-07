@@ -56,6 +56,6 @@ The [[Vorathic Family/Proto-Vorathic/index|Proto-Vorathic]] phonology has a very
 |`ɛ`|2|2|
 |`j`|1|1|
 |`ɲ`|1|1|
-|`ɹ`|1|1|
 |`m`|1|1|
+|`ɹ`|1|1|
 |`b`|1|1|

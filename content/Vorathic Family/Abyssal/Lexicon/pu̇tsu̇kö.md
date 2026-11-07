@@ -2,7 +2,7 @@
 publish: true
 title: pu̇tsu̇kö
 created: 2026-10-27T16:18:44.496Z
-modified: 2026-10-28T02:07:25.319Z
+modified: 2026-11-02T03:04:40.670Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[wutsuko]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wutsuko]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

@@ -28,7 +28,28 @@ Dipthongs: aw, wa, wo
 
 ### Sound Frequency
 
-|Sound (Grave Tongue)0|Word Count|Total Occurrences|
+|Sound (Grave Tongue)23|Word Count|Total Occurrences|
 |---|---|---|
-
-Dataview: No results to show for table query.
+|`u`|26|34|
+|`a`|24|26|
+|`w`|22|25|
+|`o`|23|23|
+|`t`|10|10|
+|`ŋ`|10|10|
+|`s`|8|8|
+|`g`|8|8|
+|`z`|6|7|
+|`t'`|6|6|
+|`f`|5|5|
+|`͡`|4|4|
+|`k`|4|4|
+|`v`|4|4|
+|`l`|3|3|
+|`ɔ`|2|2|
+|`d`|2|2|
+|`p`|2|2|
+|`p'`|2|2|
+|`k'`|2|2|
+|`n`|1|1|
+|`ɹ`|1|1|
+|`m`|1|1|

@@ -2,7 +2,7 @@
 publish: true
 title: zözë
 created: 2026-10-27T16:34:58.143Z
-modified: 2026-10-27T16:35:52.978Z
+modified: 2026-11-02T03:11:48.087Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[zoza]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/zoza]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

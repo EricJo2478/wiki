@@ -2,7 +2,7 @@
 publish: true
 title: vu̇
 created: 2026-10-27T15:46:48.623Z
-modified: 2026-11-01T15:01:02.222Z
+modified: 2026-11-02T02:40:46.617Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[vu]] / [[Vorathic Family/Vorathic/Lexicon/vo]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/vu|vu]] / [[Vorathic Family/Vorathic/Lexicon/vo|vo]]
 - **Historical Shift Notes:** Two proto words evolved into this one word. This contributed to the loss of the future tense in [[Vorathic Family/Abyssal/index|Abyssal]]
 
 ## Usage & Examples

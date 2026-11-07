@@ -2,7 +2,7 @@
 publish: true
 title: dë
 created: 2026-10-26T16:14:06.151Z
-modified: 2026-10-28T15:45:25.680Z
+modified: 2026-11-02T01:04:51.295Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[la]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/la|la]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

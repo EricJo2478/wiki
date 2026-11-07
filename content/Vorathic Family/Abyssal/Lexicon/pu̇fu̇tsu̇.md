@@ -2,7 +2,7 @@
 publish: true
 title: pu̇fu̇tsu̇
 created: 2026-10-27T16:27:37.788Z
-modified: 2026-10-28T02:10:34.726Z
+modified: 2026-11-02T03:08:26.200Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[wuwutsu]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wuwutsu]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

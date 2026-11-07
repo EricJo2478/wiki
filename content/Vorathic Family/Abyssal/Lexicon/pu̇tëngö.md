@@ -2,7 +2,7 @@
 publish: true
 title: pu̇tëngö
 created: 2026-10-27T16:15:13.001Z
-modified: 2026-10-28T02:06:41.294Z
+modified: 2026-11-02T03:02:44.756Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[wutango]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wutango]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

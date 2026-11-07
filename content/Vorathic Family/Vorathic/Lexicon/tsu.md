@@ -2,7 +2,7 @@
 publish: true
 title: tsu
 created: 2026-10-25T20:45:20.255Z
-modified: 2026-10-28T03:44:27.725Z
+modified: 2026-11-02T02:33:04.862Z
 tags:
   - lexicon
   - word
@@ -10,7 +10,7 @@ tags:
 ---
 
 - **Pronunciation (IPA):** t͡su
-- **Part of Speech:** postposition,verb
+- **Part of Speech:** postposition
 - **Root:** [[Vorathic Family/Vorathic/Lexicon/tsu.md|tsu]]
 
 ### Definitions

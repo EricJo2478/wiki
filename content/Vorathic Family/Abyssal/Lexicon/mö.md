@@ -2,7 +2,7 @@
 publish: true
 title: mö
 created: 2026-10-26T16:20:41.349Z
-modified: 2026-10-28T17:20:25.200Z
+modified: 2026-11-02T01:11:06.015Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[mo]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/mo|mo]]
 - **Historical Shift Notes:** Semantic bleaching caused the meaning to just be for comparison
 
 ## Usage & Examples

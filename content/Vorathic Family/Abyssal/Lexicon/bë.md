@@ -2,7 +2,7 @@
 publish: true
 title: bë
 created: 2026-10-26T16:00:45.863Z
-modified: 2026-10-28T18:08:05.097Z
+modified: 2026-11-02T02:47:22.715Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/ba]] / [[wa]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/ba|ba]] / [[Vorathic Family/Vorathic/Lexicon/wa|wa]]
 - **Historical Shift Notes:** Two different proto words evolved into the same word.
 
 ## Usage & Examples

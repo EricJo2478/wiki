@@ -2,7 +2,7 @@
 publish: true
 title: wutako
 created: 2026-10-26T02:58:36.772Z
-modified: 2026-10-29T03:51:30.933Z
+modified: 2026-11-02T02:54:41.687Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** wu.ta.ko
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/ko.md|ko]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/ko.md|ko]]
 
 ### Definitions
 
@@ -23,7 +23,7 @@ tags:
 
 - **Derivational Process:** compound
 - **Proto-Form:**
-- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing from there" from [[wu]], [[Vorathic Family/Vorathic/Lexicon/ta]] and [[Vorathic Family/Vorathic/Lexicon/ko]]
+- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing from there" from [[Vorathic Family/Vorathic/Lexicon/wu]], [[Vorathic Family/Vorathic/Lexicon/ta]] and [[Vorathic Family/Vorathic/Lexicon/ko]]
 
 ## Usage & Examples
 

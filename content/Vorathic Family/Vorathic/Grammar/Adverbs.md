@@ -6,7 +6,7 @@ aliases:
   - Adverb
 title: Vorathic Adverbs
 created: 2026-10-23T17:13:21.415Z
-modified: 2026-11-01T17:37:32.560Z
+modified: 2026-11-02T03:06:03.033Z
 tags:
   - grammar
   - adverb
@@ -21,12 +21,12 @@ Manner adverbs evolved using this proto construction. A stative [[Vorathic Famil
 
 ### Locational
 
-Many place [[Vorathic Family/Vorathic/Grammar/Nouns|nouns]] can be turned into locational adverbs by means of locative postpositions. There are 2 basic locational adverbs [[Vorathic Family/Vorathic/Lexicon/ngo|ngo]] "here" and [[Vorathic Family/Vorathic/Lexicon/ko|ko]] "there". These often appear with the [[tsu|allative]], [[Vorathic Family/Vorathic/Lexicon/ta|ablative]], and [[fa|illative]] postpositions. The following forms have fused over time due to frequent use.
+Many place [[Vorathic Family/Vorathic/Grammar/Nouns|nouns]] can be turned into locational adverbs by means of locative postpositions. There are 2 basic locational adverbs [[Vorathic Family/Vorathic/Lexicon/ngo|ngo]] "here" and [[Vorathic Family/Vorathic/Lexicon/ko|ko]] "there". These often appear with the [[Vorathic Family/Vorathic/Lexicon/tsu|allative]], [[Vorathic Family/Vorathic/Lexicon/ta|ablative]], and [[Vorathic Family/Vorathic/Lexicon/fa|illative]] postpositions. The following forms have fused over time due to frequent use.
 
 |                 | Standard                                      | Allative     | Ablative    | Illative    |
 | --------------- | --------------------------------------------- | ------------ | ----------- | ----------- |
-| Proximal (here) | [[Vorathic Family/Vorathic/Lexicon/ngo\|ngo]] | [[wutsungo]] | [[wutango]] | [[wufango]] |
-| Distal (there)  | [[Vorathic Family/Vorathic/Lexicon/ko\|ko]]   | [[wutsuko]]  | [[wutako]]  | [[wufako]]  |
+| Proximal (here) | [[Vorathic Family/Vorathic/Lexicon/ngo\|ngo]] | [[Vorathic Family/Vorathic/Lexicon/wutsungo]] | [[Vorathic Family/Vorathic/Lexicon/wutango]] | [[Vorathic Family/Vorathic/Lexicon/wufango]] |
+| Distal (there)  | [[Vorathic Family/Vorathic/Lexicon/ko\|ko]]   | [[Vorathic Family/Vorathic/Lexicon/wutsuko]]  | [[Vorathic Family/Vorathic/Lexicon/wutako]]  | [[Vorathic Family/Vorathic/Lexicon/wufako]]  |
 For the generic locative sense of [[Vorathic Family/Vorathic/Lexicon/ngo|ngo]] or [[Vorathic Family/Vorathic/Lexicon/ko|ko]] the standard form is used. Something like the allative would also be used for the locative for a standard place noun. These adverbs differ in that they are primarily used for motion or for emphasis.
 
 ### Temporal

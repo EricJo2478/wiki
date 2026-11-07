@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** sa
 * **Part of Speech:** auxiliary,verb
-* **Root:** [[Vorathic Family/Vorathic/Lexicon/sa.md|sa]]
+* **Root:** [[Vorathic Family/Infernal/Lexicon/sa.md|sa]]
 
 ### Definitions
 

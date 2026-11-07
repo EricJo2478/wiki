@@ -2,7 +2,7 @@
 publish: true
 title: tsu̇
 created: 2026-10-26T16:58:24.834Z
-modified: 2026-10-28T16:01:45.435Z
+modified: 2026-11-02T02:32:21.680Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[tsu]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/tsu|tsu]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

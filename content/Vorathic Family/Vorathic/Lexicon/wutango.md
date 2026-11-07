@@ -2,7 +2,7 @@
 publish: true
 title: wutango
 created: 2026-10-26T02:55:19.532Z
-modified: 2026-10-29T03:51:30.906Z
+modified: 2026-11-02T02:54:41.712Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** wu.ta.ŋo
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/ngo.md|ngo]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/ngo.md|ngo]]
 
 ### Definitions
 
@@ -23,7 +23,7 @@ tags:
 
 - **Derivational Process:** compound
 - **Proto-Form:**
-- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing from here" from [[wu]], [[Vorathic Family/Vorathic/Lexicon/ta]] and [[Vorathic Family/Vorathic/Lexicon/ngo]]
+- **Historical Shift Notes:** This compounded at the vorathic stage meaning "thing from here" from [[Vorathic Family/Vorathic/Lexicon/wu]], [[Vorathic Family/Vorathic/Lexicon/ta]] and [[Vorathic Family/Vorathic/Lexicon/ngo]]
 
 ## Usage & Examples
 

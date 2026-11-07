@@ -2,7 +2,7 @@
 publish: true
 title: Vorathic Conjugation
 created: 2026-10-25T22:11:13.592Z
-modified: 2026-10-29T04:01:17.805Z
+modified: 2026-11-02T01:23:49.333Z
 tags:
   - grammar
   - conjugation
@@ -67,7 +67,7 @@ _Note: From IV and form VI make an ejective consonant. If the base word does use
 | V          | towaga  | towanod  | towalor   | towa'o | towawa  | towa'u |
 | VI         | t'uga   | t'unod   | t'ulor    | t'u'o  | t'uwa   | tu     |
 
-## Class 3 ([[mo]])
+## Class 3 ([[Vorathic Family/Vorathic/Lexicon/mo|mo]])
 
 | Intranitive | Form  |
 | ----------- | ----- |
@@ -87,7 +87,7 @@ _Note: From IV and form VI make an ejective consonant. If the base word does use
 | V          | mowaga  | mowanod  | mowalor   | mowa'o | mowawa  | mowa'u |
 | VI         | mo'uga  | mo'unod  | mo'ulor   | mo'u'o | mo'uwa  | mo'u   |
 
-## Class 4 ([[la]])
+## Class 4 ([[Vorathic Family/Vorathic/Lexicon/la|la]])
 
 | Intranitive | Form  |
 | ----------- | ----- |
@@ -107,7 +107,7 @@ _Note: From IV and form VI make an ejective consonant. If the base word does use
 | V          | lawaga  | lawanod  | lawalor   | lawa'o | lawawa  | lawa'u |
 | VI         | la'uga  | la'unod  | la'ulor   | la'u'o | la'uwa  | mo'u   |
 
-## Class 5 ([[ngu]])
+## Class 5 ([[Vorathic Family/Vorathic/Lexicon/ngu]])
 
 | Intranitive | Form   |
 | ----------- | ------ |
@@ -127,7 +127,7 @@ _Note: From IV and form VI make an ejective consonant. If the base word does use
 | V          | nguwaga  | nguwanod  | nguwalor  | nguwa'o | nguwawa  | nguwa'u |
 | VI         | nguga    | ngunod    | ngulor    | ngu'o   | nguwa    | ngu     |
 
-## Class 6 ([[su]])
+## Class 6 ([[Vorathic Family/Vorathic/Lexicon/su|su]])
 
 | Intranitive | Form  |
 | ----------- | ----- |

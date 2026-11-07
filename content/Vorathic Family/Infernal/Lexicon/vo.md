@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** vo
 * **Part of Speech:** noun,verb
-* **Root:** [[Vorathic Family/Vorathic/Lexicon/vo.md|vo]]
+* **Root:** [[Vorathic Family/Infernal/Lexicon/vo.md|vo]]
 
 ### Definitions
 

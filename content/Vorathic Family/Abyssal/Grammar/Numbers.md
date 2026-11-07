@@ -6,7 +6,7 @@ aliases:
   - Number
 title: Abyssal Numbers
 created: 2026-10-22T18:18:55.304Z
-modified: 2026-11-01T15:01:02.091Z
+modified: 2026-11-03T14:36:22.324Z
 tags:
   - number
   - grammar
@@ -102,7 +102,7 @@ _Note: Due to frequent use the words for numbers 7-10 are shortened in compounds
 
 # Numeral Glyphs
 
-Below is a chart of every unique glygh that can be written to form a number. It's kinda crazy. So as you may know from looking at the [[Orthography]] of [[Vorathic Family/Abyssal/index|Abyssal]] glyphs are written with a horizontal line at the bottom of the consonant, then the vowel is a small diacritic underneath. Well to make numbers the demons mark the "1"'s digit above this line. Underneat you count the "10"'s digit with small lines up until 5 lines when a horizontal line is used. 1 vertical and 1 horizontal line is 6x10. 2 horizontal lines is 7x10. 1 vertical and 2 horizontal lines is 8x10. Then we introduce a circle. 1 circle and 2 vertical lines is 9x10. 1 circle with a vertical line inside and 2 vertical lines outside is ax10. 1 circle with a horiontal line inside and 2 vertical lines outside is bx10. 1 circle with a horizontal and vertical line inside and 2 vertical lines outside is cx10.
+Below is a chart of every unique glygh that can be written to form a number. It's kinda crazy. So as you may know from looking at the [[Vorathic Family/Abyssal/Orthography]] of [[Vorathic Family/Abyssal/index|Abyssal]] glyphs are written with a horizontal line at the bottom of the consonant, then the vowel is a small diacritic underneath. Well to make numbers the demons mark the "1"'s digit above this line. Underneat you count the "10"'s digit with small lines up until 5 lines when a horizontal line is used. 1 vertical and 1 horizontal line is 6x10. 2 horizontal lines is 7x10. 1 vertical and 2 horizontal lines is 8x10. Then we introduce a circle. 1 circle and 2 vertical lines is 9x10. 1 circle with a vertical line inside and 2 vertical lines outside is ax10. 1 circle with a horiontal line inside and 2 vertical lines outside is bx10. 1 circle with a horizontal and vertical line inside and 2 vertical lines outside is cx10.
 
 With the combination of 13 (including nothing) characters above the line and 13 (including nothing) below up to 169 glyphs are present. Once we pass cc we start using a start postional system with mutliple glyphs.
 

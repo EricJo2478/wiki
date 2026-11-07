@@ -2,7 +2,7 @@
 publish: true
 title: dö
 created: 2026-10-26T16:18:35.450Z
-modified: 2026-10-28T16:15:19.755Z
+modified: 2026-11-02T01:06:02.432Z
 tags:
   - lexicon
   - word
@@ -35,7 +35,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[lo]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/lo|lo]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

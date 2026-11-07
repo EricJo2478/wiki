@@ -6,7 +6,7 @@ aliases:
   - Pronoun
 title: Grave Tongue Pronouns
 created: 2026-11-01T17:31:07.652Z
-modified: 2026-11-02T00:35:26.740Z
+modified: 2026-11-02T03:01:03.754Z
 tags:
   - grammar
   - pronoun
@@ -23,10 +23,10 @@ The 3rd person pronounds held on the class system of [[Vorathic Family/Vorathic/
 
 | Class           | Singular | Plural |
 | --------------- | -------- | ------ |
-| Animate         | [[wga]]  | _xxxx_ |
-| Dark            | [[wod]]  | _xxxx_ |
-| Light           | [[wur]]  | _xxxx_ |
+| Animate         | [[Vorathic Family/Vorathic/Lexicon/wga]]  | _xxxx_ |
+| Dark            | [[Vorathic Family/Vorathic/Lexicon/wod]]  | _xxxx_ |
+| Light           | [[Vorathic Family/Vorathic/Lexicon/wur]]  | _xxxx_ |
 | Tools           | [[u'o]]  | _xxxx_ |
-| Broken          | [[uwa]]  | _xxxx_ |
-| Nature/Abstract | [[wu]]   | _xxxx_ |
+| Broken          | [[Vorathic Family/Vorathic/Lexicon/uwa]]  | _xxxx_ |
+| Nature/Abstract | [[Vorathic Family/Vorathic/Lexicon/wu]]   | _xxxx_ |
 _Note that the demon class was reinterpreted as animate by the undead._

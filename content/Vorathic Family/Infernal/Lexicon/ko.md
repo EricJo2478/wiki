@@ -13,7 +13,7 @@ tags:
 
 * **Pronunciation (IPA):** ko
 * **Part of Speech:** noun
-* **Root:** [[Vorathic Family/Vorathic/Lexicon/ko.md|ko]]
+* **Root:** [[Vorathic Family/Infernal/Lexicon/ko.md|ko]]
 
 ### Definitions
 

@@ -2,7 +2,7 @@
 publish: true
 title: bu̇
 created: 2026-10-27T16:05:51.474Z
-modified: 2026-10-28T15:44:59.953Z
+modified: 2026-11-02T02:54:41.600Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[wu]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wu]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples
@@ -38,6 +38,6 @@ tags:
 | ------------------------------------------------------- | ------------------------- | ----------------------------------- |
 | [[Vorathic Family/Abyssal/Lexicon/u̇vë.md\|u̇vë]]       | <ul><li>pronoun</li></ul> | <ul><li>it</li></ul>                |
 | [[Vorathic Family/Abyssal/Lexicon/ngu̇vu̇.md\|ngu̇vu̇]] | <ul><li>adverb</li></ul>  | <ul><li>which</li></ul>             |
-| [[Vorathic Family/Abyssal/Lexicon/bu̇d.md\|bu̇d]]       | <ul><li>pronoun</li></ul> | <ul><li>it</li></ul>                |
 | [[Vorathic Family/Abyssal/Lexicon/bu̇vu̇.md\|bu̇vu̇]]   | <ul><li>noun</li></ul>    | <ul><li>what</li><li>who</li></ul>  |
+| [[Vorathic Family/Abyssal/Lexicon/bu̇d.md\|bu̇d]]       | <ul><li>pronoun</li></ul> | <ul><li>it</li></ul>                |
 | [[Vorathic Family/Abyssal/Lexicon/bgë.md\|bgë]]         | <ul><li>pronoun</li></ul> | <ul><li>they</li><li>them</li></ul> |

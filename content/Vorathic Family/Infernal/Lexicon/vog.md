@@ -36,5 +36,5 @@ tags:
 
 | File                                                   | POS                                 | Meaning                                 |
 | ------------------------------------------------------ | ----------------------------------- | --------------------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/vo.md\|vo]]         | <ul><li>noun</li><li>verb</li></ul> | <ul><li>child</li><li>to plot</li></ul> |
 | [[Vorathic Family/Infernal/Lexicon/vo'eta.md\|vo'eta]] | <ul><li>noun</li></ul>              | <ul><li>zombie</li></ul>                |
+| [[Vorathic Family/Infernal/Lexicon/vo.md\|vo]]         | <ul><li>noun</li><li>verb</li></ul> | <ul><li>child</li><li>to plot</li></ul> |

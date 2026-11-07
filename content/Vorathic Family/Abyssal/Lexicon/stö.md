@@ -2,7 +2,7 @@
 publish: true
 title: stö
 created: 2026-10-27T16:36:30.450Z
-modified: 2026-10-28T15:46:55.600Z
+modified: 2026-11-02T03:12:39.260Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[zto]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/zto]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

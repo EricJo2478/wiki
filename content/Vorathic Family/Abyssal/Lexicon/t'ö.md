@@ -2,7 +2,7 @@
 publish: true
 title: t'ö
 created: 2026-10-26T16:42:27.453Z
-modified: 2026-10-27T15:52:54.560Z
+modified: 2026-11-02T01:24:38.951Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** classifier
-- **Proto-Form:** [[t'o]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/t'o|t'o]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

@@ -2,7 +2,7 @@
 publish: true
 title: ngu̇bëg
 created: 2026-10-26T16:30:57.568Z
-modified: 2026-10-26T16:34:09.976Z
+modified: 2026-11-02T01:16:51.561Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[ngupag]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/ngupag|ngupag]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples
@@ -38,5 +38,5 @@ tags:
 | ------------------------------------------------- | ------------------------- | ---------------------------------------- |
 | [[Vorathic Family/Abyssal/Lexicon/dëgë.md\|dëgë]] | <ul><li>noun</li></ul>    | <ul><li>power</li><li>strength</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/bëg.md\|bëg]]   | <ul><li>verb</li></ul>    | <ul><li>to cause</li></ul>               |
-| [[Vorathic Family/Abyssal/Lexicon/bë.md\|bë]]     | <ul><li>noun</li></ul>    | <ul><li>essence</li><li>energy</li></ul> |
 | [[Vorathic Family/Abyssal/Lexicon/bë'ö.md\|bë'ö]] | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |
+| [[Vorathic Family/Abyssal/Lexicon/bë.md\|bë]]     | <ul><li>noun</li></ul>    | <ul><li>essence</li><li>energy</li></ul> |

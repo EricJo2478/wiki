@@ -2,7 +2,7 @@
 publish: true
 title: vë
 created: 2026-10-27T15:43:46.548Z
-modified: 2026-10-27T15:44:32.118Z
+modified: 2026-11-02T02:37:08.752Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** root
-- **Proto-Form:** [[va]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/va|va]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

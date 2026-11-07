@@ -2,7 +2,7 @@
 publish: true
 title: böd
 created: 2026-10-27T16:03:11.156Z
-modified: 2026-10-28T01:59:26.294Z
+modified: 2026-11-02T02:55:53.506Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[wod]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wod]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** zto
 - **Part of Speech:** conjunction,postposition
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/za.md|za]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/za.md|za]]
 
 ### Definitions
 

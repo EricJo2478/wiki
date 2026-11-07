@@ -2,7 +2,7 @@
 publish: true
 title: pu̇tsu̇ngö
 created: 2026-10-27T16:20:18.133Z
-modified: 2026-10-28T02:07:49.620Z
+modified: 2026-11-02T03:06:03.018Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[wutsungo]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wutsungo]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples

@@ -2,7 +2,7 @@
 publish: true
 title: pu̇fëkö
 created: 2026-10-27T16:07:51.828Z
-modified: 2026-10-28T02:01:42.237Z
+modified: 2026-11-02T02:59:07.353Z
 tags:
   - lexicon
   - word
@@ -24,7 +24,7 @@ tags:
 ## Etymology & Evolution
 
 - **Derivational Process:** compound
-- **Proto-Form:** [[wufako]]
+- **Proto-Form:** [[Vorathic Family/Vorathic/Lexicon/wufako]]
 - **Historical Shift Notes:**
 
 ## Usage & Examples
