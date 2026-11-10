@@ -2,14 +2,14 @@
 publish: true
 title: va
 created: 2026-11-02T02:36:57.362Z
-modified: 2026-11-02T02:39:22.374Z
+modified: 2026-11-07T15:33:40.534Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">va</span>
 
 * **Pronunciation (IPA):** va
 * **Part of Speech:** noun

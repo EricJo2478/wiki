@@ -2,7 +2,7 @@
 publish: true
 title: wà
 created: 2026-10-25T14:22:14.974Z
-modified: 2026-10-26T02:09:21.185Z
+modified: 2026-11-10T14:48:48.071Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No related words found._

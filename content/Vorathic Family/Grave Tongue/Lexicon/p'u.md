@@ -2,14 +2,14 @@
 publish: true
 title: p'u
 created: 2026-11-02T01:20:08.707Z
-modified: 2026-11-02T01:20:51.938Z
+modified: 2026-11-07T15:31:38.658Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Pu</span>
 
 * **Pronunciation (IPA):** p'u
 * **Part of Speech:** verb,conjunction

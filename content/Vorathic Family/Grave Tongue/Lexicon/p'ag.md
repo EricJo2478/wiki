@@ -2,14 +2,14 @@
 publish: true
 title: p'ag
 created: 2026-11-02T01:19:21.818Z
-modified: 2026-11-02T01:19:58.349Z
+modified: 2026-11-07T15:31:32.244Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Pag</span>
 
 * **Pronunciation (IPA):** p'ag
 * **Part of Speech:** verb

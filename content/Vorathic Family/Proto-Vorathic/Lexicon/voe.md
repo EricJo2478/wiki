@@ -2,7 +2,7 @@
 publish: true
 title: voe
 created: 2026-10-25T14:48:54.075Z
-modified: 2026-10-25T17:53:10.406Z
+modified: 2026-11-10T14:46:18.792Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No related words found._

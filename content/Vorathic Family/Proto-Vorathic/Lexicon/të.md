@@ -2,7 +2,7 @@
 publish: true
 title: të
 created: 2026-10-13T14:42:29.158Z
-modified: 2026-10-25T17:16:02.773Z
+modified: 2026-11-10T14:38:25.582Z
 tags:
   - lexicon
   - word
@@ -32,5 +32,6 @@ tags:
 
 ## Related Words (same root)
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+|Word1|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tësu\|tësu]]|- verb|- to refuse|

@@ -2,14 +2,14 @@
 publish: true
 title: k'o
 created: 2026-11-02T01:02:16.464Z
-modified: 2026-11-02T01:03:15.801Z
+modified: 2026-11-07T15:29:40.629Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Ko</span>
 
 * **Pronunciation (IPA):** k'o
 * **Part of Speech:** adverb,demonstrative

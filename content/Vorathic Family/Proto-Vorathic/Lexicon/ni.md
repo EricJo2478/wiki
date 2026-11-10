@@ -2,7 +2,7 @@
 publish: true
 title: ni
 created: 2026-10-25T14:52:44.506Z
-modified: 2026-10-28T03:12:17.216Z
+modified: 2026-11-10T14:32:23.149Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No other words share this root._

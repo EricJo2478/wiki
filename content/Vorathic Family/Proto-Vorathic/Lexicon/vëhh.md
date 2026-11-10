@@ -2,18 +2,16 @@
 publish: true
 title: vëhh
 created: 2026-10-25T15:48:30.526Z
-modified: 2026-10-25T15:48:56.190Z
+modified: 2026-11-10T14:45:51.145Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="proto-vorathic"></span>
-
-* **Pronunciation (IPA):** vəɦ
-* **Part of Speech:** noun
-* **Root:** vëhh
+- **Pronunciation (IPA):** vəɦ
+- **Part of Speech:** noun
+- **Root:** vëhh
 
 ### Definitions
 
@@ -32,7 +30,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No related words found._

@@ -2,14 +2,14 @@
 publish: true
 title: t'oga
 created: 2026-11-02T02:30:39.178Z
-modified: 2026-11-02T02:31:18.779Z
+modified: 2026-11-07T15:32:50.648Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Toga</span>
 
 * **Pronunciation (IPA):** t'o.ga
 * **Part of Speech:** noun

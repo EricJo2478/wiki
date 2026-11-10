@@ -2,7 +2,7 @@
 publish: true
 title: me
 created: 2026-10-25T04:26:49.554Z
-modified: 2026-10-25T04:28:44.130Z
+modified: 2026-11-10T14:28:05.786Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No other words share this root._

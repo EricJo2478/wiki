@@ -2,14 +2,14 @@
 publish: true
 title: wu
 created: 2026-11-02T02:54:39.108Z
-modified: 2026-11-02T02:58:49.166Z
+modified: 2026-11-07T15:34:36.499Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wu</span>
 
 * **Pronunciation (IPA):** wu
 * **Part of Speech:** verb,noun,pronoun

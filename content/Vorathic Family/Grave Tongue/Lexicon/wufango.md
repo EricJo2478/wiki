@@ -2,14 +2,14 @@
 publish: true
 title: wufango
 created: 2026-11-02T02:59:51.097Z
-modified: 2026-11-02T03:00:33.346Z
+modified: 2026-11-07T15:34:47.796Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wufaNo</span>
 
 * **Pronunciation (IPA):** wu.fa.ŋo
 * **Part of Speech:** adverb

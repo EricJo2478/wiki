@@ -2,7 +2,7 @@
 publish: true
 title: zun
 created: 2026-10-25T04:29:24.867Z
-modified: 2026-10-25T15:46:12.186Z
+modified: 2026-11-10T14:53:27.737Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No related words found._

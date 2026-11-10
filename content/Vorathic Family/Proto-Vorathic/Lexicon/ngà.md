@@ -2,7 +2,7 @@
 publish: true
 title: ngà
 created: 2026-10-25T14:26:01.734Z
-modified: 2026-10-25T14:26:36.252Z
+modified: 2026-11-10T14:28:28.399Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,8 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+|Word1|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/soengà\|soengà]]|- noun|- empty<br>- nothing|

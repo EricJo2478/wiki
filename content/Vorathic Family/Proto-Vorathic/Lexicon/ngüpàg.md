@@ -2,7 +2,7 @@
 publish: true
 title: ngüpàg
 created: 2026-10-25T16:33:19.336Z
-modified: 2026-10-25T16:34:34.754Z
+modified: 2026-11-10T14:30:48.043Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** ŋy.pɑg
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/pàg.md|pàg]]
+- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/pàg.md|pàg]],[[Vorathic Family/Proto-Vorathic/Lexicon/ngü.md|ngü]]
 
 ### Definitions
 
@@ -30,8 +30,12 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                   | POS                    | Meaning                 |
-| ------------------------------------------------------ | ---------------------- | ----------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/pàg.md\|pàg]] | <ul><li>verb</li></ul> | <ul><li>cause</li></ul> |
+|Word5|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngü\|ngü]]|-|- (interrogative)|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngükï\|ngükï]]|- adverb|- how|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngüwï\|ngüwï]]|- adverb|- which|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/pàg\|pàg]]|- verb|- to cause|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tehehhüfàpàg\|tehehhüfàpàg]]|- noun|- soulmate|

@@ -2,14 +2,14 @@
 publish: true
 title: wuwu
 created: 2026-11-02T03:06:53.886Z
-modified: 2026-11-02T03:07:28.340Z
+modified: 2026-11-07T15:35:32.821Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wuwu</span>
 
 * **Pronunciation (IPA):** wu.wu
 * **Part of Speech:** noun
@@ -37,8 +37,8 @@ tags:
 | File                                                           | POS                                                 | Meaning                                                                               |
 | -------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [[Vorathic Family/Grave Tongue/Lexicon/wur.md\|wur]]           | <ul><li>pronoun</li></ul>                           | <ul><li>they</li><li>them</li></ul>                                                   |
-| [[Vorathic Family/Grave Tongue/Lexicon/wu.md\|wu]]             | <ul><li>verb</li><li>noun</li><li>pronoun</li></ul> | <ul><li>to be dark</li><li>thing</li><li>they</li><li>them</li></ul>                  |
 | [[Vorathic Family/Grave Tongue/Lexicon/wod.md\|wod]]           | <ul><li>pronoun</li></ul>                           | <ul><li>they</li><li>them</li></ul>                                                   |
+| [[Vorathic Family/Grave Tongue/Lexicon/wu.md\|wu]]             | <ul><li>verb</li><li>noun</li><li>pronoun</li></ul> | <ul><li>to be dark</li><li>thing</li><li>they</li><li>them</li></ul>                  |
 | [[Vorathic Family/Grave Tongue/Lexicon/wo.md\|wo]]             | <ul><li>pronoun</li><li>verb</li></ul>              | <ul><li>they</li><li>them</li><li>to be light</li><li>bright</li><li>to run</li></ul> |
 | [[Vorathic Family/Grave Tongue/Lexicon/wga.md\|wga]]           | <ul><li>pronoun</li></ul>                           | <ul><li>they</li><li>them</li></ul>                                                   |
 | [[Vorathic Family/Grave Tongue/Lexicon/uwa.md\|uwa]]           | <ul><li>pronoun</li></ul>                           | <ul><li>they</li><li>them</li></ul>                                                   |

@@ -2,14 +2,14 @@
 publish: true
 title: wa
 created: 2026-11-02T02:47:06.260Z
-modified: 2026-11-02T02:48:23.529Z
+modified: 2026-11-07T15:33:57.428Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wa</span>
 
 * **Pronunciation (IPA):** wa
 * **Part of Speech:** noun,pronoun

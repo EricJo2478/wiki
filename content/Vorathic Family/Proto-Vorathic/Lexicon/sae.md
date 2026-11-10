@@ -2,7 +2,7 @@
 publish: true
 title: sae
 created: 2026-10-25T14:21:04.063Z
-modified: 2026-10-25T17:18:11.179Z
+modified: 2026-11-10T14:35:10.538Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No other words share this root._

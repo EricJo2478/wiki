@@ -2,14 +2,14 @@
 publish: true
 title: so
 created: 2026-11-02T01:21:26.365Z
-modified: 2026-11-02T01:22:18.409Z
+modified: 2026-11-07T15:31:48.867Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">so</span>
 
 * **Pronunciation (IPA):** so
 * **Part of Speech:** verb

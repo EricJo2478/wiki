@@ -2,14 +2,14 @@
 publish: true
 title: t'a
 created: 2026-11-02T02:25:40.139Z
-modified: 2026-11-02T02:26:37.449Z
+modified: 2026-11-07T15:32:12.983Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Ta</span>
 
 * **Pronunciation (IPA):** t'a
 * **Part of Speech:** postposition

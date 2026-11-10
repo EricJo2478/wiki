@@ -2,14 +2,14 @@
 publish: true
 title: nguku
 created: 2026-11-02T01:15:25.279Z
-modified: 2026-11-02T01:16:29.492Z
+modified: 2026-11-07T15:30:58.900Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Nuku</span>
 
 * **Pronunciation (IPA):** ŋu.ku
 * **Part of Speech:** adverb

@@ -2,14 +2,14 @@
 publish: true
 title: wufako
 created: 2026-11-02T02:59:03.234Z
-modified: 2026-11-02T02:59:40.868Z
+modified: 2026-11-07T15:34:41.803Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wufako</span>
 
 * **Pronunciation (IPA):** wu.fa.ko
 * **Part of Speech:** adverb

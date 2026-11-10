@@ -2,7 +2,7 @@
 publish: true
 title: loer
 created: 2026-10-25T16:00:40.636Z
-modified: 2026-10-26T02:09:00.489Z
+modified: 2026-11-10T14:27:12.803Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No other words share this root._

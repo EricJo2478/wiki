@@ -2,14 +2,14 @@
 publish: true
 title: vu
 created: 2026-11-02T02:40:33.893Z
-modified: 2026-11-02T02:41:19.532Z
+modified: 2026-11-07T15:33:49.358Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">vu</span>
 
 * **Pronunciation (IPA):** vu
 * **Part of Speech:** noun

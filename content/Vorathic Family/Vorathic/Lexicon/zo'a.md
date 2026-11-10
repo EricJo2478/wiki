@@ -34,6 +34,6 @@ tags:
 
 | File                                               | POS                                                | Meaning                                                          |
 | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
-| [[Vorathic Family/Vorathic/Lexicon/zoza.md\|zoza]] | <ul><li>adverb</li></ul>                           | <ul><li>also</li></ul>                                           |
 | [[Vorathic Family/Vorathic/Lexicon/zto.md\|zto]]   | <ul><li>conjunction</li><li>postposition</li></ul> | <ul><li>against</li><li>but</li></ul>                            |
+| [[Vorathic Family/Vorathic/Lexicon/zoza.md\|zoza]] | <ul><li>adverb</li></ul>                           | <ul><li>also</li></ul>                                           |
 | [[Vorathic Family/Vorathic/Lexicon/za.md\|za]]     | <ul><li>postposition</li><li>verb</li></ul>        | <ul><li>comitative</li><li>to bind</li><li>to be bound</li></ul> |

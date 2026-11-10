@@ -2,14 +2,14 @@
 publish: true
 title: zoza
 created: 2026-11-02T03:11:46.519Z
-modified: 2026-11-02T03:12:24.553Z
+modified: 2026-11-07T15:36:06.936Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">zoza</span>
 
 * **Pronunciation (IPA):** zo.za
 * **Part of Speech:** adverb

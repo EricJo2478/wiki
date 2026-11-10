@@ -36,5 +36,5 @@ tags:
 
 | File                                               | POS                       | Meaning                                  |
 | -------------------------------------------------- | ------------------------- | ---------------------------------------- |
-| [[Vorathic Family/Infernal/Lexicon/be'a.md\|be'a]] | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |
 | [[Vorathic Family/Infernal/Lexicon/be.md\|be]]     | <ul><li>noun</li></ul>    | <ul><li>essence</li><li>energy</li></ul> |
+| [[Vorathic Family/Infernal/Lexicon/be'a.md\|be'a]] | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |

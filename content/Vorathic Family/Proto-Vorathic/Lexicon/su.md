@@ -2,7 +2,7 @@
 publish: true
 title: su
 created: 2026-10-25T14:28:57.367Z
-modified: 2026-10-25T14:29:29.602Z
+modified: 2026-11-10T14:36:50.256Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,8 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+|Word1|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tësu\|tësu]]|- verb|- to refuse|

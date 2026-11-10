@@ -2,18 +2,16 @@
 publish: true
 title: zae
 created: 2026-10-25T14:21:43.019Z
-modified: 2026-10-25T17:14:35.377Z
+modified: 2026-11-10T14:50:51.534Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="proto-vorathic"></span>
-
-* **Pronunciation (IPA):** zæ
-* **Part of Speech:** noun,postposition
-* **Root:** zae
+- **Pronunciation (IPA):** zæ
+- **Part of Speech:** noun,postposition
+- **Root:** zae
 
 ### Definitions
 
@@ -32,9 +30,9 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                         | POS                                                | Meaning                               |
-| ------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/zaete.md\|zaete]]   | <ul><li>postposition</li><li>conjunction</li></ul> | <ul><li>against</li><li>but</li></ul> |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/zoezae.md\|zoezae]] | <ul><li>adverb</li><li>conjunction</li></ul>       | <ul><li>also</li><li>and</li></ul>    |
+|Word2|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/zaete\|zaete]]|- postposition<br>- conjunction|- against<br>- but|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/zoezae\|zoezae]]|- adverb<br>- conjunction|- also<br>- and|

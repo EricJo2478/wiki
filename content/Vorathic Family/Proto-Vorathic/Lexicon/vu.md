@@ -2,7 +2,7 @@
 publish: true
 title: vu
 created: 2026-10-25T14:28:09.590Z
-modified: 2026-10-25T14:28:48.139Z
+modified: 2026-11-10T14:46:36.228Z
 tags:
   - lexicon
   - word
@@ -30,8 +30,8 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                           | POS                    | Meaning                  |
-| -------------------------------------------------------------- | ---------------------- | ------------------------ |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/vuhhüte.md\|vuhhüte]] | <ul><li>noun</li></ul> | <ul><li>zombie</li></ul> |
+|Word1|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/vuhhüte\|vuhhüte]]|- noun|- zombie|

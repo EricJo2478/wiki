@@ -2,14 +2,14 @@
 publish: true
 title: zto
 created: 2026-11-02T03:12:37.394Z
-modified: 2026-11-02T03:13:23.496Z
+modified: 2026-11-07T15:36:15.146Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">zto</span>
 
 * **Pronunciation (IPA):** zto
 * **Part of Speech:** conjunction,postposition

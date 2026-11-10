@@ -2,14 +2,14 @@
 publish: true
 title: wutsungo
 created: 2026-11-02T03:05:59.816Z
-modified: 2026-11-02T03:06:44.217Z
+modified: 2026-11-07T15:35:27.918Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wuSuNo</span>
 
 * **Pronunciation (IPA):** wu.t͡su.ŋo
 * **Part of Speech:** adverb

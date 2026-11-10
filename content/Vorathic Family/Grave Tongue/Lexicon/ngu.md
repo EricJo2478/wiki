@@ -2,14 +2,14 @@
 publish: true
 title: ngu
 created: 2026-11-02T01:14:04.950Z
-modified: 2026-11-02T01:15:03.867Z
+modified: 2026-11-07T15:30:53.555Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Nu</span>
 
 * **Pronunciation (IPA):** ŋu
 * **Part of Speech:** verb

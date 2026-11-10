@@ -2,14 +2,14 @@
 publish: true
 title: t'o
 created: 2026-11-02T01:24:29.224Z
-modified: 2026-11-02T02:30:21.125Z
+modified: 2026-11-07T15:32:43.041Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">To</span>
 
 * **Pronunciation (IPA):** t'o
 * **Part of Speech:** noun,verb

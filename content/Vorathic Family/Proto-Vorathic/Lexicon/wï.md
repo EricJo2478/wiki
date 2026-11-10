@@ -2,7 +2,7 @@
 publish: true
 title: wï
 created: 2026-10-25T14:43:56.336Z
-modified: 2026-10-25T15:16:40.459Z
+modified: 2026-11-10T14:49:56.063Z
 tags:
   - lexicon
   - word
@@ -30,9 +30,9 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Word
 
-| File                                                       | POS                      | Meaning                                                            |
-| ---------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------ |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/ngüwï.md\|ngüwï]] | <ul><li>adverb</li></ul> | <ul><li>which</li></ul>                                            |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hhüwï.md\|hhüwï]] | <ul><li>noun</li></ul>   | <ul><li>mystery</li><li>unknown</li><li>what</li><li>who</li></ul> |
+|Word2|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hhüwï\|hhüwï]]|- noun|- mystery<br>- what<br>- who|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngüwï\|ngüwï]]|- adverb|- which|

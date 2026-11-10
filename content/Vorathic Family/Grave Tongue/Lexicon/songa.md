@@ -2,14 +2,14 @@
 publish: true
 title: songa
 created: 2026-11-02T01:22:33.903Z
-modified: 2026-11-02T01:23:19.773Z
+modified: 2026-11-07T15:31:54.968Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">soNa</span>
 
 * **Pronunciation (IPA):** so.ŋa
 * **Part of Speech:** noun

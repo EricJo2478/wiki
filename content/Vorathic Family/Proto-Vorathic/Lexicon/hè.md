@@ -2,22 +2,21 @@
 publish: true
 title: hè
 created: 2026-10-25T14:26:42.970Z
-modified: 2026-10-26T02:09:14.189Z
+modified: 2026-11-10T14:24:15.454Z
 tags:
   - lexicon
   - word
-  - WIP
 ---
 
 - **Orthography:** <span class="proto-vorathic"></span>
 
 * **Pronunciation (IPA):** hɛ
-* **Part of Speech:** noun
+* **Part of Speech:** postposition
 * **Root:** hè
 
 ### Definitions
 
--
+- (to mark a noun as being related to tools or instruments.)
 
 ---
 
@@ -32,7 +31,8 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+|Word1|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tehè\|tehè]]|- noun|- human<br>- mortal|

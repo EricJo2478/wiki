@@ -2,14 +2,14 @@
 publish: true
 title: t'ag
 created: 2026-11-02T02:26:47.899Z
-modified: 2026-11-02T02:28:04.011Z
+modified: 2026-11-07T15:32:17.594Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Tag</span>
 
 * **Pronunciation (IPA):** t'ag
 * **Part of Speech:** verb

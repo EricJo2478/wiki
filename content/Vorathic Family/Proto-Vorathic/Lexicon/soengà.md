@@ -2,7 +2,7 @@
 publish: true
 title: soengà
 created: 2026-10-28T03:46:52.305Z
-modified: 2026-10-28T03:48:27.645Z
+modified: 2026-11-10T14:36:26.019Z
 tags:
   - lexicon
   - word
@@ -30,8 +30,9 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                   | POS                                      | Meaning                                          |
-| ------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------ |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/soe.md\|soe]] | <ul><li>verb</li><li>auxiliary</li></ul> | <ul><li>fail</li><li>negative polarity</li></ul> |
+|Word2|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngà\|ngà]]|- noun|- place|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/soe\|soe]]|- verb<br>- auxiliary|- to fail<br>- (negative)|

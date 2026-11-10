@@ -2,7 +2,7 @@
 publish: true
 title: zoezae
 created: 2026-10-25T15:15:38.870Z
-modified: 2026-10-25T21:08:36.526Z
+modified: 2026-11-10T14:52:53.653Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** zø.zæ
 - **Part of Speech:** adverb,conjunction
-- **Root:** zae
+- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/zae.md|zae]],[[zoe|zoe]]
 
 ### Definitions
 
@@ -30,9 +30,9 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                       | POS                                                | Meaning                                   |
-| ---------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/zaete.md\|zaete]] | <ul><li>postposition</li><li>conjunction</li></ul> | <ul><li>against</li><li>but</li></ul>     |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/zae.md\|zae]]     | <ul><li>noun</li><li>postposition</li></ul>        | <ul><li>side</li><li>comitative</li></ul> |
+|Word2|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/zae\|zae]]|- noun<br>- postposition|- side<br>- (comitative case)|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/zaete\|zaete]]|- postposition<br>- conjunction|- against<br>- but|

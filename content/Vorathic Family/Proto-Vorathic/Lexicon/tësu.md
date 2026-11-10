@@ -2,7 +2,7 @@
 publish: true
 title: tësu
 created: 2026-10-28T03:38:33.905Z
-modified: 2026-10-28T03:41:20.147Z
+modified: 2026-11-10T14:44:28.723Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,9 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+|Word2|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/su\|su]]|- verb|- to push|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/të\|të]]|- noun<br>- postposition|- back<br>- (ablative case)|

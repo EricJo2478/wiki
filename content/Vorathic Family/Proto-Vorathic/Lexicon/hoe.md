@@ -2,20 +2,20 @@
 publish: true
 title: hoe
 created: 2026-10-25T14:41:05.052Z
-modified: 2026-10-26T03:28:53.275Z
+modified: 2026-11-10T14:26:15.913Z
 tags:
   - lexicon
   - word
-  - WIP
 ---
 
 - **Pronunciation (IPA):** hø
-- **Part of Speech:** verb
+- **Part of Speech:** verb,noun
 - **Root:** hoe
 
 ### Definitions
 
--
+- (sv.) constituting or forming a large number; numerous.
+- (n.VI) great numbers or quantities
 
 ---
 
@@ -25,12 +25,19 @@ tags:
 - **Proto-Form:**
 - **Historical Shift Notes:**
 
+## Derivation
+
+hoetegë "horde", "army"
+hoehhë "group"
+hoesu "to multiply", "to breed"
+hoeràb "sex toy"
+hoetë "to be alone"
+
 ## Usage & Examples
 
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No other words share this root._

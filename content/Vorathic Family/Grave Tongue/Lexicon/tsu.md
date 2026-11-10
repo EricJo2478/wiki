@@ -2,14 +2,14 @@
 publish: true
 title: tsu
 created: 2026-11-02T02:31:42.393Z
-modified: 2026-11-02T02:33:32.785Z
+modified: 2026-11-07T15:33:03.340Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Su</span>
 
 * **Pronunciation (IPA):** t͡su
 * **Part of Speech:** postposition

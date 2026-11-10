@@ -2,7 +2,7 @@
 publish: true
 title: pu
 created: 2026-10-25T14:54:01.196Z
-modified: 2026-10-26T03:15:11.233Z
+modified: 2026-11-10T14:34:09.821Z
 tags:
   - lexicon
   - word
@@ -32,5 +32,4 @@ tags:
 
 ## Related Words (same root)
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No other words share this root._

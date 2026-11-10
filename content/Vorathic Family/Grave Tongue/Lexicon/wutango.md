@@ -2,14 +2,14 @@
 publish: true
 title: wutango
 created: 2026-11-02T03:02:42.570Z
-modified: 2026-11-02T03:03:27.336Z
+modified: 2026-11-07T15:35:04.084Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wutaNo</span>
 
 * **Pronunciation (IPA):** wu.ta.ŋo
 * **Part of Speech:** adverb

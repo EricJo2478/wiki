@@ -2,14 +2,14 @@
 publish: true
 title: zun
 created: 2026-11-02T03:13:40.562Z
-modified: 2026-11-02T03:14:14.283Z
+modified: 2026-11-07T15:36:21.622Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">zun</span>
 
 * **Pronunciation (IPA):** zun
 * **Part of Speech:** noun

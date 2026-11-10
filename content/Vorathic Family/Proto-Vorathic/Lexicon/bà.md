@@ -2,11 +2,10 @@
 publish: true
 title: bà
 created: 2026-10-25T14:50:46.829Z
-modified: 2026-10-25T17:50:47.720Z
+modified: 2026-11-10T14:23:45.735Z
 tags:
   - lexicon
   - word
-  - WIP
 ---
 
 - **Pronunciation (IPA):** bɑ
@@ -15,7 +14,8 @@ tags:
 
 ### Definitions
 
--
+- (v.) to undergo or feel pain or distress.
+- (v.) to sustain injury, disadvantage, or loss.
 
 ---
 
@@ -25,12 +25,18 @@ tags:
 - **Proto-Form:**
 - **Historical Shift Notes:**
 
+## Derivation
+
+bàtegë "torturer"
+bàngà "prison"
+bàràb "weapon"
+bàtë "to heal"
+
 ## Usage & Examples
 
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No other words share this root._

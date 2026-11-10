@@ -2,7 +2,7 @@
 publish: true
 title: tàg
 created: 2026-10-25T04:25:32.245Z
-modified: 2026-10-25T15:45:49.165Z
+modified: 2026-11-10T14:37:17.323Z
 tags:
   - lexicon
   - word
@@ -32,5 +32,6 @@ tags:
 
 ## Related Words (same root)
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+|Word1|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tàghhë\|tàghhë]]|- noun|- power<br>- strength|

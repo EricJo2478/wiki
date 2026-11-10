@@ -2,14 +2,14 @@
 publish: true
 title: wutako
 created: 2026-11-02T03:01:54.571Z
-modified: 2026-11-02T03:02:31.758Z
+modified: 2026-11-07T15:34:58.279Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wutako</span>
 
 * **Pronunciation (IPA):** wu.ta.ko
 * **Part of Speech:** adverb

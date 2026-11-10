@@ -2,14 +2,14 @@
 publish: true
 title: la
 created: 2026-11-02T01:04:34.124Z
-modified: 2026-11-02T01:05:32.164Z
+modified: 2026-11-07T15:29:56.892Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">la</span>
 
 * **Pronunciation (IPA):** la
 * **Part of Speech:** verb

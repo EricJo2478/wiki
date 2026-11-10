@@ -2,14 +2,14 @@
 publish: true
 title: wuto
 created: 2026-11-02T03:03:44.708Z
-modified: 2026-11-02T03:04:21.358Z
+modified: 2026-11-07T15:35:11.126Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wuto</span>
 
 * **Pronunciation (IPA):** wu.to
 * **Part of Speech:** noun

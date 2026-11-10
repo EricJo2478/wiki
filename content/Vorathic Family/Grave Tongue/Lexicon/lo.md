@@ -2,14 +2,14 @@
 publish: true
 title: lo
 created: 2026-11-02T01:05:54.414Z
-modified: 2026-11-02T01:07:48.038Z
+modified: 2026-11-07T15:30:02.889Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">lo</span>
 
 * **Pronunciation (IPA):** lo
 * **Part of Speech:** pronoun

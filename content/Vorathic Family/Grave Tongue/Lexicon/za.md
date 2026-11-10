@@ -2,14 +2,14 @@
 publish: true
 title: za
 created: 2026-11-02T03:09:10.987Z
-modified: 2026-11-02T03:09:58.996Z
+modified: 2026-11-07T15:35:54.018Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">za</span>
 
 * **Pronunciation (IPA):** za
 * **Part of Speech:** postposition,verb

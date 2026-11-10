@@ -2,14 +2,14 @@
 publish: true
 title: lö
 created: 2026-11-02T01:07:56.220Z
-modified: 2026-11-02T01:09:35.958Z
+modified: 2026-11-07T15:30:19.120Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">lO</span>
 
 * **Pronunciation (IPA):** lɔ
 * **Part of Speech:** pronoun

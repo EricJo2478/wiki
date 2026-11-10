@@ -2,20 +2,19 @@
 publish: true
 title: hü
 created: 2026-10-25T14:29:38.291Z
-modified: 2026-10-26T02:09:28.382Z
+modified: 2026-11-10T14:26:22.620Z
 tags:
   - lexicon
   - word
-  - WIP
 ---
 
 - **Pronunciation (IPA):** hy
-- **Part of Speech:** noun
+- **Part of Speech:** postposition
 - **Root:** hü
 
 ### Definitions
 
--
+- (to mark a noun as being related to nature or abstract concepts.)
 
 ---
 
@@ -30,7 +29,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No other words share this root._

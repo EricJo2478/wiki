@@ -2,14 +2,14 @@
 publish: true
 title: wad
 created: 2026-11-02T02:50:22.135Z
-modified: 2026-11-02T02:51:09.320Z
+modified: 2026-11-07T15:34:01.723Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wad</span>
 
 * **Pronunciation (IPA):** wad
 * **Part of Speech:** noun

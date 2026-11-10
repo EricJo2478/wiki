@@ -2,14 +2,14 @@
 publish: true
 title: ngo
 created: 2026-11-02T01:13:04.971Z
-modified: 2026-11-02T01:13:57.459Z
+modified: 2026-11-07T15:30:47.597Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">No</span>
 
 * **Pronunciation (IPA):** ŋo
 * **Part of Speech:** adverb,demonstrative

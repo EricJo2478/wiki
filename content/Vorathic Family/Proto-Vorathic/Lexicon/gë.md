@@ -2,11 +2,10 @@
 publish: true
 title: gë
 created: 2026-10-26T02:02:13.282Z
-modified: 2026-10-26T02:03:00.175Z
+modified: 2026-11-10T14:24:06.871Z
 tags:
   - lexicon
   - word
-  - WIP
 ---
 
 - **Pronunciation (IPA):** gə
@@ -15,7 +14,7 @@ tags:
 
 ### Definitions
 
--
+- (to mark a noun as being related to demons or general animate beings.)
 
 ---
 
@@ -30,7 +29,8 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+|Word1|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tegë\|tegë]]|- noun|- demon|

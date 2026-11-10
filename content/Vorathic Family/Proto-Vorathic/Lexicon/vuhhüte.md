@@ -2,7 +2,7 @@
 publish: true
 title: vuhhüte
 created: 2026-10-25T16:36:24.069Z
-modified: 2026-10-26T14:35:31.229Z
+modified: 2026-11-10T14:48:00.413Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** vu.ɦy.te
 - **Part of Speech:** noun
-- **Root:** [[Vorathic Family/Vorathic/Lexicon/vu.md|vu]]
+- **Root:** [[Vorathic Family/Vorathic/Lexicon/vu.md|vu]],[[Vorathic Family/Proto-Vorathic/Lexicon/hhüte.md|hhüte]]
 
 ### Definitions
 
@@ -21,7 +21,7 @@ tags:
 
 ## Etymology & Evolution
 
-- **Derivational Process:** classifier
+- **Derivational Process:** compound
 - **Proto-Form:**
 - **Historical Shift Notes:** Formed from a classifier by giving [[Vorathic Family/Proto-Vorathic/Lexicon/vu|child]] the [[hhü|undead]] classification.
 
@@ -32,6 +32,7 @@ tags:
 
 ## Related Words (same root)
 
-| File                                                 | POS                    | Meaning                 |
-| ---------------------------------------------------- | ---------------------- | ----------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/vu.md\|vu]] | <ul><li>noun</li></ul> | <ul><li>child</li></ul> |
+|Word2|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hhüte\|hhüte]]|- noun|- undead|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/vu\|vu]]|- noun|- child|

@@ -2,14 +2,14 @@
 publish: true
 title: k'u
 created: 2026-11-02T01:03:31.333Z
-modified: 2026-11-02T01:04:20.425Z
+modified: 2026-11-07T15:29:49.709Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Ku</span>
 
 * **Pronunciation (IPA):** k'u
 * **Part of Speech:** noun

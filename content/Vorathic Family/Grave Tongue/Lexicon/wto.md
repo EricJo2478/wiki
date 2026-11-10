@@ -2,14 +2,14 @@
 publish: true
 title: wto
 created: 2026-11-02T02:56:41.592Z
-modified: 2026-11-02T02:57:25.030Z
+modified: 2026-11-07T15:34:32.272Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wto</span>
 
 * **Pronunciation (IPA):** wto
 * **Part of Speech:** noun

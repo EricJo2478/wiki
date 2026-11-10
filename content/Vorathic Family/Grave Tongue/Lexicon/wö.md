@@ -2,14 +2,14 @@
 publish: true
 title: wö
 created: 2026-11-02T02:48:45.816Z
-modified: 2026-11-02T02:50:08.066Z
+modified: 2026-11-07T15:34:20.731Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wO</span>
 
 * **Pronunciation (IPA):** wɔ
 * **Part of Speech:** pronoun

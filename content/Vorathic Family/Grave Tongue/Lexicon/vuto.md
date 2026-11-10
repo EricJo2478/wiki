@@ -2,14 +2,14 @@
 publish: true
 title: vuto
 created: 2026-11-02T02:46:10.837Z
-modified: 2026-11-02T02:46:54.566Z
+modified: 2026-11-07T15:33:53.774Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">vuto</span>
 
 * **Pronunciation (IPA):** vu.to
 * **Part of Speech:** noun

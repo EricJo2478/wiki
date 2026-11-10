@@ -2,14 +2,14 @@
 publish: true
 title: vo
 created: 2026-11-02T02:39:41.677Z
-modified: 2026-11-02T02:40:21.459Z
+modified: 2026-11-07T15:33:45.496Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">vo</span>
 
 * **Pronunciation (IPA):** vo
 * **Part of Speech:** verb

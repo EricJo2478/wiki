@@ -2,14 +2,14 @@
 publish: true
 title: nga
 created: 2026-11-02T01:12:17.121Z
-modified: 2026-11-02T01:12:56.829Z
+modified: 2026-11-07T15:30:42.380Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Na</span>
 
 * **Pronunciation (IPA):** ŋa
 * **Part of Speech:** noun

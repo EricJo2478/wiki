@@ -2,14 +2,14 @@
 publish: true
 title: zwa
 created: 2026-11-02T03:11:01.119Z
-modified: 2026-11-02T03:11:34.261Z
+modified: 2026-11-07T15:36:27.134Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">zwa</span>
 
 * **Pronunciation (IPA):** zwa
 * **Part of Speech:** conjunction

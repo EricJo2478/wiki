@@ -2,7 +2,7 @@
 publish: true
 title: tàghhë
 created: 2026-10-25T16:17:26.199Z
-modified: 2026-10-26T14:35:17.483Z
+modified: 2026-11-10T14:37:47.219Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** tɑg.ɦə
 - **Part of Speech:** noun
-- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/hhë.md|hhë]]
+- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/hhë.md|hhë]],[[Vorathic Family/Proto-Vorathic/Lexicon/tàg.md|tàg]]
 
 ### Definitions
 
@@ -30,8 +30,9 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                   | POS                    | Meaning                   |
-| ------------------------------------------------------ | ---------------------- | ------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hhë.md\|hhë]] | <ul><li>noun</li></ul> | <ul><li>essence</li></ul> |
+|Word2|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hhë\|hhë]]|- noun|- essence|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tàg\|tàg]]|- verb|- to be strong|

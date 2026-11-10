@@ -2,7 +2,7 @@
 publish: true
 title: yaeh
 created: 2026-10-28T03:26:04.868Z
-modified: 2026-10-28T03:26:56.912Z
+modified: 2026-11-10T14:50:21.100Z
 tags:
   - lexicon
   - word
@@ -32,5 +32,4 @@ tags:
 
 ## Related Words (same root)
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No related words found._

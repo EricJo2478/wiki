@@ -2,14 +2,14 @@
 publish: true
 title: wutsuko
 created: 2026-11-02T03:04:37.786Z
-modified: 2026-11-02T03:05:24.699Z
+modified: 2026-11-07T15:35:19.437Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wuSuko</span>
 
 * **Pronunciation (IPA):** wu.t͡su.ko
 * **Part of Speech:** adverb

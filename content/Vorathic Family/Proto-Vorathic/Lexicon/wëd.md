@@ -2,7 +2,7 @@
 publish: true
 title: wëd
 created: 2026-10-25T14:27:17.647Z
-modified: 2026-10-25T21:00:31.823Z
+modified: 2026-11-10T14:49:33.646Z
 tags:
   - lexicon
   - word
@@ -30,7 +30,6 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File | POS | Meaning |
-| ---- | --- | ------- |
+_No related words found._

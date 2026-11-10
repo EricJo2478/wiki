@@ -6,7 +6,7 @@ aliases:
   - Adjective
 title: Proto-Vorathic Adjectives
 created: 2026-10-23T18:13:34.450Z
-modified: 2026-10-25T17:04:26.169Z
+modified: 2026-11-08T17:48:57.375Z
 tags:
   - grammar
   - adjective
@@ -17,8 +17,7 @@ tags:
 
 ### Placement
 
-An adjective can be used as a prenominal modifier. To do so they appear in a [[Vorathic Family/Proto-Vorathic/Grammar/Relative Clauses|relative clause]]. See an example bellow:
-_**Note the word forms in this example are not real. They are made up and should be replaced once word forms are finalized**_
+An adjective can be used as a prenominal modifier. To do so they appear in a [[Vorathic Family/Proto-Vorathic/Grammar/Relative Clauses|relative clause]]. See an example below:
 
 <table class="gloss">
   <tr>
@@ -64,4 +63,3 @@ The comparison is done by saying that the Z kneels to the X's Y. See the example
   </tr>
 </table>
 <p class="gloss-ft">“The demon is stronger than the fairy”</p>
-_**Note these word forms are not real, made up for the example**_

@@ -2,20 +2,24 @@
 publish: true
 title: hhüwï
 created: 2026-10-25T16:24:34.558Z
-modified: 2026-10-25T19:52:31.027Z
+modified: 2026-11-10T14:26:02.963Z
 tags:
   - lexicon
   - word
-  - WIP
 ---
 
 - **Pronunciation (IPA):** ɦy.wɨ
 - **Part of Speech:** noun
-- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/wï.md|wï]]
+- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/wï.md|wï]],[[Vorathic Family/Proto-Vorathic/Lexicon/hhü.md|hhü]]
 
 ### Definitions
 
--
+- (n.VI) anything that is kept secret or remains unexplained or unknown.
+- (n.VI) any affair, thing, or person that presents features or qualities so obscure as to arouse curiosity or speculation.
+- (n.VI) obscure, puzzling, or mysterious quality or character.
+- (n.VI) any truth that is unknowable
+- (n.VI) an unknown person, quantity, or thing
+- (pro) (used interrogatively as a subject or object to request for specific information)
 
 ---
 
@@ -30,9 +34,12 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                       | POS                                    | Meaning                                                      |
-| ---------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/wï.md\|wï]]       | <ul><li>noun</li><li>pronoun</li></ul> | <ul><li>thing</li><li>they</li><li>them</li><li>it</li></ul> |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/ngüwï.md\|ngüwï]] | <ul><li>adverb</li></ul>               | <ul><li>which</li></ul>                                      |
+|Word5|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hehhü\|hehhü]]|- verb|- balance|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hhü\|hhü]]|- verb|- darkness<br>- dark|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hhüte\|hhüte]]|- noun|- undead|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngüwï\|ngüwï]]|- adverb|- which|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/wï\|wï]]|- noun<br>- pronoun|- thing<br>- they<br>- them<br>- it|

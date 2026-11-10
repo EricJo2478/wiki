@@ -2,7 +2,7 @@
 publish: true
 title: ngüwï
 created: 2026-10-25T16:34:55.634Z
-modified: 2026-10-25T16:35:54.414Z
+modified: 2026-11-10T14:31:12.631Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** ŋy.wɨ
 - **Part of Speech:** adverb
-- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/wï.md|wï]]
+- **Root:** [[Vorathic Family/Proto-Vorathic/Lexicon/wï.md|wï]],[[Vorathic Family/Proto-Vorathic/Lexicon/ngü.md|ngü]]
 
 ### Definitions
 
@@ -30,9 +30,12 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                       | POS                                    | Meaning                                                            |
-| ---------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------ |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/wï.md\|wï]]       | <ul><li>noun</li><li>pronoun</li></ul> | <ul><li>thing</li><li>they</li><li>them</li><li>it</li></ul>       |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hhüwï.md\|hhüwï]] | <ul><li>noun</li></ul>                 | <ul><li>mystery</li><li>unknown</li><li>what</li><li>who</li></ul> |
+|Word5|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hhüwï\|hhüwï]]|- noun|- mystery<br>- what<br>- who|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngü\|ngü]]|-|- (interrogative)|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngükï\|ngükï]]|- adverb|- how|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngüpàg\|ngüpàg]]|- adverb|- why|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/wï\|wï]]|- noun<br>- pronoun|- thing<br>- they<br>- them<br>- it|

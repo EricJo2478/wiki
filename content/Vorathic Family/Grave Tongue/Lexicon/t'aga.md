@@ -2,14 +2,14 @@
 publish: true
 title: t'aga
 created: 2026-11-02T02:28:18.505Z
-modified: 2026-11-02T02:29:18.110Z
+modified: 2026-11-07T15:32:36.962Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">Taga</span>
 
 * **Pronunciation (IPA):** t'a.ga
 * **Part of Speech:** noun

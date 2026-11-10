@@ -2,7 +2,7 @@
 publish: true
 title: pàg
 created: 2026-10-25T14:46:29.082Z
-modified: 2026-10-25T15:01:20.563Z
+modified: 2026-11-10T14:33:42.560Z
 tags:
   - lexicon
   - word
@@ -30,8 +30,9 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                         | POS                      | Meaning               |
-| ------------------------------------------------------------ | ------------------------ | --------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/ngüpàg.md\|ngüpàg]] | <ul><li>adverb</li></ul> | <ul><li>why</li></ul> |
+|Word2|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngüpàg\|ngüpàg]]|- adverb|- why|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tehehhüfàpàg\|tehehhüfàpàg]]|- noun|- soulmate|

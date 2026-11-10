@@ -36,5 +36,5 @@ tags:
 
 | File                                              | POS                       | Meaning                                  |
 | ------------------------------------------------- | ------------------------- | ---------------------------------------- |
-| [[Vorathic Family/Abyssal/Lexicon/bë'ö.md\|bë'ö]] | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |
 | [[Vorathic Family/Abyssal/Lexicon/bë.md\|bë]]     | <ul><li>noun</li></ul>    | <ul><li>essence</li><li>energy</li></ul> |
+| [[Vorathic Family/Abyssal/Lexicon/bë'ö.md\|bë'ö]] | <ul><li>pronoun</li></ul> | <ul><li>you</li></ul>                    |

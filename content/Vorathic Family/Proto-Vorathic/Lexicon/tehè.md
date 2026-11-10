@@ -2,7 +2,7 @@
 publish: true
 title: tehè
 created: 2026-10-25T16:44:54.604Z
-modified: 2026-10-29T03:49:46.050Z
+modified: 2026-11-10T14:39:49.600Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** te.hɛ
 - **Part of Speech:** noun
-- **Root:** [[Vorathic Family/Infernal/Lexicon/te.md|te]]
+- **Root:** [[Vorathic Family/Infernal/Lexicon/te.md|te]],[[Vorathic Family/Proto-Vorathic/Lexicon/hè.md|hè]]
 
 ### Definitions
 
@@ -30,10 +30,14 @@ tags:
 > **\[Sample sentence]**
 > _"\[Translation]"_
 
-## Related Words (same root)
+## Related Words
 
-| File                                                       | POS                    | Meaning                  |
-| ---------------------------------------------------------- | ---------------------- | ------------------------ |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/tegë.md\|tegë]]   | <ul><li>noun</li></ul> | <ul><li>demon</li></ul>  |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/te.md\|te]]       | <ul><li>noun</li></ul> | <ul><li>being</li></ul>  |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hhüte.md\|hhüte]] | <ul><li>noun</li></ul> | <ul><li>undead</li></ul> |
+|Word7|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hè\|hè]]|- postposition|- (class IV)|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hete\|hete]]|- noun|- fairy|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hhüte\|hhüte]]|- noun|- undead|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/te\|te]]|- noun|- being|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tegë\|tegë]]|- noun|- demon|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tehehhüfàpàg\|tehehhüfàpàg]]|- noun|- soulmate|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/zaete\|zaete]]|- postposition<br>- conjunction|- against<br>- but|

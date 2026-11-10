@@ -2,7 +2,7 @@
 publish: true
 title: tehehhüfàpàg
 created: 2026-10-25T15:18:42.605Z
-modified: 2026-10-25T20:29:57.952Z
+modified: 2026-11-10T14:43:42.510Z
 tags:
   - lexicon
   - word
@@ -11,7 +11,7 @@ tags:
 
 - **Pronunciation (IPA):** te.he.ɦy.fɑ.pɑg
 - **Part of Speech:** noun
-- **Root:** hehhü
+- **Root:** hehhü,te,fà,pàg
 
 ### Definitions
 
@@ -32,6 +32,15 @@ tags:
 
 ## Related Words (same root)
 
-| File                                                       | POS                    | Meaning                   |
-| ---------------------------------------------------------- | ---------------------- | ------------------------- |
-| [[Vorathic Family/Proto-Vorathic/Lexicon/hehhü.md\|hehhü]] | <ul><li>verb</li></ul> | <ul><li>balance</li></ul> |
+|Word10|POS|Meaning|
+|---|---|---|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/fà\|fà]]|- noun<br>- postposition|- belly<br>- (illative case)|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hehhü\|hehhü]]|- verb|- balance|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hete\|hete]]|- noun|- fairy|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/hhüte\|hhüte]]|- noun|- undead|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/ngüpàg\|ngüpàg]]|- adverb|- why|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/pàg\|pàg]]|- verb|- to cause|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/te\|te]]|- noun|- being|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tegë\|tegë]]|- noun|- demon|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/tehè\|tehè]]|- noun|- human<br>- mortal|
+|[[Vorathic Family/Proto-Vorathic/Lexicon/zaete\|zaete]]|- postposition<br>- conjunction|- against<br>- but|

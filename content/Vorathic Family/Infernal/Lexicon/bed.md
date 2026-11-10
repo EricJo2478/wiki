@@ -55,5 +55,5 @@ _Note: This declention is only used for the <span class="infernal">bod</span>  f
 | [[Vorathic Family/Infernal/Lexicon/bovo.md\|bovo]]   | <ul><li>noun</li></ul>              | <ul><li>what</li><li>who</li></ul>         |
 | [[Vorathic Family/Infernal/Lexicon/bo.md\|bo]]       | <ul><li>noun</li><li>verb</li></ul> | <ul><li>to be dark</li><li>thing</li></ul> |
 | [[Vorathic Family/Infernal/Lexicon/bge.md\|bge]]     | <ul><li>demonstrative</li></ul>     | <ul><li>what</li><li>who</li></ul>         |
-| [[Vorathic Family/Infernal/Lexicon/be'a.md\|be'a]]   | <ul><li>pronoun</li></ul>           | <ul><li>you</li></ul>                      |
 | [[Vorathic Family/Infernal/Lexicon/be.md\|be]]       | <ul><li>noun</li></ul>              | <ul><li>essence</li><li>energy</li></ul>   |
+| [[Vorathic Family/Infernal/Lexicon/be'a.md\|be'a]]   | <ul><li>pronoun</li></ul>           | <ul><li>you</li></ul>                      |

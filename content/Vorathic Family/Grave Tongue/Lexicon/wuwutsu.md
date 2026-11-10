@@ -2,14 +2,14 @@
 publish: true
 title: wuwutsu
 created: 2026-11-02T03:08:23.743Z
-modified: 2026-11-02T03:08:58.454Z
+modified: 2026-11-07T15:35:45.667Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">wuwuSu</span>
 
 * **Pronunciation (IPA):** wu.wu.t͡su
 * **Part of Speech:** adverb

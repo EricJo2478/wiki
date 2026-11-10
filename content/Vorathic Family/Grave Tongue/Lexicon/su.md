@@ -2,14 +2,14 @@
 publish: true
 title: su
 created: 2026-11-02T01:23:30.518Z
-modified: 2026-11-02T01:24:17.803Z
+modified: 2026-11-07T15:32:06.891Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">su</span>
 
 * **Pronunciation (IPA):** su
 * **Part of Speech:** verb

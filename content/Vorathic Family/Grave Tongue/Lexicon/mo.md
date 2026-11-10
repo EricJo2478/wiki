@@ -2,14 +2,14 @@
 publish: true
 title: mo
 created: 2026-11-02T01:10:41.474Z
-modified: 2026-11-02T01:12:03.833Z
+modified: 2026-11-07T15:30:37.361Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">mo</span>
 
 * **Pronunciation (IPA):** mo
 * **Part of Speech:** verb

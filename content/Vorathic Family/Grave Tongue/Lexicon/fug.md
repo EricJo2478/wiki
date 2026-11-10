@@ -2,14 +2,14 @@
 publish: true
 title: fug
 created: 2026-11-02T01:00:58.214Z
-modified: 2026-11-02T01:01:50.514Z
+modified: 2026-11-07T15:29:32.877Z
 tags:
   - lexicon
   - word
   - WIP
 ---
 
-- **Orthography:** <span class="undead"></span>
+- **Orthography:** <span class="undead">fug</span>
 
 * **Pronunciation (IPA):** fug
 * **Part of Speech:** verb
